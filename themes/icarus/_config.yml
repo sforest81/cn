@@ -83,7 +83,7 @@ navbar:
         国际会议报告: /conferences
         课题组: /group
         科普或采访: /service
-        联系方式: /concat
+        联系方式: /contact
         English: https://sforest81.github.io/en
     # Links to be shown on the right of the navigation bar
     links:
@@ -222,10 +222,10 @@ widgets:
         links:
             最新动态: '/cn'
             学术论文: '/cn/publications'
-            国际会议报告: 'cn/conferences'
+            国际会议报告: '/cn/conferences'
             课题组: '/cn/group'
             科普或采访: '/cn/service'
-            联系方式: '/cn/concat'
+            联系方式: '/cn/contact'
             English: '/en'
     # Categories widget configurations
     # -
