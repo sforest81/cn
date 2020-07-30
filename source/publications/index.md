@@ -22,13 +22,11 @@ date: 2020-06-21 18:52:29
 
 83\. Xu Peiqiang, **Lin Wang\***, Wen Chen, Guosen Chen, and In-Sik Kang, 2020: Intraseasonal variations of the British-Baikal Corridor pattern. *Journal of Climate*, **33**(6), 2183-2200, doi:10.1175/JCLI-D-19-0458.1.
 
-
-82\. Xu Peiqiang, **Lin Wang\***, Yuyun Liu, Wen Chen, and Ping Huang, 2020: The record-breaking heat wave of June 2019 in Central Europe, *Atmospheric Science Letters*, **21**(4), e964, doi:10.1002/asl.964
+82\. Xu Peiqiang, **Lin Wang\***, Yuyun Liu, Wen Chen, and Ping Huang, 2020: The record-breaking heat wave of June 2019 in Central Europe, *Atmospheric Science Letters*, **21**(4), e964, doi:10.1002/asl.964.
 
 81\. 韦玮, **王林\***, 陈权亮, 刘毓赟, 李珍, 2020: 我国前冬和后冬的划分及其气温的年际变异. *大气科学*, **44**(1), 122-137. Wei Wei, **Lin Wang\***, Quanliang Chen, Yuyun Liu, and Zhen Li, 2020: Definition of early and late winter and the associated interannual variations of surface air temperature in China, *Chinese Journal of Atmospheric Sciences*, **44**(1), 122-137
 
 80\. Wang Lei\*, and **Lin Wang**, 2020: Impact of the East Asian winter monsoon on tropical cyclone genesis frequency over the South China Sea. *International Journal of Climatology*, **40**(2), 1328-1334, doi:10.1002/joc.6243.
-
 
 79\. Hardiman Steven\*, Adam Scaife, Nick Dunstone, and **Lin Wang**, 2020: Subseasonal vacillations in the winter stratosphere, *Geophysical Research Letters*, **47**(9), e2020GL08776, doi: 10.1029/2020GL087766
 
@@ -44,7 +42,6 @@ date: 2020-06-21 18:52:29
 75\.  **Wang Lin\***, Anyu Deng, and Ronghui Huang, 2019: Wintertime internal climate variability over Eurasia in the CESM large ensemble. *Climate Dynamics*, **52**(11), 6735-6748, doi:10.1007/s00382-018-4542-3.
 
 74\.  Gong Hainan, **Lin Wang\***, Wen Chen, Renguang Wu, Wen Zhou, Lin Liu, Debashis Nath, and Xiaoqing Lan, 2019: Diversity of the wintertime Arctic Oscillation pattern among CMIP5 models: Role of the stratospheric polar vortex. *Journal of Climate*, **32**(16), 5235-5250, doi:10.1175/JCLI-D-18-0603.1.
-
 
 73\.  Gong Hainan, **Lin Wang\***, Wen Chen, and Renguang Wu, 2019: Time-varying contribution of internal dynamics to wintertime land temperature trends over the Northern Hemisphere. *Geophysical Research Letters*, **46**, 14674-14682, doi:10.1029/2019GL086220
 
@@ -113,7 +110,6 @@ date: 2020-06-21 18:52:29
 44\.  Nath Reshmita, Xuefeng Cui\*, Debashis Nath, Hans F. Graf, Wen Chen, **Lin Wang**, Hainan Gong, and Qian Li, 2017: CMIP5 multimodel projections of extreme weather events in the humid subtropical Gangetic Plain region of India. *Earth's Future*, **5**(2), 224-239, doi:10.1002/2016EF000482.
 
 
-
 **2016:**
 
 43\.  **Wang Lin\***, and Mong-Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific,51-61,10.1142/9789813200913_0005.
@@ -127,7 +123,6 @@ date: 2020-06-21 18:52:29
 39\.  Nakamura Hisashi\*, Kazuaki Nishii, **Lin Wang**, Yvan J. Orsolini, and Koutarou Takaya, 2016: Cold-air outbreaks over East Asia associated with blocking highs: mechanisms and their interaction with the polar stratosphere. *Dynamics and Predictability of Large-Scale, High-Impact Weather and Climate Events*, Hans Volkert, Jianping Li, Richard Grotjahn, and Richard Swinbank, Eds., Cambridge UniversityPress, 225-236, doi: 10.1017/CBO9781107775541.020.
 
 38\.  Nath Debashis, Wen Chen\*, Hans- F. Graf, Xiaoqing Lan, Hainan Gong, Reshmita Nath, Kaiming Hu, and **Lin Wang**, 2016: Subtropical potential vorticity intrusion drives increasing tropospheric ozone over the tropical central Pacific. *Scientific Reports*, **6**, 21370, doi:10.1038/srep21370.
-
 
 
 **Before 2016:**
