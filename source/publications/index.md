@@ -7,11 +7,11 @@ date: 2020-06-21 18:52:29
 
 88\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: The Southern Hemisphere sudden stratospheric warming of September 2019, Science Bulletin, in press
 
-87\. Liu Shizuo, Qigang Wu*, **Lin Wang**, Steven R. Schroeder, Yang Zhang, Yonghong Yao, and Haibo Hu, 2019: Modeled climate responses to realistic extremes of Northern Hemisphere spring and summer snow anomalies, Journal of Climate, submitted
+87\. Liu Shizuo, Qigang Wu\*, **Lin Wang**, Steven R. Schroeder, Yang Zhang, Yonghong Yao, and Haibo Hu, 2019: Modeled climate responses to realistic extremes of Northern Hemisphere spring and summer snow anomalies, Journal of Climate, submitted
 
-86\. Xu Guangzhi*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: A comparison of Northern Hemisphere atmospheric rivers detected by a new image-processing based method and magnitude-thresholding based methods, Atmosphere, submitted
+86\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: A comparison of Northern Hemisphere atmospheric rivers detected by a new image-processing based method and magnitude-thresholding based methods, Atmosphere, submitted
 
-85\. Zhao Wei, Wen Chen, Shangfeng Chen*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, Theoretical and Applied Climatology, doi: 10.1007/s00704-020-03102-w, in press
+85\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, Theoretical and Applied Climatology, doi: 10.1007/s00704-020-03102-w, in press
 
 84\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road Pattern on the South China Sea Summer Monsoon Withdrawal, International Journal of Climatology, doi: 10.1002/joc.6585, in press
 
@@ -27,7 +27,7 @@ date: 2020-06-21 18:52:29
 
 81\. 韦玮, **王林***, 陈权亮, 刘毓赟, 李珍, 2020: 我国前冬和后冬的划分及其气温的年际变异. 大气科学, 44(1), 122-137. Wei Wei, **Lin Wang\***, Quanliang Chen, Yuyun Liu, and Zhen Li, 2020: Definition of early and late winter and the associated interannual variations of surface air temperature in China, Chinese Journal of Atmospheric Sciences, 44(1), 122-137
 
-80\. Wang Lei*, and **Lin Wang**, 2020: Impact of the East Asian winter monsoon on tropical cyclone genesis frequency over the South China Sea. International Journal of Climatology, 40(2), 1328-1334, doi:10.1002/joc.6243.
+80\. Wang Lei\*, and **Lin Wang**, 2020: Impact of the East Asian winter monsoon on tropical cyclone genesis frequency over the South China Sea. International Journal of Climatology, 40(2), 1328-1334, doi:10.1002/joc.6243.
 
 
 79\. Hardiman Steven*, Adam Scaife, Nick Dunstone, and **Lin Wang**, 2020: Subseasonal vacillations in the winter stratosphere, Geophysical Research Letters, 47(9), e2020GL08776, doi: 10.1029/2020GL087766
