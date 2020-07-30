@@ -5,15 +5,15 @@ date: 2020-06-21 18:52:29
 
 **In press:**
 
-89\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: The Southern Hemisphere sudden stratospheric warming of September 2019, *Science Bulletin*, doi: 10.1016/j.scib.2020.06.028, in press
+89\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: The Southern Hemisphere sudden stratospheric warming of September 2019, *Science Bulletin*, doi:10.1016/j.scib.2020.06.028, in press
 
 88\. Liu Shizuo, Qigang Wu\*, **Lin Wang**, Steven R. Schroeder, Yang Zhang, Yonghong Yao, and Haibo Hu, 2019: Modeled climate responses to realistic extremes of Northern Hemisphere spring and summer snow anomalies, *Journal of Climate*, submitted
 
 87\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: Image-processing based atmospheric river tracking method version 1 (IPART-1), *Geoscientific Model Development*, submitted
 
-86\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, *Theoretical and Applied Climatology*, doi: 10.1007/s00704-020-03102-w, in press
+86\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, *Theoretical and Applied Climatology*, doi:10.1007/s00704-020-03102-w, in press
 
-85\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road pattern on the South China Sea summer monsoon withdrawal, *International Journal of Climatology*, doi: 10.1002/joc.6585, in press
+85\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road pattern on the South China Sea summer monsoon withdrawal, *International Journal of Climatology*, doi:10.1002/joc.6585, in press
 
 
 
@@ -28,9 +28,9 @@ date: 2020-06-21 18:52:29
 
 81\. Wang Lei\*, and **Lin Wang**, 2020: Impact of the East Asian winter monsoon on tropical cyclone genesis frequency over the South China Sea. *International Journal of Climatology*, **40**(2), 1328-1334, doi:10.1002/joc.6243.
 
-80\. Hardiman Steven\*, Adam Scaife, Nick Dunstone, and **Lin Wang**, 2020: Subseasonal vacillations in the winter stratosphere, *Geophysical Research Letters*, **47**(9), e2020GL08776, doi: 10.1029/2020GL087766
+80\. Hardiman Steven\*, Adam Scaife, Nick Dunstone, and **Lin Wang**, 2020: Subseasonal vacillations in the winter stratosphere, *Geophysical Research Letters*, **47**(9), e2020GL08776, doi:10.1029/2020GL087766
 
-79\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: A comparison of Northern Hemisphere atmospheric rivers detected by a new image-processing based method and magnitude-thresholding based methods, *Atmosphere*, **11**(6), 628, doi: 10.3390/atmos11060628
+79\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: A comparison of Northern Hemisphere atmospheric rivers detected by a new image-processing based method and magnitude-thresholding based methods, *Atmosphere*, **11**(6), 628, doi:10.3390/atmos11060628
 
 78\. Wang Sai, Debashis Nath\*, Wen Chen, and **Lin Wang**, 2020: Changes in winter stationary wave activity during weak mid-latitude and arctic thermal contrast period. *InternationalJournal of Climatology*, **40**(3), 1755-1768, doi:10.1002/joc.6299.
 
@@ -169,13 +169,13 @@ date: 2020-06-21 18:52:29
 
 18\.  Barriopedro David\*, Celia M. Gouveia, Ricardo M. Trigo, and **Lin Wang**, 2012: The 2009/10 drought in China: Possible causes and impacts on vegetation. *Journal of Hydrometeorology*, **13**(4), 1251-1267, doi:10.1175/JHM-D-11-074.1.
 
-17\.  陈国森\*, **王林**, 陈文, 2012: 大气Rossby长波理论的建立和发展. *气象科技进展*, **2**(6),50-54. Chen Guosen\*, **Lin Wang**, and Wen Chen, 2012: On the establishment and development of the atmospheric Rossby wave theory. *Advances in Meteorological Science and Techonology*, **2**(6), 50-54
+17\.  陈国森\*, **王林**, 陈文, 2012: 大气Rossby长波理论的建立和发展. *气象科技进展*, **2**(6), 50-54. Chen Guosen\*, **Lin Wang**, and Wen Chen, 2012: On the establishment and development of the atmospheric Rossby wave theory. *Advances in Meteorological Science and Techonology*, **2**(6), 50-54
 
 16\.  黄荣辉\*, 刘永, **王林**, 王磊, 2012: 2009年秋-2010年春我国西南地区严重干旱的成因分析. *大气科学*, **36**(3), 443-457. Huang Ronghui\*, Yong Liu, **Lin Wang**, and Lei Wang, 2012: Analysis of causes of severe drought occurred in Southwest China from the fall of 2009 to the spring of 2010. *Chinese Journal of Atmospheric Sciences*, **36**(3), 443-457
 
-15\.  **王林\***, 陈文, 冯瑞权, 梁嘉静, 2011: 北太平洋涛动的季节演变及其与我国冬春气候异常的联系. *大气科学*, **35**(3), 393-402. **Wang Lin\***, We Chen, Soikun Fong, and Kacheng Leong, 2011: The seasonal march of the North Pacific Oscillation and its association with the interannual variations of China’s climate in boreal winter and spring. *Chinese Journal of Atmospheric Sciences*, **35**(3), 393-402.
+15\.  **王林\***, 陈文, 冯瑞权, 梁嘉静, 2011: 北太平洋涛动的季节演变及其与我国冬春气候异常的联系. *大气科学*, **35**(3), 393-402. **Wang Lin\***, Wen Chen, Soikun Fong, and Kacheng Leong, 2011: The seasonal march of the North Pacific Oscillation and its association with the interannual variations of China’s climate in boreal winter and spring. *Chinese Journal of Atmospheric Sciences*, **35**(3), 393-402.
 
-14\.  **王林\***, 冯娟, 2011: 我国冬季降水年际变化的主模态分析. *大气科学*, **35**(6), 1105-1116. **Wang Lin\***, and Juan Feng, 2011: Two major modes of the Wintertime Precipitation over China. *Chinese Journal of Atmospheric Sciences*, **35**(6), 1105-1116.
+14\.  **王林\***, 冯娟, 2011: 我国冬季降水年际变化的主模态分析. *大气科学*, **35**(6), 1105-1116. **Wang Lin\***, and Juan Feng, 2011: Two major modes of the wintertime precipitation over China. *Chinese Journal of Atmospheric Sciences*, **35**(6), 1105-1116.
 
 13\.  马音, 陈文\*, **王林**, 2011: 我国夏季淮河和江南梅雨期降水异常年际变化的气候背景及其比较. *气象学报*, **69**(2), 334-343. Ma Yin, Wen Chen\*, and **Lin Wang**, 2011: A comparative study of the interannual variation of summer rainfall anomolies between the Huaihe Meiyu season and the Jiangnan Meiyu season and their climate background. *Acta Meteorologica Sinica*, **69**(2), 334-343.
 
@@ -195,7 +195,7 @@ date: 2020-06-21 18:52:29
 
 5\.  Chen Wen\*, **Lin Wang**, Yongkang Xue, and Shufen Sun,2009: Variabilities of the spring river runoff system in East China and their relations to precipitation and sea surface temperature. *International Journal of Climatology*, **29**(10), 1381-1394, doi:10.1002/joc.1785.
 
-4\.  康丽华\*, 陈文, **王林**, 陈丽娟, 2009: 我国冬季气温的年际变化及其与大气环流和海温异常的关系. *气候与环境研究*, **14**(1),45-53. Kang Lihua\*, Wen Chen, **Lin Wang**, and Lijuan Chen, 2009: Interannual variations of winter temperature in China and their relations to the atmospheric circulation and sea surface temperature. *Climatic and Environmental Research*, **14**(1), 45-53.
+4\.  康丽华\*, 陈文, **王林**, 陈丽娟, 2009: 我国冬季气温的年际变化及其与大气环流和海温异常的关系. *气候与环境研究*, **14**(1), 45-53. Kang Lihua\*, Wen Chen, **Lin Wang**, and Lijuan Chen, 2009: Interannual variations of winter temperature in China and their relations to the atmospheric circulation and sea surface temperature. *Climatic and Environmental Research*, **14**(1), 45-53.
 
 3\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2008: Interdecadal modulation of PDO on the impact of ENSO on the East Asian winter monsoon. *Geophysical Research Letters*, **35**, L20702, doi:10.1029/2008GL035287.
 
