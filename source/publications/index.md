@@ -88,7 +88,7 @@ date: 2020-06-21 18:52:29
 
 54\.  Gong Hainan, **Lin Wang**, Wen Zhou, Wen Chen\*, Renguang Wu, Lin Liu, Debashis Nath, and Marco Y. T. Leung, 2018: Revisiting the northern mode of East Asian winter monsoon variation and its response to global warming. *Journal of Climate*, **31**(21), 9001-9014, doi:10.1175/JCLI-D-18-0136.1.
 
-53\.  ZhuangYuanhuang\*, Jingyong Zhang, and **Lin Wang**, 2018: Variability of cold season surface air temperature over northeastern China and its linkage with large-scale atmospheric circulations. *Theoretical and Applied Climatology*, **132**(3-4), 1261-1273, doi:10.1007/s00704-017-2166-x.
+53\.  Zhuang Yuanhuang\*, Jingyong Zhang, and **Lin Wang**, 2018: Variability of cold season surface air temperature over northeastern China and its linkage with large-scale atmospheric circulations. *Theoretical and Applied Climatology*, **132**(3-4), 1261-1273, doi:10.1007/s00704-017-2166-x.
 
 52\.  Hu Kaiming, Gang Huang\*, Renguang Wu, and **Lin Wang**,2018: Structure and dynamics of a wave train along the wintertime Asian jet and its impact on East Asian climate. *Climate Dynamics*, **51**(11-12), 4123-4137,doi:10.1007/s00382-017-3674-1.
 
@@ -98,7 +98,7 @@ date: 2020-06-21 18:52:29
 
 49\.  Liu Lin, Jianping Guo\*, Wen Chen, Renguang Wu, **Lin Wang**, Hainan Gong\*, Weitao Xue, and Jian Li, 2018: Large-scale pattern of the diurnal temperature range changes over East Asia and Australia in boreal winter: A perspective of atmospheric circulation. *Journal of Climate*, **31**(7), 2715-2728, doi:10.1175/JCLI-D-17-0608.1.
 
-48\.  黄荣辉\*, 陈文, 魏科, **王林**, 皇甫静亮, 2018: 平流层大气动力学及其与对流层大气相互作用的研究：进展与展望. *大气科学*, **42**(3),463-487. Huang Ronghui\*, Wen Chen, Ke Wei, **Lin Wang**, and Jingliang Huangfu, 2018: Atmospheric dynamics in the stratosphere and its interaction with tropospheric processes: Progress and problems. *Chinese Journal of Atmospheric Sciences*. **42**(3), 463-487
+48\.  黄荣辉\*, 陈文, 魏科, **王林**, 皇甫静亮, 2018: 平流层大气动力学及其与对流层大气相互作用的研究：进展与展望. *大气科学*, **42**(3), 463-487. Huang Ronghui\*, Wen Chen, Ke Wei, **Lin Wang**, and Jingliang Huangfu, 2018: Atmospheric dynamics in the stratosphere and its interaction with tropospheric processes: Progress and problems. *Chinese Journal of Atmospheric Sciences*. **42**(3), 463-487
 
 
 **2017:**
@@ -114,7 +114,7 @@ date: 2020-06-21 18:52:29
 
 **2016:**
 
-43\.  **Wang Lin\***, and Mong-Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific,51-61,10.1142/9789813200913_0005.
+43\.  **Wang Lin\***, and Mong-Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific, 51-61, doi:10.1142/9789813200913_0005.
 
 42\.  **Wang Lin\***, and Wei Gu, 2016: The Eastern China flood of June 2015 and its causes. *Science Bulletin*, **61**(2), 178-184, doi:10.1007/s11434-015-0967-9.
 
@@ -122,7 +122,7 @@ date: 2020-06-21 18:52:29
 
 40\.  Zhang Jia-Ying, **Lin Wang\***, Song Yang, Wen Chen, and Jingliang Huangfu, 2016: Decadal changes of the wintertime tropical tropospheric temperature and their influences on the extratropical climate. *Science Bulletin*, **61**(9), 737-744, doi:10.1007/s11434-016-1054-6.
 
-39\.  Nakamura Hisashi\*, Kazuaki Nishii, **Lin Wang**, Yvan J. Orsolini, and Koutarou Takaya, 2016: Cold-air outbreaks over East Asia associated with blocking highs: mechanisms and their interaction with the polar stratosphere. *Dynamics and Predictability of Large-Scale, High-Impact Weather and Climate Events*, Hans Volkert, Jianping Li, Richard Grotjahn, and Richard Swinbank, Eds., Cambridge UniversityPress, 225-236, doi: 10.1017/CBO9781107775541.020.
+39\.  Nakamura Hisashi\*, Kazuaki Nishii, **Lin Wang**, Yvan J. Orsolini, and Koutarou Takaya, 2016: Cold-air outbreaks over East Asia associated with blocking highs: mechanisms and their interaction with the polar stratosphere. *Dynamics and Predictability of Large-Scale, High-Impact Weather and Climate Events*, Hans Volkert, Jianping Li, Richard Grotjahn, and Richard Swinbank, Eds., Cambridge University Press, 225-236, doi:10.1017/CBO9781107775541.020.
 
 38\.  Nath Debashis, Wen Chen\*, Hans- F. Graf, Xiaoqing Lan, Hainan Gong, Reshmita Nath, Kaiming Hu, and **Lin Wang**, 2016: Subtropical potential vorticity intrusion drives increasing tropospheric ozone over the tropical central Pacific. *Scientific Reports*, **6**, 21370, doi:10.1038/srep21370.
 
@@ -131,7 +131,7 @@ date: 2020-06-21 18:52:29
 
 37\.  **Wang Lin\***, June-Yi Lee, Haishan Chen, Fred Kucharski, Xiaolong Jia, Xiaojing Jia, and Jieshun Zhu, 2015: Weather and climate in monsoon regions. *Advances in Meteorology*, 143731, doi:10.1155/2015/143731.
 
-36\.  Gu Wei, **Lin Wang\***, Weijing Li, Lijuan Chen, and Chengdu Sun, 2015: Influence of the tropical Pacific east-west thermal contrast on the autumn precipitation in South China. *International Journal of Climatology*, **35**(7),  1543-1555, doi:10.1002/joc.4075.
+36\.  Gu Wei, **Lin Wang\***, Weijing Li, Lijuan Chen, and Chengdu Sun, 2015: Influence of the tropical Pacific east-west thermal contrast on the autumn precipitation in South China. *International Journal of Climatology*, **35**(7), 1543-1555, doi:10.1002/joc.4075.
 
 35\.  Gong Hainan, **Lin Wang\***, Wen Chen, Debashis Nath, Gang Huang, and Weichen Tao, 2015: Diverse influences of ENSO on the East Asian-Western Pacific winter climate tied to different ENSO properties in CMIP5 models. *Journal of Climate*, **28**(6), 2187-2202, doi:10.1175/JCLI-D-14-00405.1.
 
@@ -155,7 +155,7 @@ date: 2020-06-21 18:52:29
 
 25\.  刘毓赟\*, **王林**, 2014: 冬季斯堪的纳维亚遥相关型在20世纪70年代末的年代际变化. *气候与环境研究*, **19**(3), 371-382. Liu Yuyun\* and **Lin Wang**, 2014: Interdecadal changes of the Scandinavian teleconnection pattern in the late 1970s. *Climatic and Environmental Research*, **19**(3), 371-382
 
-24\.  Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma,2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*, **58**(12), 1355-1362, doi:10.1007/s11434-012-5654-5.
+24\.  Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma, 2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*, **58**(12), 1355-1362, doi:10.1007/s11434-012-5654-5.
 
 23\.  陈文\*, 魏科, **王林**, 周群, 2013: 东亚冬季风气候变异和机理以及平流层过程的影响. *大气科学*, **37**(2), 425-438. Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma, 2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*. **58**(12), 1355-1362.
 
