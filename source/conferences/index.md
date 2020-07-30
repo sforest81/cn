@@ -3,7 +3,7 @@ title: 国际会议报告
 date: 2020-06-21 18:52:46
 ---
 
-25.	**Wang, L.**: Influences of the North Atlantic Sea Surface Temperature on the East Asian Climate. *The 10st International Conference on Image Processing, Wavelet and Applications (IWW2019)*, 18-20 October 2019, Kocaeli, Turkey (oral, **invited talk**)
+1.	**Wang, L.**: Influences of the North Atlantic Sea Surface Temperature on the East Asian Climate. *The 10st International Conference on Image Processing, Wavelet and Applications (IWW2019)*, 18-20 October 2019, Kocaeli, Turkey (oral, **invited talk**)
 
 24.	**Wang, L.**: Fluctuation of the wintertime Arctic Oscillation pattern. *The 1st International Conference on Air-Land-Sea Interaction*, 4-5 April 2019, Baku, Azerbaijan (oral, **invited talk and co-chair of conference**)
 
