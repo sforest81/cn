@@ -13,7 +13,7 @@ date: 2020-06-21 18:52:29
 
 86\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, *Theoretical and Applied Climatology*, doi: 10.1007/s00704-020-03102-w, in press
 
-85\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road Pattern on the South China Sea Summer Monsoon Withdrawal, *International Journal of Climatology*, doi: 10.1002/joc.6585, in press
+85\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road pattern on the South China Sea summer monsoon withdrawal, *International Journal of Climatology*, doi: 10.1002/joc.6585, in press
 
 
 
@@ -34,7 +34,7 @@ date: 2020-06-21 18:52:29
 
 78\. Wang Sai, Debashis Nath\*, Wen Chen, and **Lin Wang**, 2020: Changes in winter stationary wave activity during weak mid-latitude and arctic thermal contrast period. *InternationalJournal of Climatology*, **40**(3), 1755-1768, doi:10.1002/joc.6299.
 
-77\. Wang Sai, Wen Chen\*, Shangfeng Chen, Debashis Nath, and **Lin Wang**, 2020: Anomalous winter moisture transport associated with the recent surface warming over the Barents-Kara seas region since the mid-2000s. *International Journal of Climatology*, **40**(4), 2497-2505, doi:10.1002/joc.6337.
+77\. Wang Sai, Wen Chen\*, Shangfeng Chen, Debashis Nath, and **Lin Wang**, 2020: Anomalous winter moisture transport associated with the recent surface warming over the Barents-Kara Seas region since the mid-2000s. *International Journal of Climatology*, **40**(4), 2497-2505, doi:10.1002/joc.6337.
 
 
 **2019:**
@@ -53,11 +53,11 @@ date: 2020-06-21 18:52:29
 
 70\.  Gong Hainan, **Lin Wang\***, and Wen Chen, 2019: Recently strengthened influence of ENSO on the wintertime East Asian surface air temperature. *Atmosphere*, **10**(11), 720, doi:10.3390/atmos10110720.
 
-69\.  Xu Peiqiang, **Lin Wang\***, Wen Chen, Juan Feng, and Yuyun Liu, 2019: Structural changes in the Pacific-Japan pattern in the late1990s. *Journal of Climate*, **32**(2), 607-621, doi:10.1175/JCLI-D-18-0123.1.
+69\.  Xu Peiqiang, **Lin Wang\***, Wen Chen, Juan Feng, and Yuyun Liu, 2019: Structural changes in the Pacific-Japan pattern in the late 1990s. *Journal of Climate*, **32**(2), 607-621, doi:10.1175/JCLI-D-18-0123.1.
 
 68\.  Xu Peiqiang, **Lin Wang\***, and Wen Chen, 2019: The British-Baikal Corridor: A teleconnection pattern along the summertime polar front jet over Eurasia. *Journal of Climate*, **32**(3), 877-896, doi:10.1175/JCLI-D-18-0343.1.
 
-67\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, Wei Gu, PeiqiangXu, and Wen Chen, 2019: The Southwest China flood of July 2018 and its causes. *Atmosphere*, **10**(5), 247, doi:10.3390/atmos10050247.
+67\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, Wei Gu, Peiqiang Xu, and Wen Chen, 2019: The Southwest China flood of July 2018 and its causes. *Atmosphere*, **10**(5), 247, doi:10.3390/atmos10050247.
 
 66\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, and Wen Chen, 2019: The 2017-2018 winter drought in North China and its causes. *Atmosphere*, **10**(2), 60, doi:10.3390/atmos10020060.
 
@@ -75,7 +75,7 @@ date: 2020-06-21 18:52:29
 
 59\.  Liu Lin, Jianping Guo\*, Hainan Gong\*, Zhanqing Li, Wen Chen, Renguang Wu, **Lin Wang**, Hui Xu, Jian Li, Dandan Chen, and Panmao Zhai, 2019: Contrasting influence of Gobi and Taklimakan deserts on the dust aerosols in western North America. *Geophysical Research Letters*, **46**(15), 9064-9071, doi:10.1029/2019GL083508.
 
-58\.  朱红霞, 陈文, 冯涛\*, **王林**, 2019: 冬季西伯利亚高压的主要年际变化模态及其对东亚气温的影响. *高原气象*, **38**(4),685-692. Zhu Hongxia, Wen Chen, Tao Feng\*, and **Lin Wang**, 2019: Interannual variations of Siberian high during boreal winter and its influence on East Asian temperature, *Plateau Meteorology*, **38**(4), 685-692
+58\.  朱红霞, 陈文, 冯涛\*, **王林**, 2019: 冬季西伯利亚高压的主要年际变化模态及其对东亚气温的影响. *高原气象*, **38**(4), 685-692. Zhu Hongxia, Wen Chen, Tao Feng\*, and **Lin Wang**, 2019: Interannual variations of Siberian high during boreal winter and its influence on East Asian temperature, *Plateau Meteorology*, **38**(4), 685-692
 
 
 **2018:**
