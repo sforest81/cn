@@ -40,44 +40,44 @@ date: 2020-06-21 18:52:29
 
 **2019**:
 
-76\.  Wang Lin*, Yuyun Liu, Yang Zhang, Wen Chen, and Shangfeng Chen, 2019: Time-varying structure of the wintertime Eurasian pattern: role of the North Atlantic sea surface temperature and atmospheric mean flow. Climate Dynamics, 52(3-4), 2467-2479, doi:10.1007/s00382-018-4261-9.
+76\.  **Wang Lin\***, Yuyun Liu, Yang Zhang, Wen Chen, and Shangfeng Chen, 2019: Time-varying structure of the wintertime Eurasian pattern: role of the North Atlantic sea surface temperature and atmospheric mean flow. *Climate Dynamics*, **52**(3-4), 2467-2479, doi:10.1007/s00382-018-4261-9.
 
-75\.  Wang Lin*, Anyu Deng, and Ronghui Huang, 2019: Wintertime internal climate variability over Eurasia in the CESM large ensemble. Climate Dynamics, 52(11), 6735-6748, doi:10.1007/s00382-018-4542-3.
+75\.  **Wang Lin\***, Anyu Deng, and Ronghui Huang, 2019: Wintertime internal climate variability over Eurasia in the CESM large ensemble. *Climate Dynamics*, **52**(11), 6735-6748, doi:10.1007/s00382-018-4542-3.
 
-74\.  Gong Hainan, **Lin Wang\***, Wen Chen, Renguang Wu, Wen Zhou, Lin Liu, Debashis Nath, and Xiaoqing Lan, 2019: Diversity of the wintertime Arctic Oscillation pattern among CMIP5 models: Role of the stratospheric polar vortex. Journal of Climate, 32(16), 5235-5250, doi:10.1175/JCLI-D-18-0603.1.
+74\.  Gong Hainan, **Lin Wang\***, Wen Chen, Renguang Wu, Wen Zhou, Lin Liu, Debashis Nath, and Xiaoqing Lan, 2019: Diversity of the wintertime Arctic Oscillation pattern among CMIP5 models: Role of the stratospheric polar vortex. *Journal of Climate*, **32**(16), 5235-5250, doi:10.1175/JCLI-D-18-0603.1.
 
 
-73\.  Gong Hainan, **Lin Wang\***, Wen Chen, and Renguang Wu, 2019: Time-varying contribution of internal dynamics to wintertime land temperature trends over the Northern Hemisphere. Geophysical Research Letters, 46, 14674-14682, doi:10.1029/2019GL086220
+73\.  Gong Hainan, **Lin Wang\***, Wen Chen, and Renguang Wu, 2019: Time-varying contribution of internal dynamics to wintertime land temperature trends over the Northern Hemisphere. *Geophysical Research Letters*, **46**, 14674-14682, doi:10.1029/2019GL086220
 
-72\.  Gong Hainan, **Lin Wang\***, Wen Chen, and Renguang Wu, 2019: Attribution of the East Asian winter temperature trends during 1979-2018: Role of external forcing and internal variability. Geophysical Research Letters, 46, 10874-10881, doi:10.1029/2019GL084154.
+72\.  Gong Hainan, **Lin Wang\***, Wen Chen, and Renguang Wu, 2019: Attribution of the East Asian winter temperature trends during 1979-2018: Role of external forcing and internal variability. *Geophysical Research Letters*, **46**, 10874-10881, doi:10.1029/2019GL084154.
 
-71\.  Gong Hainan, **Lin Wang\***, and Wen Chen, 2019: Multidecadal changes in the influence of the Arctic Oscillation on the East Asian surface air temperature in boreal winter. Atmosphere, 10(12), 757, doi:10.3390/atmos10120757.
+71\.  Gong Hainan, **Lin Wang\***, and Wen Chen, 2019: Multidecadal changes in the influence of the Arctic Oscillation on the East Asian surface air temperature in boreal winter. *Atmosphere*, **10**(12), 757, doi:10.3390/atmos10120757.
 
-70\.  Gong Hainan, **Lin Wang\***, and Wen Chen, 2019: Recently strengthened influence of ENSO on the wintertime East Asian surface air temperature. Atmosphere, 10(11), 720, doi:10.3390/atmos10110720.
+70\.  Gong Hainan, **Lin Wang\***, and Wen Chen, 2019: Recently strengthened influence of ENSO on the wintertime East Asian surface air temperature. *Atmosphere*, **10**(11), 720, doi:10.3390/atmos10110720.
 
-69\.  Xu Peiqiang, **Lin Wang\***, Wen Chen, Juan Feng, and Yuyun Liu, 2019: Structural changes in the Pacific-Japan pattern in the late1990s. Journal of Climate, 32(2), 607-621, doi:10.1175/JCLI-D-18-0123.1.
+69\.  Xu Peiqiang, **Lin Wang\***, Wen Chen, Juan Feng, and Yuyun Liu, 2019: Structural changes in the Pacific-Japan pattern in the late1990s. *Journal of Climate*, **32**(2), 607-621, doi:10.1175/JCLI-D-18-0123.1.
 
-68\.  Xu Peiqiang, **Lin Wang\***, and Wen Chen, 2019: The British-Baikal Corridor: A teleconnection pattern along the summertime polar front jet over Eurasia. Journal of Climate, 32(3), 877-896, doi:10.1175/JCLI-D-18-0343.1.
+68\.  Xu Peiqiang, **Lin Wang\***, and Wen Chen, 2019: The British-Baikal Corridor: A teleconnection pattern along the summertime polar front jet over Eurasia. *Journal of Climate*, **32**(3), 877-896, doi:10.1175/JCLI-D-18-0343.1.
 
-67\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, Wei Gu, PeiqiangXu, and Wen Chen, 2019: The Southwest China flood of July 2018 and its causes. Atmosphere, 10(5), 247, doi:10.3390/atmos10050247.
+67\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, Wei Gu, PeiqiangXu, and Wen Chen, 2019: The Southwest China flood of July 2018 and its causes. *Atmosphere*, **10**(5), 247, doi:10.3390/atmos10050247.
 
-66\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, and Wen Chen, 2019: The 2017-2018 winter drought in North China and its causes. Atmosphere, 10(2), 60, doi:10.3390/atmos10020060.
+66\.  Wang Lijuan, **Lin Wang\***, Yuyun Liu, and Wen Chen, 2019: The 2017-2018 winter drought in North China and its causes. *Atmosphere*, **10**(2), 60, doi:10.3390/atmos10020060.
 
-65\.  Chen Wen*, **Lin Wang**, Juan Feng, Zhiping Wen, Tiaojiao Ma, Xiuqun Yang, and Chenghai Wang, 2019: Recent progress in studies of the variabilities and mechanisms of the East Asian monsoon in a changing climate. Advances in Atmospheric Sciences, 36(9), 887-901, doi:10.1007/s00376-019-8230-y.
+65\.  Chen Wen\*, **Lin Wang**, Juan Feng, Zhiping Wen, Tiaojiao Ma, Xiuqun Yang, and Chenghai Wang, 2019: Recent progress in studies of the variabilities and mechanisms of the East Asian monsoon in a changing climate. *Advances in Atmospheric Sciences*, **36**(9), 887-901, doi:10.1007/s00376-019-8230-y.
 
-64\.  Liu Zhen, Yi Ming, **Lin Wang**, Massimo Bollasina, Ming Luo, Ngar-Cheung Lau*, and Steve Hung-Lam Yim*, 2019: A model investigation of aerosol-induced changes in the East Asian winter monsoon. Geophysical Research Letters, 46(16), 10186-10195, doi:10.1029/2019GL084228.
+64\.  Liu Zhen, Yi Ming, **Lin Wang**, Massimo Bollasina, Ming Luo, Ngar-Cheung Lau\*, and Steve Hung-Lam Yim\*, 2019: A model investigation of aerosol-induced changes in the East Asian winter monsoon. *Geophysical Research Letters*, **46**(16), 10186-10195, doi:10.1029/2019GL084228.
 
-63\.  Wang Sai, Debashis Nath*, Wen Chen, and **Lin Wang**, 2019: Recent strengthening of Greenland blocking drives summertime surface warming over northern Canada and eastern Siberia. Journal of Climate, 32(11), 3263-3278, doi:10.1175/JCLI-D-18-0410.1.
+63\.  Wang Sai, Debashis Nath\*, Wen Chen, and **Lin Wang**, 2019: Recent strengthening of Greenland blocking drives summertime surface warming over northern Canada and eastern Siberia. *Journal of Climate*, **32**(11), 3263-3278, doi:10.1175/JCLI-D-18-0410.1.
 
-62\.  Gong Hainan, Wen Zhou*, Wen Chen, **Lin Wang**, Marco Y. T. Leung, Paxson K. Y. Cheung, and Yue Zhang, 2019: Modulation of the southern Indian Ocean dipole on the impact of El Nino-Southern Oscillation on Australian summer rainfall. International Journal of Climatology, 39(4), 2484-2490, doi:10.1002/joc.5941.
+62\.  Gong Hainan, Wen Zhou\*, Wen Chen, **Lin Wang**, Marco Y. T. Leung, Paxson K. Y. Cheung, and Yue Zhang, 2019: Modulation of the southern Indian Ocean dipole on the impact of El Nino-Southern Oscillation on Australian summer rainfall. *International Journal of Climatology*, **39**(4), 2484-2490, doi:10.1002/joc.5941.
 
-61\.  Chowdary JastiS.*, Kaiming Hu, G. Srinivas, Yu Kosaka, LinWang, and K. Koteswara Rao, 2019: The Eurasian jet streams as conduits for East Asian monsoon variability. Current Climate Change Reports, 5(3), 233-244, doi:10.1007/s40641-019-00134-x.
+61\.  Chowdary Jasti\*, Kaiming Hu, G. Srinivas, Yu Kosaka, **Lin Wang**, and K. Koteswara Rao, 2019: The Eurasian jet streams as conduits for East Asian monsoon variability. *Current Climate Change Reports*, **5**(3), 233-244, doi:10.1007/s40641-019-00134-x.
 
-60\.  Liu Lin, Jianping Guo*, Wen Chen, Renguang Wu, LinWang, Hainan Gong*, Bo Liu, Dandan Chen, and Jian Li, 2019: Dominant interannual covariations of the East Asian-Australian land precipitation during boreal winter. Journal of Climate, 32(11), 3279-3296, doi:10.1175/JCLI-D-18-0477.1.
+60\.  Liu Lin, Jianping Guo\*, Wen Chen, Renguang Wu, **Lin Wang**, Hainan Gong\*, Bo Liu, Dandan Chen, and Jian Li, 2019: Dominant interannual covariations of the East Asian-Australian land precipitation during boreal winter. *Journal of Climate*, **32**(11), 3279-3296, doi:10.1175/JCLI-D-18-0477.1.
 
-59\.  Liu Lin, Jianping Guo*, Hainan Gong*, Zhanqing Li, Wen Chen, Renguang Wu, **Lin Wang**, Hui Xu, Jian Li, Dandan Chen, and Panmao Zhai, 2019: Contrasting influence of Gobi and Taklimakan deserts on the dust aerosols in western North America. Geophysical Research Letters, 46(15), 9064-9071, doi:10.1029/2019GL083508.
+59\.  Liu Lin, Jianping Guo\*, Hainan Gong\*, Zhanqing Li, Wen Chen, Renguang Wu, **Lin Wang**, Hui Xu, Jian Li, Dandan Chen, and Panmao Zhai, 2019: Contrasting influence of Gobi and Taklimakan deserts on the dust aerosols in western North America. *Geophysical Research Letters*, **46**(15), 9064-9071, doi:10.1029/2019GL083508.
 
-58\.  朱红霞, 陈文, 冯涛, **王林**, 2019: 冬季西伯利亚高压的主要年际变化模态及其对东亚气温的影响. 高原气象, 38(4),685-692. Zhu Hongxia, Wen Chen, Tao Feng*, and **Lin Wang**, 2019: Interannual variations of Siberian high during boreal winter and its influence on East Asian temperature, Plateau Meteorology, 38 (4), 685-692
+58\.  朱红霞, 陈文, 冯涛\*, **王林**, 2019: 冬季西伯利亚高压的主要年际变化模态及其对东亚气温的影响. *高原气象*, **38**(4),685-692. Zhu Hongxia, Wen Chen, Tao Feng\*, and **Lin Wang**, 2019: Interannual variations of Siberian high during boreal winter and its influence on East Asian temperature, *Plateau Meteorology*, **38**(4), 685-692
 
 
 
