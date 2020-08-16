@@ -3,21 +3,25 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-**Submitted and in press:**
+**In press/Submitted:**
 
-96\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: The Southern Hemisphere sudden stratospheric warming of September 2019, *Science Bulletin*, doi:10.1016/j.scib.2020.06.028, in press
+98\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: The Southern Hemisphere sudden stratospheric warming of September 2019, *Science Bulletin*, doi:10.1016/j.scib.2020.06.028, in press
 
-95\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: Tropospheric forcing of the 2019 Antarctic sudden stratospheric warming, *Geophysical Research Letters*, submitted
+97\. Shen Xiaocen, **Lin Wang\***, and Scott Osprey, 2020: Tropospheric forcing of the 2019 Antarctic sudden stratospheric warming, *Geophysical Research Letters*, submitted
 
-94\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, submitted
+96\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, submitted
 
-93\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2020: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, submitted 
+95\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2020: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, submitted 
 
-92\. Fan Hongdou, **Lin Wang\***, Yang Zhang, Youmin Tang, Wansuo Duan, and Lei Wang, 2020: Predictable patterns of wintertime surface air temperature in Northern Hemisphere and their predictability sources in SEAS5, *Journal of Climate*, submitted
+94\. Fan Hongdou, **Lin Wang\***, Yang Zhang, Youmin Tang, Wansuo Duan, and Lei Wang, 2020: Predictable patterns of wintertime surface air temperature in Northern Hemisphere and their predictability sources in SEAS5, *Journal of Climate*, submitted
 
-91\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Geophysical Research Letters*, submitted 
+93\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Geophysical Research Letters*, submitted 
 
-90\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2020: Influence of the QBO on tropical convection and its impact on tropical cyclone genesis over the western North Pacific, *Climate Dynamics*, submitted
+92\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2020: Influence of the QBO on tropical convection and its impact on tropical cyclone genesis over the western North Pacific, *Climate Dynamics*, submitted
+
+91\. Gong Hainan\*, **Lin Wang**, Wen Chen, Renguang Wu, 2020: Evolution of the East Asian winter land temperature trends: Role of internal variability and external forcing, *Environmental Research Letters*, submitted 
+
+90\. Faikrua A., Sittichai Pimonsree\*, **Lin Wang**, Atsamon Limsakul, Patama Singhruck, and Zizhen Dong, 2019: Decadal increase of the summer precipitation in Thailand after the mid-1990s, *Climate Dynamics*, submitted
 
 89\. Liu Shizuo, Qigang Wu\*, **Lin Wang**, Steven R. Schroeder, Yang Zhang, Yonghong Yao, and Haibo Hu, 2019: Modeled climate responses to realistic extremes of Northern Hemisphere spring and summer snow anomalies, *Journal of Climate*, submitted
 
