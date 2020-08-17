@@ -209,6 +209,6 @@ date: 2020-06-21 18:52:29
 
 3\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2008: Interdecadal modulation of PDO on the impact of ENSO on the East Asian winter monsoon. *Geophysical Research Letters*, **35**, L20702, doi:10.1029/2008GL035287.
 
-2\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2007: Changes in the variability of North Pacific Oscillation around 1975/1976 and its relationship with East Asian winter climate. *Journal of Geophysical Research-Atmospheres*, **112**, D11110, doi:10.1029/2006JD008054.
+2\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2007: Changes in the variability of North Pacific Oscillation around 1975/1976 and its relationship with East Asian winter climate. *Journal of Geophysical Research-Atmospheres*, **112**, D11110, doi:10.1029/2006JD008054. [pdf](https://github.com/sforest81/cn/blob/master/source/publications/2007_WangL_etal_JGR.pdf)
 
 1\.  **王林\***, 陈文, 黄荣辉, 黄刚, 2007: 北半球定常波输送西风动量的气候态及其年变化. *大气科学*, **31**(3), 377-388. **Wang Lin\***, Wen Chen, Ronghui Huang, and Gang Huang, 2007: The climatology and annual cycle of meridional transport of westerly momentum by stationary waves in the Northern Hemisphere. *Chinese Journal of Atmospheric Sciences*, **31**(3), 377-388
