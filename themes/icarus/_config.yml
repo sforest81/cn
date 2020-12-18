@@ -82,7 +82,7 @@ navbar:
         学术论文: /publications
         国际会议报告: /conferences
         课题组: /group
-        科普或采访: /service
+        社会服务: /service
         联系方式: /contact
         English: https://sforest81.github.io/en
     # Links to be shown on the right of the navigation bar
@@ -204,10 +204,10 @@ widgets:
                 url: 'https://www.researchgate.net/profile/Lin_Wang61?ev=hdr_xprf'
             Google:
                 icon: fab fa-google
-                url: 'https://publons.com/researcher/1173124/lin-wang/'
-            Twitter:
+                url: 'http://scholar.google.com/citations?user=5fqOhSkAAAAJ'
+            Publons:
                 icon: fab fa-twitter
-                url: 'https://sforest81.github.io/en'
+                url: 'https://publons.com/researcher/1173124/lin-wang/'
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -224,7 +224,7 @@ widgets:
             学术论文: '/cn/publications'
             国际会议报告: '/cn/conferences'
             课题组: '/cn/group'
-            科普或采访: '/cn/service'
+            社会服务: '/cn/service'
             联系方式: '/cn/contact'
             English: '/en'
     # Categories widget configurations
