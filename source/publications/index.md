@@ -5,31 +5,35 @@ date: 2021-01-03 11:52:29
 
 **Submitted:**
 
-106\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, revised
+107\. **Wang Lin\***, Chuang Zheng, and Yuyun Liu, 2021: Understanding the East Asian winter monsoon in 2018 from the subseasonal perspective, *Climate Dynamics*, submitted
 
-105\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2020: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, revised
+106\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2020: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, revised
 
-104\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2020: Influence of the QBO on tropical convection and its impact on tropical cyclone genesis over the western North Pacific, *Climate Dynamics*, submitted
+105\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2020: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, submitted
 
-103\. Liu Qian, Guixing Chen\*, **Lin Wang**, Yuki Kanno, and Toshiki Iwasaki, 2020: Southward cold airmass flux of the East Asian winter monsoon: Diversity and impacts, *Journal of Climate*, revised
+104\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
 
-102\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2020: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, submitted
+103\. Liu Lin, Wen Chen, Jianping Guo, Renguang Wu, **Lin Wang**, Shanshan Wang, Yanfeng Huo, Weichen Tao, 2020: Dominant modes of the wintertime diurnal temperature range variations over North America during 1979-2018, *Atmospheric Research*, revised
 
-101\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
-
-100\. Liu Lin, Wen Chen, Jianping Guo, Renguang Wu, **Lin Wang**, Shanshan Wang, Yanfeng Huo, Weichen Tao, 2020: Dominant modes of the wintertime diurnal temperature range variations over North America during 1979-2018, *Atmospheric Research*, submitted
-
-99\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2020: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
+102\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2020: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
 
 **In press:**
 
-98\. **王林\***, 龚海楠, 兰晓青，2021: 北极涛动的年代际变化及其气候影响, *大气科学学报*, doi:10.13878/j.cnki.dqkxxb.20201030001. **Wang Lin\***, Hainan Gong, and Xiaoqing Lan, 2021: Interdecadal variation of the Arctic Oscillation and its influences on climate, *Transactions of Atmospheric Sciences*, doi:10.13878/j.cnki.dqkxxb.20201030001, in press
+101\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, doi:10.1175/JCLI-D-20-0480.1, in press
 
-97\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Atmosspheric Research*, doi:10.1016/j.atmosres.2020.105446, in press
+100\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2020: Influence of the QBO on tropical convection and its impact on tropical cyclone genesis over the western North Pacific, *Climate Dynamics*, in press
 
-96\. Gong Hainan\*, **Lin Wang**, Wen Chen, Renguang Wu, 2020: Evolution of the East Asian winter land temperature trends: Role of internal variability and external forcing, *Environmental Research Letters*, in press
+99\. Liu Qian, Guixing Chen\*, **Lin Wang**, Yuki Kanno, and Toshiki Iwasaki, 2020: Southward cold airmass flux of the East Asian winter monsoon: Diversity and impacts, *Journal of Climate*, doi:10.1175/JCLI-D-20-0319.1, in press
 
-95\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the March Arctic Oscillation on the South China Sea Summer Monsoon Onset, *International Journal of Climatology*, doi:10.1002/joc.6920, in press
+98\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the March Arctic Oscillation on the South China Sea Summer Monsoon Onset, *International Journal of Climatology*, doi:10.1002/joc.6920, in press
+
+**2021:**
+
+97\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2021: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Atmosspheric Research*, **252**, 105446, doi:10.1016/j.atmosres.2020.105446
+
+96\. **王林\***, 龚海楠, 兰晓青，2021: 北极涛动的年代际变化及其气候影响, *大气科学学报*, **44**(1), 50-60, doi:10.13878/j.cnki.dqkxxb.20201030001. **Wang Lin\***, Hainan Gong, and Xiaoqing Lan, 2021: Interdecadal variation of the Arctic Oscillation and its influences on climate, *Transactions of Atmospheric Sciences*, **44**(1), 50-60, doi:10.13878/j.cnki.dqkxxb.20201030001
+
+95\. Gong Hainan\*, **Lin Wang**, Wen Chen, Renguang Wu, 2021: Evolution of the East Asian winter land temperature trends: Role of internal variability and external forcing, *Environmental Research Letters*, **16**(2021), 024015, doi:10.1088/1748-9326/abd586
 
 **2020:**
 
