@@ -4,6 +4,7 @@ date: 2021-01-03 11:52:29
 ---
 
 **Submitted:**
+
 110\. Xu Peiqiang, **Lin Wang\***, Geoffrey K. Vallis, Ruth Geen, James Screen, Peili Wu, Shuoyi Ding, Ping Huang, and Wen Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor summer temperature extremes over Northern Eurasia, *Geophysical Research Letters*, revised
 
 109\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2020: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, revised
