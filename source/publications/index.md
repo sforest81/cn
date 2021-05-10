@@ -33,7 +33,7 @@ date: 2021-01-03 11:52:29
 
 999\. Gong Hainan\*, **Lin Wang**, Wen Chen, Renguang Wu, 2021: Evolution of the East Asian winter land temperature trends: Role of internal variability and external forcing, *Environmental Research Letters*, **16**(2021), 024015, doi:10.1088/1748-9326/abd586
 
-98\.	Wang Lei*, **Lin Wang**, Wen Chen, and Jingliang Huangfu, 2021: Modulation of winter precipitation associated with tropical cyclone of the western North Pacific by the stratospheric Quasi-Biennial Oscillation, *Environmental Research Letters*, **16**(5), 054003, doi:10.1088/1748-9326/abdbf0
+98\.	Wang Lei\*, **Lin Wang**, Wen Chen, and Jingliang Huangfu, 2021: Modulation of winter precipitation associated with tropical cyclone of the western North Pacific by the stratospheric Quasi-Biennial Oscillation, *Environmental Research Letters*, **16**(5), 054003, doi:10.1088/1748-9326/abdbf0
 
 97\. Liu Qian, Guixing Chen\*, **Lin Wang**, Yuki Kanno, and Toshiki Iwasaki, 2021: Southward cold airmass flux of the East Asian winter monsoon: Diversity and impacts, *Journal of Climate*, **34**(8), 3239-3254, doi:10.1175/JCLI-D-20-0319.1
 
