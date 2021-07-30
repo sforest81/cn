@@ -5,6 +5,14 @@ date: 2021-01-03 11:52:29
 
 **Submitted:**
 
+114\. Dong Zizhen, and **Lin Wang***, 2021: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the North American temperature, *Journal of Climate*, submitted
+
+113\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2021: The Life Cycle and Variability of Antarctic Sudden Stratospheric Warmings, *Journal of Climate*, submitted
+
+112\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2021: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, submitted
+
+111\.	Jiang Wenping*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2021: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
+
 110\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2021: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
 
 109\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2021: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
@@ -15,17 +23,17 @@ date: 2021-01-03 11:52:29
 
 107\. **Wang Lin\***, Chuang Zheng, and Yuyun Liu, 2021: Understanding the East Asian winter monsoon in 2018 from the intraseasonal perspective, *Climate Dynamics*, doi:10.1007/s00382-021-05793-x, in press
 
-106\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2021: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*, doi:10.1029/2021EF001992, in press
-
-105\. Xu Peiqiang, **Lin Wang\***, Geoffrey K. Vallis, Ruth Geen, James Screen, Peili Wu, Shuoyi Ding, Ping Huang, and Wen Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor summer temperature extremes over Northern Eurasia, *Geophysical Research Letters*, doi:10.1029/2021GL093735, in press
-
-104\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2021: Influence of the QBO on tropical convection and its impact on tropical cyclone activity over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-021-05731-x, in press
-
 **2021:**
 
-103\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2021: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, **34**(9), 3503-3521, doi:10.1175/JCLI-D-20-0480.1
+106\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2021: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, **34**(9), 3503-3521, doi:10.1175/JCLI-D-20-0480.1
 
-102\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2021: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Atmosspheric Research*, **252**, 105446, doi:10.1016/j.atmosres.2020.105446
+105\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2021: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*,**9**(7), e2021EF001992, doi:10.1029/2021EF001992
+
+104\. Xu Peiqiang, **Lin Wang\***, Geoffrey K. Vallis, Ruth Geen, James Screen, Peili Wu, Shuoyi Ding, Ping Huang, and Wen Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor summer temperature extremes over Northern Eurasia, *Geophysical Research Letters*, **48**(13), e2021GL093735, doi:10.1029/2021GL093735
+
+103\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2021: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Atmosspheric Research*, **252**, 105446, doi:10.1016/j.atmosres.2020.105446
+
+102\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2021: Influence of the QBO on tropical convection and its impact on tropical cyclone activity over the western North Pacific, *Climate Dynamics*, **57**(3-4), 657-669, doi:10.1007/s00382-021-05731-x, in press
 
 101\. **王林\***, 龚海楠, 兰晓青，2021: 北极涛动的年代际变化及其气候影响, *大气科学学报*, **44**(1), 50-60, doi:10.13878/j.cnki.dqkxxb.20201030001. **Wang Lin\***, Hainan Gong, and Xiaoqing Lan, 2021: Interdecadal variation of the Arctic Oscillation and its influences on climate, *Transactions of Atmospheric Sciences*, **44**(1), 50-60, doi:10.13878/j.cnki.dqkxxb.20201030001
 
