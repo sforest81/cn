@@ -11,7 +11,7 @@ date: 2021-01-03 11:52:29
 
 112\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2021: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, submitted
 
-111\.	Jiang Wenping*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2021: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
+111\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2021: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
 
 110\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2021: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
 
