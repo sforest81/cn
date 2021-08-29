@@ -22,4 +22,3 @@ date: 2021-08-29 00:00:00
 - 2020.12：祝贺范红豆获得第三届LASG研究生学术论坛优秀口头报告！
 - 2020.10：王林担任WCRP灯塔行动My Climate Risk科学发展规划组成员
 - 2020.10：王林担任WCRP灯塔行动Explaining and Predicting Earth System Change科学发展规划组成员
-- 
