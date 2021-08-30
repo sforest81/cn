@@ -27,7 +27,7 @@ date: 2021-01-03 11:52:29
 
 108\. **Wang Lin\***, Peiqiang Xu, and Jasti S. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon. *Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond*. Edited by Jasti S. Chowdary, Anant Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0
 
-107\.	**Wang Lin\***, Haishan Chen, Jasti S. Chowdary, Kyung-Ja Ha, Yoshiyuki Kajikawa, and Gill Martin, 2021: Editorial: The Asian monsoon, Frontiers in Earth Science, **9**, 748811, doi:10.3389/feart.2021.748811
+107\.	**Wang Lin\***, Haishan Chen, Jasti S. Chowdary, Kyung-Ja Ha, Yoshiyuki Kajikawa, and Gill Martin, 2021: Editorial: The Asian monsoon, *Frontiers in Earth Science*, **9**, 748811, doi:10.3389/feart.2021.748811
 
 106\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2021: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, **34**(9), 3503-3521, doi:10.1175/JCLI-D-20-0480.1
 
