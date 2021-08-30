@@ -222,7 +222,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            最新动态: '/cn'
+            主页: '/cn'
             新闻动态: '/cn/news'
             学术论文: '/cn/publications'
             国际会议报告: '/cn/conferences'
