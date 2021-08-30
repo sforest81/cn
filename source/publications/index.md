@@ -5,25 +5,29 @@ date: 2021-01-03 11:52:29
 
 **Submitted:**
 
-114\. Dong Zizhen, and **Lin Wang***, 2021: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the North American temperature, *Journal of Climate*, submitted
+116\. Dong Zizhen, and **Lin Wang***, 2021: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the North American temperature, *Journal of Climate*, submitted
 
-113\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2021: The Life Cycle and Variability of Antarctic Sudden Stratospheric Warmings, *Journal of Climate*, submitted
+115\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2021: The Life Cycle and Variability of Antarctic Sudden Stratospheric Warmings, *Journal of Climate*, submitted
 
-112\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2021: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, submitted
+114\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2021: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, submitted
 
-111\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2021: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
+113\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2021: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
 
-110\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2021: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
+112\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2021: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
 
-109\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2021: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
+111\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2021: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
 
-108\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2021: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, submitted
+110\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2021: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, submitted
 
 **In press:**
 
-107\. **Wang Lin\***, Chuang Zheng, and Yuyun Liu, 2021: Understanding the East Asian winter monsoon in 2018 from the intraseasonal perspective, *Climate Dynamics*, doi:10.1007/s00382-021-05793-x, in press
+109\. **Wang Lin\***, Chuang Zheng, and Yuyun Liu, 2021: Understanding the East Asian winter monsoon in 2018 from the intraseasonal perspective, *Climate Dynamics*, doi:10.1007/s00382-021-05793-x, in press
 
 **2021:**
+
+108\. **Wang Lin\***, Peiqiang Xu, and Jasti S. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon. *Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond*. Edited by Jasti S. Chowdary, Anant Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0
+
+107\.	**Wang Lin\***, Haishan Chen, Jasti S. Chowdary, Kyung-Ja Ha, Yoshiyuki Kajikawa, and Gill Martin, 2021: Editorial: The Asian monsoon, Frontiers in Earth Science, **9**, 748811, doi:10.3389/feart.2021.748811
 
 106\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Sittichai Pimonsree, Atsamon Limsakul, and Patama Singhruck, 2021: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *Journal of Climate*, **34**(9), 3503-3521, doi:10.1175/JCLI-D-20-0480.1
 
@@ -161,7 +165,7 @@ date: 2021-01-03 11:52:29
 
 **2016:**
 
-43\.  **Wang Lin\***, and Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific, 51-61, doi:10.1142/9789813200913_0005.
+43\.  **Wang Lin\***, and Mong-Ming Lu, 2016: The East Asian winter monsoon. *The Global Monsoon System: Research and Forecast, 3rd ed.*, Edited by C.-P. Chang, H.-C. Kuo, N.-C. Lau, R. H. Johnson, B. Wang, and M. Wheeler, Eds., World Scientific, 51-61, doi:10.1142/9789813200913_0005.
 
 42\.  **Wang Lin\***, and Wei Gu, 2016: The Eastern China flood of June 2015 and its causes. *Science Bulletin*, **61**(2), 178-184, doi:10.1007/s11434-015-0967-9.
 
