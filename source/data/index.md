@@ -8,5 +8,12 @@ date: 2020-07-10 18:09:14
 !(https://github.com/sforest81/cn/blob/master/source/data/LW.jpg)
 (https://github.com/sforest81/cn/blob/master/source/data/LW.jpg)
 [https://github.com/sforest81/cn/blob/master/source/data/LW.jpg]
+![https://github.com/sforest81/cn/blob/master/source/data/LW.jpg]
+https://github.com/sforest81/cn/blob/master/source/data/1573697070223.png
+(https://github.com/sforest81/cn/blob/master/source/data/1573697070223.png)
+!(https://github.com/sforest81/cn/blob/master/source/data/1573697070223.png)
+[https://github.com/sforest81/cn/blob/master/source/data/1573697070223.png]
+![https://github.com/sforest81/cn/blob/master/source/data/1573697070223.png]
+
 Test figure
 
