@@ -17,6 +17,7 @@ Nature Geoscience, Journal of Climate, Journal of the Atmospheric Sciences, Geop
 
 ## 学术和社会团体:
 
+-Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
 -Member, WCRP Lighthouse Activity Science Plan Development Team (2020-)
 -中央和国家机关青年联合会第一届委员会，委员（2020-）
 -中国科学院大气物理研究所学位委员会，委员（2019-）
