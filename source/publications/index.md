@@ -23,9 +23,9 @@
 
 112\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2021: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, doi:10.1075/JCLI-D-21-0500.1, in press
 
-111\. Hu Peng, Wen Chen*, Shangfeng Chen, Yuyun Liu, Lin Wang, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, Journal of Climate, doi:10.1175/JCLI-D-21-0101.1, in press
+111\. Hu Peng, Wen Chen*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, Journal of Climate, doi:10.1175/JCLI-D-21-0101.1, in press
 
-110\. Hu Peng, Wen Chen*, Shangfeng Chen, Lin Wang, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. Advances in Atmospheric Sciences, doi:10.1007/s00376-021-1208-6, in press
+110\. Hu Peng, Wen Chen*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. Advances in Atmospheric Sciences, doi:10.1007/s00376-021-1208-6, in press
 
 **2021:**
 
