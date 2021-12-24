@@ -1,5 +1,6 @@
 
 **Submitted:**
+
 121\. Xu Peiqiang, **Lin Wang***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, submitted
 
 120\. Xu Peiqiang, **Lin Wang***, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, submitted
