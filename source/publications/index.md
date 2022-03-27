@@ -1,31 +1,38 @@
 
 **Submitted:**
 
-121\. Xu Peiqiang, **Lin Wang***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, submitted
+123\. Xu Peiqiang, **Lin Wang***, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, revised
 
-120\. Xu Peiqiang, **Lin Wang***, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, submitted
+122\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, revised
 
-119\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM large ensemble, *Journal of Geophysical Research: Atmospheres*, submitted
+121\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2022: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
 
-118\. Huangfu Jingliang, Yulian Tang, **Lin Wang***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the QBO and prolonged ENSO effects on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, submitted
+120\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
 
-117\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, submitted
-
-116\. Hu Kaiming\*, Gang Huang\*, **Lin Wang**, and Renguang Wu, 2022: Asymmetric impact of El Niño and La Niña on southern China winter rainfall, *Climate Dynamics*, submitted
-
-115\. Hu Peng, Wen Chen, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
-
-114\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2022: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, submitted
 
 **In press:**
 
-113\. Dong Zizhen, and **Lin Wang***, 2021: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the central North American air temperature, *Journal of Climate*, doi:10.1175/JCLI-D-21-0531.1, in press
+119\. Xu Peiqiang, **Lin Wang***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, in press
 
-112\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2021: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, doi:10.1075/JCLI-D-21-0500.1, in press
+118\. Huangfu Jingliang, Yulian Tang, **Lin Wang***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the QBO and prolonged ENSO effects on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, submitted
 
-111\. Hu Peng, Wen Chen*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, Journal of Climate, doi:10.1175/JCLI-D-21-0101.1, in press
+117\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO- East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, in press
 
-110\. Hu Peng, Wen Chen*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. Advances in Atmospheric Sciences, doi:10.1007/s00376-021-1208-6, in press
+116\.	Cen Sixian, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, in press
+
+115\. Hu Peng, Wen Chen*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, doi:10.1007/s00376-021-1208-6, in press
+
+114\.	Hu Peng, Wen Chen*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, in press
+
+113\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2022: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, *Science Bulletin*, in press
+
+**2022:**
+
+112\. Dong Zizhen, and **Lin Wang***, 2022: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the central North American air temperature, *Journal of Climate*, **35**(6), 1901-1913, doi:10.1175/JCLI-D-21-0531.1
+
+111\. Shen Xiaocen, **Lin Wang***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2022: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, **35**(6), 2075-2092, doi:10.1075/JCLI-D-21-0500.1
+
+110\. Hu Peng, Wen Chen*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*,**35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0101.1
 
 **2021:**
 
