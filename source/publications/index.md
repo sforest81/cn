@@ -17,11 +17,11 @@ Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022
 
 121\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2021JD035340, in press
 
-120\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the QBO and prolonged ENSO effects on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, in press
+120\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3, in press
 
 119\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, in press
 
-118\.	Cen Sixian, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, in press
+118\.	Cen Sixian, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5, in press
 
 117\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, doi:10.1007/s00376-021-1208-6, in press
 
@@ -29,7 +29,7 @@ Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022
 
 115\. Zhou Shijie, Ping Huang\*, Shang-Ping Xie, Gang Huang, and **Lin Wang**, 2022: Varying contributions of fast and slow responses cause asymmetric tropical rainfall change between CO2 ramp-up and ramp-down, *Science Bulletin*, in press
 
-114\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2022: Significant Responses of Arctic Sea Ice to Stratospheric Ozone Depletion, *Science Bulletin*, in press
+114\. Zhang Jiankai, Wenshou Tian\*, John A. Pyle, N. Luke Abraham, Martyn P. Chipperfield, James Keeble, Qinghua Yang, Longjiang Mu, Hong-Li Ren, and **Lin Wang**, 2022: Responses of Arctic sea ice to stratospheric ozone depletion, *Science Bulletin*, doi:10.1016/j.scib.2022.03.015, in press
 
 **2022:**
 113\. Xu Peiqiang, **Lin Wang\***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, **35**(8), 2603-2616, doi:10.1175/JCLI-D-21-0657.1
