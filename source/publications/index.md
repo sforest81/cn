@@ -2,7 +2,7 @@
 **Submitted:**
 Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: An Intraseasonal Stratosphere-Troposphere Oscillation, *Journal of Climate*, submitted
 
-Dong Zizhen, **Lin Wang\***, Hainan Gong, 2022: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Geophysical Research Letters*, submitted
+Dong Zizhen, **Lin Wang\***, Hainan Gong, 2022: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, submitted
 
 Dong Zizhen, **Lin Wang\***, Hainan Gong, Atsamon Limsakul, Hongdou Fan, and Sittichai Pimonsree, 2022: A Skillful Seasonal Prediction for Wintertime Rainfall in Southern Thailand, *International Journal of Climatology*, submitted
 
@@ -12,6 +12,8 @@ Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 
 
 Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022: Modulation of the QBO on the relationship between the NAO and Northeast China temperature in late winter, *Journal of Climate*, submitted
 
+Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, submitted
+
 **In press:**
 122\. Xu Peiqiang, **Lin Wang\***, Zizhen Dong, Yanjie Li, Xiaocen Shen, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, doi:10.1075/JCLI-D-21-0657.1, in press
 
@@ -19,7 +21,7 @@ Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022
 
 120\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3, in press
 
-119\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, in press
+119\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, doi:10.1007/s00382-022-06220-5, in press
 
 118\.	Cen Sixian, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5, in press
 
