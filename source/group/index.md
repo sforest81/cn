@@ -7,11 +7,13 @@ date: 2020-07-10 18:09:14
 
 [龚海楠](https://www.researchgate.net/profile/Hainan_Gong)，副研究员
 
-[刘毓赟](https://www.researchgate.net/profile/Yuyun_Liu)，助理研究员
-
 [徐霈强](https://px212.github.io/px212/)，博士后
 
+[刘毓赟](https://www.researchgate.net/profile/Yuyun_Liu)，助理研究员
+
 [关维娜](https://www.researchgate.net/profile/Weina-Guan)，博士后
+
+[张文其](https://www.researchgate.net/profile/Wenqi-Zhang-10)，博士后
 
 
 ## **在读学生：**
