@@ -5,6 +5,7 @@ date: 2020-06-21 18:53:02
 
 ## 期刊编委会:
 
+-Associate Editor, Frontiers in Earth Science (2022-)
 -Editorial Board Member, Atmosphere (2020-)
 -Associate Editor, Journal of Climate (2019-)
 -编委, 中国科技论文 (2019-)
