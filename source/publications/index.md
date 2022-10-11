@@ -6,7 +6,7 @@ Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Hainan Gong, Jie Cao, and Ruowen Yang,
 	
 Dong Zizhen, **Lin Wang\***, Hainan Gong, 2022: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*, submitted
 
-Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, submitted
+Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, submitted
 
 Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2022: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, submitted 
 	
@@ -26,7 +26,7 @@ Hou Yurong, Wenju Cai, David M. Holland, Xiao Cheng, Jiankai Zhang, **Lin Wang**
 
 125\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, doi:10.1007/s00376-021-1208-6
 
-124\.	Cen Sixian, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5
+124\. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5
 
 123\. Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022: Modulation of the QBO on the relationship between the NAO and Northeast China temperature in late winter, *Journal of Climate*, doi:10.1175/JCLI-D-22-0353.1
 
@@ -41,17 +41,17 @@ Hou Yurong, Wenju Cai, David M. Holland, Xiao Cheng, Jiankai Zhang, **Lin Wang**
 
 118\. Shen Xiaocen, **Lin Wang\***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2022: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, **35**(6), 2075-2092, doi:10.1175/JCLI-D-21-0500.1
 
-117\.	Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, **127**(10), e2021JD035340, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2021JD035340
+117\. Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, **127**(10), e2021JD035340, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2021JD035340
 
 116\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0101.1
 
 115\. Xu Guangzh\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, doi:10.1029/2021JD036159
 
-114\.	Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, **59**(7-8), 2467-2480, doi:10.1007/s00382-022-06220-5
+114\. Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, **59**(7-8), 2467-2480, doi:10.1007/s00382-022-06220-5
 
-113\.	Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0740.1
+113\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0740.1
 
-112\.	Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, **35**(13), 4347-4362, doi:10.1175/JCLI-D-21-0740.1
+112\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, **35**(13), 4347-4362, doi:10.1175/JCLI-D-21-0740.1
 
 111\. Zhou Shijie, Ping Huang\*, Shang-Ping Xie, Gang Huang, and **Lin Wang**, 2022: Varying contributions of fast and slow responses cause asymmetric tropical rainfall change between CO2 ramp-up and ramp-down, *Science Bulletin*, **67**(16), 1702-1711, doi:10.1016/j.scib.2022.07.010
 
