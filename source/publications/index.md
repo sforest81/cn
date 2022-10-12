@@ -10,11 +10,13 @@ Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of 
 
 Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2022: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, submitted 
 	
+Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, I. Simmondse, and Lixin Wu, 2022: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation, submitted
+
 Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
 
 Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*, submitted
 
-Hou Yurong, Wenju Cai, David M. Holland, Xiao Cheng, Jiankai Zhang, **Lin Wang**, Nathaniel C. Johnson, Fei Xie, Weijun Sun, Yao Yao, Xi Liang, Yun Yang, Chueh-Hsin Chang, Meijiao Xin, and Xichen Li\*, 2022: A cold-Eurasia and warm-North America temperature dipole triggered by Arctic sea-ice retreat, Journal, submitted
+Hou Yurong, Wenju Cai, David M. Holland, Xiao Cheng, Jiankai Zhang, **Lin Wang**, Nathaniel C. Johnson, Fei Xie, Weijun Sun, Yao Yao, Xi Liang, Yun Yang, Chueh-Hsin Chang, Meijiao Xin, and Xichen Li\*, 2022: A cold-Eurasia and warm-North America temperature dipole triggered by Arctic sea-ice retreat, *Environmental Research Letters*, submitted
 
 **In press:**
 
