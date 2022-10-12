@@ -10,7 +10,7 @@ Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of 
 
 Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2022: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, submitted 
 	
-Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, I. Simmondse, and Lixin Wu, 2022: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation, submitted
+Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, and Lixin Wu, 2022: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation, submitted
 
 Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
 
