@@ -17,9 +17,9 @@ date: 2020-06-21 18:53:02
 Nature Geoscience, Journal of Climate, Journal of the Atmospheric Sciences, Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Environmental Research Letters, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, International Journal of Climatology, 大气科学, 气候与环境研究, 等
 
 ## 学术和社会团体:
-
+-Member, Scientific Steering Group, WCRP Lighthouse Activity-My Climate Risk (2022-2026)
 -Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
--Member, WCRP Lighthouse Activity Science Plan Development Team (2020-)
+-Member, WCRP Lighthouse Activity Science Plan Development Team (2020-22)
 -中央和国家机关青年联合会第一届委员会，委员（2020-）
 -中国科学院大气物理研究所学位委员会，委员（2019-）
 -中国科学院青年联合会第四届委员会，委员（2015-）
