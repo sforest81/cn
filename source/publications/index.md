@@ -9,6 +9,8 @@ Dong Zizhen, **Lin Wang\***, Hainan Gong, 2022: Diminishing impact of the Siberi
 Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, submitted
 
 Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2022: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, submitted 
+
+Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2022: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*, submitted
 	
 Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, and Lixin Wu, 2022: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation, submitted
 
@@ -16,11 +18,13 @@ Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 
 
 Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2022: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*, submitted
 
+Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2022: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*, submitted
+
 Gu Wei\*, Lijuan Chen, Yongguang Wang , Hui Gao, **Lin Wang**, and Yuyun Liu, 2022: Extreme precipitation over northern China in autumn 2021 and the joint contributions from the tropical and mid-latitude factors, *Advances in Climate Change Research*, submitted
 
 Hou Yurong, Wenju Cai, David M. Holland, Xiao Cheng, Jiankai Zhang, **Lin Wang**, Nathaniel C. Johnson, Fei Xie, Weijun Sun, Yao Yao, Xi Liang, Yun Yang, Chueh-Hsin Chang, Meijiao Xin, and Xichen Li\*, 2022: A cold-Eurasia and warm-North America temperature dipole triggered by Arctic sea-ice retreat, *Environmental Research Letters*, submitted
 
-Bett Philip E.\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2022: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, submitted
+Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2022: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, submitted
 
 Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2022: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*, submitted
 
