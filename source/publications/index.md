@@ -6,8 +6,6 @@ Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Hainan Gong, Jie Cao, and Ruowen Yang,
 	
 Dong Zizhen, **Lin Wang\***, Hainan Gong, 2022: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*, submitted
 
-Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, submitted
-
 Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2022: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, submitted 
 
 Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2022: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*, submitted
@@ -32,9 +30,11 @@ Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**,
 
 **In press:**
 
-129\. Dong Zizhen, **Lin Wang\***, Hainan Gong, Atsamon Limsakul, Hongdou Fan, and Sittichai Pimonsree, 2022: A Skillful Seasonal Prediction for Wintertime Rainfall in Southern Thailand, *International Journal of Climatology*, doi:10.1002/joc.7882
+130\. Dong Zizhen, **Lin Wang\***, Hainan Gong, Atsamon Limsakul, Hongdou Fan, and Sittichai Pimonsree, 2022: A Skillful Seasonal Prediction for Wintertime Rainfall in Southern Thailand, *International Journal of Climatology*, doi:10.1002/joc.7882
 
-128\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
+129\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
+
+128\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, doi:10.3390/rs14205200
 
 127\. Hu Peng, Wen Chen\*, Lin Wang, Shangfeng Chen, Yuyun Liu, and Lingying Chen, 2022: Revisiting the ENSO–monsoonal rainfall relationship: New insights based on an objective determination of the Asian summer monsoon duration, *Environmental Research Letters*, doi:10.1088/1748-9326/ac97ad
 
@@ -44,7 +44,7 @@ Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**,
 
 124\. Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022: Modulation of the QBO on the relationship between the NAO and Northeast China temperature in late winter, *Journal of Climate*, doi:10.1175/JCLI-D-22-0353.1
 
-123\. Shi Feng\*, Hugues Goosse, Jianping Li, Qiuzhen Yin, Fredrik Charpentier Ljungqvist, Tao Lian, Cheng Sun, **Lin Wang**, Zhiwei Wu, Juan Li, Sen Zhao, Chenxi Xu, Wei Liu, Ting Liu, Takeshi Nakatsuka, Zhengtang Guo, 2022: Interdecadal to multidecadal variability of East Asian summer monsoon over the past half millennium, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2022JD037260
+123\. Shi Feng\*, Hugues Goosse, Jianping Li, Qiuzhen Yin, Fredrik Charpentier Ljungqvist, Tao Lian, Cheng Sun, **Lin Wang**, Zhiwei Wu, Juan Li, Sen Zhao, Chenxi Xu, Wei Liu, Ting Liu, Takeshi Nakatsuka, Zhengtang Guo, 2022: Interdecadal to multidecadal variability of East Asian summer monsoon over the past half millennium, *Journal of Geophysical Research: Atmospheres*, **127**(20), e2022JD037260, doi:10.1029/2022JD037260
 	
 122\. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, doi:10.1175/BAMS-D-21-0280.1
 
