@@ -49,7 +49,7 @@ Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**,
 122\. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, doi:10.1175/BAMS-D-21-0280.1
 
 **2022:**
-121\. Xu Peiqiang, **Lin Wang\***, Zizhen Dong, Yanjie Li, Xiaocen Shen, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, **35**(17), 5787-5804, doi:10.1075/JCLI-D-21-0657.1
+121\. Xu Peiqiang, **Lin Wang\***, Zizhen Dong, Yanjie Li, Xiaocen Shen, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, **35**(17), 5787-5804, doi:10.1075/JCLI-D-21-0705.1
 
 120\. Xu Peiqiang, **Lin Wang\***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, **35**(8), 2603-2616, doi:10.1175/JCLI-D-21-0657.1
 
