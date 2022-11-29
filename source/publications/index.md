@@ -29,11 +29,11 @@ Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**,
 
 131\. Dong Zizhen, **Lin Wang\***, Hainan Gong, Atsamon Limsakul, Hongdou Fan, and Sittichai Pimonsree, 2022: A Skillful Seasonal Prediction for Wintertime Rainfall in Southern Thailand, *International Journal of Climatology*, doi:10.1002/joc.7882
 
-130\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, doi:10.3390/rs14205200
+130\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
 
-129\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
+129\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, doi:10.3390/rs14205200
 
-128\. Hu Peng, Wen Chen\*, Lin Wang, Shangfeng Chen, Yuyun Liu, and Lingying Chen, 2022: Revisiting the ENSO–monsoonal rainfall relationship: New insights based on an objective determination of the Asian summer monsoon duration, *Environmental Research Letters*, doi:10.1088/1748-9326/ac97ad
+128\. Hu Peng, Wen Chen\*, **Lin Wang**, Shangfeng Chen, Yuyun Liu, and Lingying Chen, 2022: Revisiting the ENSO–monsoonal rainfall relationship: New insights based on an objective determination of the Asian summer monsoon duration, *Environmental Research Letters*, doi:10.1088/1748-9326/ac97ad
 
 127\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, doi:10.1007/s00376-021-1208-6
 
