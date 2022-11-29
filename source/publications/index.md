@@ -58,7 +58,7 @@ Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**,
 
 117\. Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, **127**(10), e2021JD035340, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2021JD035340
 
-116\. Xu Guangzh\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, doi:10.1029/2021JD036159
+116\. Xu Guangzhi\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, doi:10.1029/2021JD036159
 
 115\. Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, **59**(7-8), 2467-2480, doi:10.1007/s00382-022-06220-5
 
