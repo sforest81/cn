@@ -31,7 +31,7 @@ Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**,
 
 \. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
 
-\. Zheng Fei*, Bo Wu, **Lin Wang**, Jingbei Peng, Yao Yao, Haifeng Zong, Qing Bao, Jiehua Ma, Wansuo Duan, Shuai Hu, Haolan Ren, Tingwei Cao, Renping Lin, Xianghui Fang, Tianjun Zhou, and Jiang Zhu, 2023: Can Eurasia experience a cold winter under a third-year La Nina in 2022/23?, *Advances in Atmospheric Sciences*, doi:10.1007/s00376-022-2331-8
+\. Zheng Fei\*, Bo Wu, **Lin Wang**, Jingbei Peng, Yao Yao, Haifeng Zong, Qing Bao, Jiehua Ma, Wansuo Duan, Shuai Hu, Haolan Ren, Tingwei Cao, Renping Lin, Xianghui Fang, Tianjun Zhou, and Jiang Zhu, 2023: Can Eurasia experience a cold winter under a third-year La Nina in 2022/23?, *Advances in Atmospheric Sciences*, doi:10.1007/s00376-022-2331-8
 
 \. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5
 
