@@ -1,32 +1,32 @@
 
 **Submitted:**
-Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Hainan Gong, Jie Cao, and Ruowen Yang, 2023: The unprecedented heatwave over western North America in June-July 2021 is projected to be common with higher risks in a warmer world, *Earth’s Future*, submitted
+\. Dong Zizhen, **Lin Wang\***, Hainan Gong, 2023: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*,
 
-Dong Zizhen, **Lin Wang\***, Hainan Gong, 2023: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*, submitted
+\. Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2023: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*,
 
-Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2023: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, submitted
+\. Guan Weina, and **Lin Wang\***, 2023: Mechanism of the wintertime subseasonal surface air temperature variability over Eurasia, *Environmental Research: Climate*, 
 
-Guan Weina, and **Lin Wang\***, 2023: Mechanism of the wintertime subseasonal surface air temperature variability over Eurasia, *Environmental Research: Climate*, submitted
+\. Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Geophysical Research Letters*,
 
-Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Geophysical Research Letters*, submitted
-
-Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2023: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*, submitted
+\. Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2023: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*,
 	
-Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, and Lixin Wu, 2023: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation, submitted
+\. Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, and Lixin Wu, 2023: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation,
 
-Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*, submitted
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
-Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*, submitted
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*,
 
-Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*, submitted
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
 
-Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, submitted
+\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation,
 
-Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*, submitted
+\. Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*,
 
-Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, and Zhiyuan Cong, 2023: Primary biological and biomass burning aerosols over the northern slope of Mt. Everest (Qomolangma), central Himalayas, submitted
+\. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, and Zhiyuan Cong, 2023: Primary biological and biomass burning aerosols over the northern slope of Mt. Everest (Qomolangma), central Himalayas,
 
 **In press:**
+\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, doi:10.1029/2022EF003437
+
 \. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, doi:10.1175/JCLI-D-22-0238.1
 
 \. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
