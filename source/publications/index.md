@@ -10,8 +10,6 @@
 
 \. Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2023: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*,
 	
-\. Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, and Lixin Wu, 2023: Origins of the interannual variability of sea ice over the Barents-Kara Seas: Atlantic pathway of the ENSO modulation,
-
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*,
@@ -25,7 +23,7 @@
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, and Zhiyuan Cong, 2023: Primary biological and biomass burning aerosols over the northern slope of Mt. Everest (Qomolangma), central Himalayas,
 
 **In press:**
-\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, doi:10.1029/2022EF003437
+\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, 
 
 \. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, doi:10.1175/JCLI-D-22-0238.1
 
@@ -35,11 +33,15 @@
 
 \. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5
 
+\. Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, Cunde Xiao, Lixin Wu, and Yao Yao, 2023: Origins of Barents-Kara sea-ice interannual variability modulated by the Atlantic pathway of El Niño-Southern Oscillation,
+
 \. Gu Wei\*, Lijuan Chen, Yongguang Wang , Hui Gao, **Lin Wang**, and Yuyun Liu, 2022: Extreme precipitation over northern China in autumn 2021 and the joint contributions from the tropical and mid-latitude factors, *Advances in Climate Change Research*, doi:10.1016/j.accre.2022.11.008
 
 \. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, doi:10.1175/BAMS-D-21-0280.1
 
 **2023:**
+131\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304
+
 130\. Dong Zizhen, Ruowen Yang\*, Jie Cao, and **Lin Wang**, 2023: Effect of anthropogenic forcing on increased winter precipitation in Southeast Asia from 1979 to 2014, *Frontiers Environmental Science*, **10**, 1115698, doi:10.3389/fenvs.2022.1115698
 
 **2022:**
