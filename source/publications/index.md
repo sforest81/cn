@@ -2,13 +2,13 @@
 **Submitted:**
 \. Dong Zizhen, **Lin Wang\***, Hainan Gong, 2023: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*,
 
-\. Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2023: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*,
-
 \. Guan Weina, and **Lin Wang\***, 2023: Mechanism of the wintertime subseasonal surface air temperature variability over Eurasia, *Environmental Research: Climate*, 
 
 \. Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Geophysical Research Letters*,
 
 \. Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2023: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*,
+
+\. Lu Yixiong\*, Tongwen Wu, Xin Xu, **Lin Wang**, Jian Sun, Weihua Jie, and Yiming Liu, 2023: Machine Learning Emulation of Subgrid-Scale Orographic Gravity Wave Drag in a General Circulation Model with Middle Atmosphere Extension, *Journal of Advances in Modeling Earth Systems*,
 	
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
@@ -16,13 +16,13 @@
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
 
-\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation,
-
 \. Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*,
 
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, and Zhiyuan Cong, 2023: Primary biological and biomass burning aerosols over the northern slope of Mt. Everest (Qomolangma), central Himalayas,
 
 **In press:**
+\. Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2023: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2022JD037719
+
 \. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, doi:10.1029/2022EF003437
 
 \. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, doi:10.1175/JCLI-D-22-0238.1
@@ -34,6 +34,8 @@
 \. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5
 
 \. Gu Wei\*, Lijuan Chen, Yongguang Wang , Hui Gao, **Lin Wang**, and Yuyun Liu, 2022: Extreme precipitation over northern China in autumn 2021 and the joint contributions from the tropical and mid-latitude factors, *Advances in Climate Change Research*, doi:10.1016/j.accre.2022.11.008
+
+\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, *Weather and Climate Dynamics*, doi:/10.5194/wcd-2022-39
 
 \. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, doi:10.1175/BAMS-D-21-0280.1
 
