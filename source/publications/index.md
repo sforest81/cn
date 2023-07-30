@@ -1,7 +1,7 @@
 
 **Submitted:**
 
-\. **王林**, 徐霈强, 2023: 北半球夏季急流遥相关：进展与展望, *大气科学*. **Wang Lin**, and Peiqiang Xu, 2023: Waveguide teleconnections in boreal summer: Progress and perspective, *Chinese Journal of Atmospheric Sciences*,
+\. **王林**, 徐霈强, 2023: 北半球夏季急流遥相关: 进展与展望, *大气科学*. **Wang Lin**, and Peiqiang Xu, 2023: Waveguide teleconnections in boreal summer: Progress and perspective, *Chinese Journal of Atmospheric Sciences*,
 
 \. Dong Zizhen, **Lin Wang\***, Ruowen Yang, and Jie Cao, 2023: Propagation and maintenance of the quasi-biweekly oscillation over the western North Pacific in boreal winter, *Journal of Climate*, 
 
