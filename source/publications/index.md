@@ -21,7 +21,7 @@
 \. Zhang Hui, Ming Luo\*, Tao Pei\*, Xiaoping Liu, **Lin Wang**, Wei Zhang, Lijie Lin, Erjia Ge, Zhen Liu, Weilin Liao, 2023: Unequal urban heat burdens impede climate justice and equity goals, *The Innovation*,
 
 **2023:**
-145\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, https://doi.org/10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, https://doi.org/10.3878/j.issn.1006-9895.2212.22304
+145\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304
 
 144\. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, **6**(7), 2259-2276, https://doi.org/10.1175/JCLI-D-22-0238.1
 
@@ -318,7 +318,7 @@
 
 5\.  Chen Wen\*, **Lin Wang**, Yongkang Xue, and Shufen Sun,2009: Variabilities of the spring river runoff system in East China and their relations to precipitation and sea surface temperature. *International Journal of Climatology*, **29**(10), 1381-1394, https://doi.org/10.1002/joc.1785.
 
-4\.  康丽华\*, 陈文, **王林**, 陈丽娟, 2009: 我国冬季气温的年际变化及其与大气环流和海温异常的关系. *气候与环境研究*, **14**(1), 45-53. Kang Lihua\*, Wen Chen, **Lin Wang**, and Lijuan Chen, 2009: Interannual variations of winter temperature in China and their relations to the atmospheric circulation and sea surface temperature. *Climatic and Environmental Research*, **14**(1), 45-53.
+4\.  康丽华\*, 陈文, **王林**, 陈丽娟, 2009: 我国冬季气温的年际变化及其与大气环流和海温异常的关系. *气候与环境研究*, **14**(1), 45-53. Kang Lihua\*, Wen Chen, **Lin Wang**, and Lijuan Chen, 2009: Interannual variations of winter temperature in China and their relations to the atmospheric circulation and sea surface temperature. *Climatic and Environmental Research*, **14**(1), 45-53, doi:10.3878/j.issn.1006-9585.2009.01.05(http://www.dqkxqk.ac.cn/qhhj/qhhj/article/abstract/20090105)
 
 3\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2008: Interdecadal modulation of PDO on the impact of ENSO on the East Asian winter monsoon. *Geophysical Research Letters*, **35**, L20702, https://doi.org/10.1029/2008GL035287.
 
