@@ -1,5 +1,10 @@
 
 **Submitted:**
+
+\. **王林**, 徐霈强, 2023: 北半球夏季急流遥相关：进展与展望, *大气科学*. **Wang Lin**, and Peiqiang Xu, 2023: Waveguide teleconnections in boreal summer: Progress and perspective, *Chinese Journal of Atmospheric Sciences*,
+
+\. Dong Zizhen, **Lin Wang\***, Ruowen Yang, and Jie Cao, 2023: Propagation and maintenance of the quasi-biweekly oscillation over the western North Pacific in boreal winter, *Journal of Climate*, 
+
 \. Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Geophysical Research Letters*,
 
 \. Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2023: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*,
