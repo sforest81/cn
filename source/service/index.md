@@ -5,6 +5,7 @@ date: 2020-06-21 18:53:02
 
 ## 期刊编委会:
 
+-Associate Editor, International Journal of Climatology (2023-)
 -Associate Editor, Frontiers in Earth Science (2022-)
 -Editorial Board Member, Atmosphere (2020-)
 -Associate Editor, Journal of Climate (2019-)
@@ -14,9 +15,10 @@ date: 2020-06-21 18:53:02
 -Lead Guest Editor, Advances in Meteorology (2014-2015)
 
 ## 审稿人:
-Nature Geoscience, Journal of Climate, Journal of the Atmospheric Sciences, Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Environmental Research Letters, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, International Journal of Climatology, 大气科学, 气候与环境研究, 等
+Nature Geoscience, Nature Communications, Journal of Climate, Journal of the Atmospheric Sciences, Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Environmental Research Letters, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, International Journal of Climatology, 大气科学, 气候与环境研究, 等
 
 ## 学术和社会团体:
+-Member, International Commission on Dynamical Meteorology (2023-)
 -Member, Scientific Steering Group, WCRP Lighthouse Activity-My Climate Risk (2022-2026)
 -Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
 -Member, WCRP Lighthouse Activity Science Plan Development Team (2020-22)
