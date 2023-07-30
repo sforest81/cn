@@ -1,9 +1,5 @@
 
 **Submitted:**
-\. Dong Zizhen, **Lin Wang\***, Hainan Gong, 2023: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*,
-
-\. Guan Weina, and **Lin Wang\***, 2023: Mechanism of the wintertime subseasonal surface air temperature variability over Eurasia, *Environmental Research: Climate*, 
-
 \. Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Geophysical Research Letters*,
 
 \. Gui Shu, Ruowen Yang\*, Chuanfeng Zhao, and **Lin Wang**, 2023: Association of the cloud radiative effect with the changes in the northern edge of Hadley Circulation between the CMIP5 and CMIP6 models, *Journal of Climate*,
@@ -16,68 +12,80 @@
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
 
-\. Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*,
-
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, and Zhiyuan Cong, 2023: Primary biological and biomass burning aerosols over the northern slope of Mt. Everest (Qomolangma), central Himalayas,
 
 **In press:**
-\. Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2023: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2022JD037719
 
-\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, doi:10.1029/2022EF003437
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset: new eastward-propagating mechanisms. *Climate Dynamics*, https://doi.org/10.1007/s00382-023-06824-5
 
-\. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, doi:10.1175/JCLI-D-22-0238.1
-
-\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, doi:10.1007/s00382-022-06276-3
-
-\. Zheng Fei\*, Bo Wu, **Lin Wang**, Jingbei Peng, Yao Yao, Haifeng Zong, Qing Bao, Jiehua Ma, Wansuo Duan, Shuai Hu, Haolan Ren, Tingwei Cao, Renping Lin, Xianghui Fang, Tianjun Zhou, and Jiang Zhu, 2023: Can Eurasia experience a cold winter under a third-year La Nina in 2022/23?, *Advances in Atmospheric Sciences*, doi:10.1007/s00376-022-2331-8
-
-\. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, doi:10.1007/s00382-022-06220-5
-
-\. Gu Wei\*, Lijuan Chen, Yongguang Wang, Hui Gao, **Lin Wang**, and Yuyun Liu, 2022: Extreme precipitation over northern China in autumn 2021 and the joint contributions from the tropical and mid-latitude factors, *Advances in Climate Change Research*, doi:10.1016/j.accre.2022.11.008
-
-\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, *Weather and Climate Dynamics*, doi:/10.5194/wcd-2022-39
-
-\. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, doi:10.1175/BAMS-D-21-0280.1
+\. Zhang Hui, Ming Luo\*, Tao Pei\*, Xiaoping Liu, **Lin Wang**, Wei Zhang, Lijie Lin, Erjia Ge, Zhen Liu, Weilin Liao, 2023: Unequal urban heat burdens impede climate justice and equity goals, *The Innovation*,
 
 **2023:**
-132\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304
+145\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304
 
-131\. Dong Zizhen, Ruowen Yang\*, Jie Cao, and **Lin Wang**, 2023: Effect of anthropogenic forcing on increased winter precipitation in Southeast Asia from 1979 to 2014, *Frontiers Environmental Science*, **10**, 1115698, doi:10.3389/fenvs.2022.1115698
+144\. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, doi:10.1175/JCLI-D-22-0238.1
 
-130\. Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, Cunde Xiao\*, Lixin Wu, and Yao Yao, 2023: Origins of Barents-Kara sea-ice interannual variability modulated by the Atlantic pathway of El Niño-Southern Oscillation, *Nature Communications*, **14**, 585, doi:10.1038/s41467-023-36136-5
+143\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, doi:10.1029/2022EF003437
+
+142\. Dong Zizhen, **Lin Wang\***, Hainan Gong, 2023: Diminishing impact of the Siberian high on the Southeast Asian rainfall due to the weakened variability of the Aleutian low, *Journal of Geophysical Research: Atmospheres*,
+
+141\. Xu Guangzhi, **Lin Wang\***, and Shuyu Wang, 2023: Leading modes of wintertime North Pacific atmospheric rivers and their drivers, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2022JD037719
+
+140\. Guan Weina, and **Lin Wang\***, 2023: Mechanism of the wintertime subseasonal surface air temperature variability over Eurasia, *Environmental Research: Climate*, 
+
+139\. Zheng Fei\*, Bo Wu, **Lin Wang**, Jingbei Peng, Yao Yao, Haifeng Zong, Qing Bao, Jiehua Ma, Wansuo Duan, Shuai Hu, Haolan Ren, Tingwei Cao, Renping Lin, Xianghui Fang, Tianjun Zhou, and Jiang Zhu, 2023: Can Eurasia experience a cold winter under a third-year La Nina in 2022/23?, *Advances in Atmospheric Sciences*, doi:10.1007/s00376-022-2331-8
+
+138\. Dong Zizhen, Ruowen Yang\*, Jie Cao, and **Lin Wang**, 2023: Effect of anthropogenic forcing on increased winter precipitation in Southeast Asia from 1979 to 2014, *Frontiers Environmental Science*, **10**, 1115698, doi:10.3389/fenvs.2022.1115698
+
+137\. Li Yulan, Hainan Gong*, Wen Chen*, Lin Wang, Renguang Wu, Zizhen Dong, Jinling Piao, and Kangjie Ma, 2023: Summer precipitation variability in the Mongolian Plateau and its possible causes, Global and Planetary Change, 228, 104189, https://doi.org/10.1016/j.gloplacha.2023.104189
+
+136\. Luo Binhe, Dehai Luo\*, Yao Ge, Aiguo Dai, **Lin Wang**, Ian Simmonds, Cunde Xiao\*, Lixin Wu, and Yao Yao, 2023: Origins of Barents-Kara sea-ice interannual variability modulated by the Atlantic pathway of El Niño-Southern Oscillation, *Nature Communications*, **14**, 585, doi:10.1038/s41467-023-36136-5
+
+135\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, *Weather and Climate Dynamics*, doi:/10.5194/wcd-2022-39
+
+134\. Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*,
+
+133\. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, doi:10.1175/BAMS-D-21-0280.1
+
 
 **2022:**
-129\. Dong Zizhen, and **Lin Wang\***, 2022: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the central North American air temperature, *Journal of Climate*, **35**(6), 1901-1913, doi:10.1175/JCLI-D-21-0531.1
+132\. Dong Zizhen, and **Lin Wang\***, 2022: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the central North American air temperature, *Journal of Climate*, **35**(6), 1901-1913, doi:10.1175/JCLI-D-21-0531.1
 
-128\. Dong Zizhen, **Lin Wang\***, Hainan Gong, Atsamon Limsakul, Hongdou Fan, and Sittichai Pimonsree, 2022: A Skillful Seasonal Prediction for Wintertime Rainfall in Southern Thailand, *International Journal of Climatology*, **42**(16), 10048-10061, doi:10.1002/joc.7882
+131\. Dong Zizhen, **Lin Wang\***, Hainan Gong, Atsamon Limsakul, Hongdou Fan, and Sittichai Pimonsree, 2022: A Skillful Seasonal Prediction for Wintertime Rainfall in Southern Thailand, *International Journal of Climatology*, **42**(16), 10048-10061, doi:10.1002/joc.7882
 
-127\. Shen Xiaocen, **Lin Wang\***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2022: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, **35**(6), 2075-2092, doi:10.1175/JCLI-D-21-0500.1
+130\. Shen Xiaocen, **Lin Wang\***, Scott Osprey, Steven C. Hardiman, Adam A. Scaife, and Ji Ma, 2022: The Life cycle and variability of Antarctic weak polar vortex events, *Journal of Climate*, **35**(6), 2075-2092, doi:10.1175/JCLI-D-21-0500.1
 
-126\. Xu Peiqiang, **Lin Wang\***, Zizhen Dong, Yanjie Li, Xiaocen Shen, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, **35**(17), 5787-5804, doi:10.1075/JCLI-D-21-0705.1
+129\. Xu Peiqiang, **Lin Wang\***, Zizhen Dong, Yanjie Li, Xiaocen Shen, and Wen Chen, 2022: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern, *Journal of Climate*, **35**(17), 5787-5804, doi:10.1075/JCLI-D-21-0705.1
 
-125\. Xu Peiqiang, **Lin Wang\***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, **35**(8), 2603-2616, doi:10.1175/JCLI-D-21-0657.1
+128\. Xu Peiqiang, **Lin Wang\***, and Jie Ming, 2022: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern, *Journal of Climate*, **35**(8), 2603-2616, doi:10.1175/JCLI-D-21-0657.1
 
-124\. Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, **127**(10), e2021JD035340, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2021JD035340
+127\. Huangfu Jingliang, Yulian Tang, **Lin Wang\***, Wen Chen, Ronghui Huang, Tianjiao Ma, 2022: Joint influence of the quasi-biennial oscillation and Indian Ocean basin mode on tropical cyclone occurrence frequency over the western North Pacific, *Climate Dynamics*, **59**(11-12), 3439-3449, doi:10.1007/s00382-022-06276-3
 
-123\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, doi:10.3390/rs14205200
+126\. Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, **127**(10), e2021JD035340, *Journal of Geophysical Research: Atmospheres*, doi:10.1029/2021JD035340
 
-122\. Xu Guangzhi\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, doi:10.1029/2021JD036159
+125\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, doi:10.3390/rs14205200
 
-121\. Hu Peng, Wen Chen\*, **Lin Wang**, Shangfeng Chen, Yuyun Liu, and Lingying Chen, 2022: Revisiting the ENSO–monsoonal rainfall relationship: New insights based on an objective determination of the Asian summer monsoon duration, *Environmental Research Letters*, **17**(10), 104050, doi:10.1088/1748-9326/ac97ad
+124\. Xu Guangzhi\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, doi:10.1029/2021JD036159
 
-120\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, **39**(3), 443-455, doi:10.1007/s00376-021-1208-6
+123\. Hu Peng, Wen Chen\*, **Lin Wang**, Shangfeng Chen, Yuyun Liu, and Lingying Chen, 2022: Revisiting the ENSO–monsoonal rainfall relationship: New insights based on an objective determination of the Asian summer monsoon duration, *Environmental Research Letters*, **17**(10), 104050, doi:10.1088/1748-9326/ac97ad
 
-119\. Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, **59**(7-8), 2467-2480, doi:10.1007/s00382-022-06220-5
+122\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, Yuyun Liu, 2022: The weakening relationship between ENSO and the South China Sea summer monsoon onset in recent decades. *Advances in Atmospheric Sciences*, **39**(3), 443-455, doi:10.1007/s00376-021-1208-6
 
-118\. Liu Lin, Zizhen Dong, Hainan Gong\*, **Lin Wang**, Wen Chen, and Renguang Wu, 2022: Climatology and trends of wintertime diurnal temperature range over East Asia in CMIP6 models: Evaluation and attribution, *Atmospheric Research*, **280**, 106438, doi:10.1016/j.atmosres.2022.106438
+121\. Jiang Wenping\*, Hainan Gong, Ping Huang, **Lin Wang**, Gang Huang, and Lisuo Hu, 2022: Biases and improvements of the ENSO-East Asian winter monsoon teleconnection in CMIP5 and CMIP6 models, *Climate Dynamics*, **59**(7-8), 2467-2480, doi:10.1007/s00382-022-06220-5
 
-117\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, **35**(13), 4347-4362, doi:10.1175/JCLI-D-21-0740.1
+120\. Liu Lin, Zizhen Dong, Hainan Gong\*, **Lin Wang**, Wen Chen, and Renguang Wu, 2022: Climatology and trends of wintertime diurnal temperature range over East Asia in CMIP6 models: Evaluation and attribution, *Atmospheric Research*, **280**, 106438, doi:10.1016/j.atmosres.2022.106438
 
-116\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0740.1
+119\. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, **42**(15), 7583-7597, doi:10.1007/s00382-022-06220-5
 
-115\. Zhou Shijie, Ping Huang\*, Shang-Ping Xie, Gang Huang, and **Lin Wang**, 2022: Varying contributions of fast and slow responses cause asymmetric tropical rainfall change between CO2 ramp-up and ramp-down, *Science Bulletin*, **67**(16), 1702-1711, doi:10.1016/j.scib.2022.07.010
+118\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, **35**(13), 4347-4362, doi:10.1175/JCLI-D-21-0740.1
 
-114\. Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022: Modulation by the QBO of the relationship between the NAO and Northeast China temperature in late winter, *Journal of Climate*, **35**(24), 4395-4411, doi:10.1175/JCLI-D-22-0353.1
+117\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, doi:10.1175/JCLI-D-21-0740.1
+
+116\. Zhou Shijie, Ping Huang\*, Shang-Ping Xie, Gang Huang, and **Lin Wang**, 2022: Varying contributions of fast and slow responses cause asymmetric tropical rainfall change between CO2 ramp-up and ramp-down, *Science Bulletin*, **67**(16), 1702-1711, doi:10.1016/j.scib.2022.07.010
+
+115\. Zuo Jinqing, Fei Xie\*, Liuni Yang, Chenghu Sun, **Lin Wang**, Ruhua Zhang, 2022: Modulation by the QBO of the relationship between the NAO and Northeast China temperature in late winter, *Journal of Climate*, **35**(24), 4395-4411, doi:10.1175/JCLI-D-22-0353.1
+
+114\. Gu Wei\*, Lijuan Chen, Yongguang Wang, Hui Gao, **Lin Wang**, and Yuyun Liu, 2022: Extreme precipitation over northern China in autumn 2021 and the joint contributions from the tropical and mid-latitude factors, *Advances in Climate Change Research*, **13**(6), 835-842, doi:10.1016/j.accre.2022.11.008
 
 113\. Hou Yurong, Wenju Cai, David M. Holland, Xiao Cheng, Jiankai Zhang, **Lin Wang**, Nathaniel C. Johnson, Fei Xie, Weijun Sun, Yao Yao, Xi Liang, Yun Yang, Chueh-Hsin Chang, Meijiao Xin, and Xichen Li\*, 2022: A surface temperature dipole pattern between Eurasia and North America triggered by the Barents-Kara sea-ice retreat in boreal winter, *Environmental Research Letters*, **17**(11), 114047, doi:10.1088/1748-9326/ac9ecd
 
