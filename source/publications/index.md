@@ -74,11 +74,11 @@
 
 120\. Liu Lin, Zizhen Dong, Hainan Gong\*, **Lin Wang**, Wen Chen, and Renguang Wu, 2022: Climatology and trends of wintertime diurnal temperature range over East Asia in CMIP6 models: Evaluation and attribution, *Atmospheric Research*, **280**, 106438, https://doi.org/10.1016/j.atmosres.2022.106438
 
-119\. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, **42**(15), 7583-7597, https://doi.org/10.1007/s00382-022-06220-5
+119\. Cen Sixian\*, Wen Chen, Shangfeng Chen, **Lin Wang**, Yuyun Liu, and Jingliang Huangfu, 2022: Weakened influence of the ENSO on the zonal shift of the South Asian High after the early 1980s, *International Journal of Climatology*, **42**(15), 7583-7597, https://doi.org/10.1002/joc.7666
 
 118\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: Close linkage of the South China Sea summer monsoon onset and extreme rainfall in May over Southeast Asia: role of the synoptic-scale systems, *Journal of Climate*, **35**(13), 4347-4362, https://doi.org/10.1175/JCLI-D-21-0740.1
 
-117\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the sub-systems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, https://doi.org/10.1175/JCLI-D-21-0740.1
+117\. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, **Lin Wang**, and Ruping Huang, 2022: The leading mode and factors for coherent variations among the subsystems of tropical Asian summer monsoon onset, *Journal of Climate*, **35**(5), 1597-1612, https://doi.org/10.1175/JCLI-D-21-0101.1
 
 116\. Zhou Shijie, Ping Huang\*, Shang-Ping Xie, Gang Huang, and **Lin Wang**, 2022: Varying contributions of fast and slow responses cause asymmetric tropical rainfall change between CO2 ramp-up and ramp-down, *Science Bulletin*, **67**(16), 1702-1711, https://doi.org/10.1016/j.scib.2022.07.010
 
@@ -110,13 +110,13 @@
 
 103\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2021: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Atmosspheric Research*, **252**, 105446, https://doi.org/10.1016/j.atmosres.2020.105446
 
-102\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2021: Influence of the QBO on tropical convection and its impact on tropical cyclone activity over the western North Pacific, *Climate Dynamics*, **57**(3-4), 657-669, https://doi.org/10.1007/s00382-021-05731-x, in press
+102\. Huangfu Jingliang, Yulian Tang, Tianjiao Ma, Wen Chen, and **Lin Wang\***, 2021: Influence of the QBO on tropical convection and its impact on tropical cyclone activity over the western North Pacific, *Climate Dynamics*, **57**(3-4), 657-669, https://doi.org/10.1007/s00382-021-05731-x
 
 101\. **王林\***, 龚海楠, 兰晓青，2021: 北极涛动的年代际变化及其气候影响, *大气科学学报*, **44**(1), 50-60, https://doi.org/10.13878/j.cnki.dqkxxb.20201030001. **Wang Lin\***, Hainan Gong, and Xiaoqing Lan, 2021: Interdecadal variation of the Arctic Oscillation and its influences on climate, *Transactions of Atmospheric Sciences*, **44**(1), 50-60, https://doi.org/10.13878/j.cnki.dqkxxb.20201030001
 
 100\. Gong Hainan\*, **Lin Wang**, Wen Chen, Renguang Wu, 2021: Evolution of the East Asian winter land temperature trends: Role of internal variability and external forcing, *Environmental Research Letters*, **16**(2021), 024015, https://doi.org/10.1088/1748-9326/abd586
 
-99\.	Wang Lei\*, **Lin Wang**, Wen Chen, and Jingliang Huangfu, 2021: Modulation of winter precipitation associated with tropical cyclone of the western North Pacific by the stratospheric Quasi-Biennial Oscillation, *Environmental Research Letters*, **16**(5), 054003, https://doi.org/10.1088/1748-9326/abdbf0
+99\. Wang Lei\*, **Lin Wang**, Wen Chen, and Jingliang Huangfu, 2021: Modulation of winter precipitation associated with tropical cyclone of the western North Pacific by the stratospheric Quasi-Biennial Oscillation, *Environmental Research Letters*, **16**(5), 054003, https://doi.org/10.1088/1748-9326/abf3dd
 
 98\. Liu Qian, Guixing Chen\*, **Lin Wang**, Yuki Kanno, and Toshiki Iwasaki, 2021: Southward cold airmass flux of the East Asian winter monsoon: Diversity and impacts, *Journal of Climate*, **34**(8), 3239-3254, https://doi.org/10.1175/JCLI-D-20-0319.1
 
@@ -138,7 +138,7 @@
 
 90\. Xu Peiqiang, **Lin Wang\***, Yuyun Liu, Wen Chen, and Ping Huang, 2020: The record-breaking heat wave of June 2019 in Central Europe, *Atmospheric Science Letters*, **21**(4), e964, https://doi.org/10.1002/asl.964.
 
-89\. 韦玮, **王林\***, 陈权亮, 刘毓赟, 李珍, 2020: 我国前冬和后冬的划分及其气温的年际变异. *大气科学*, **44**(1), 122-137. Wei Wei, **Lin Wang\***, Quanliang Chen, Yuyun Liu, and Zhen Li, 2020: Definition of early and late winter and the associated interannual variations of surface air temperature in China, *Chinese Journal of Atmospheric Sciences*, **44**(1), 122-137. 
+89\. 韦玮, **王林\***, 陈权亮, 刘毓赟, 李珍, 2020: 我国前冬和后冬的划分及其气温的年际变异. *大气科学*, **44**(1), 122-137, http://dx.doi.org/10.3878/j.issn.1006-9895.1904.18238. Wei Wei, **Lin Wang\***, Quanliang Chen, Yuyun Liu, and Zhen Li, 2020: Definition of early and late winter and the associated interannual variations of surface air temperature in China, *Chinese Journal of Atmospheric Sciences*, **44**(1), 122-137, http://dx.doi.org/10.3878/j.issn.1006-9895.1904.18238. 
 
 88\. Wang Lei\*, and **Lin Wang**, 2020: Impact of the East Asian winter monsoon on tropical cyclone genesis frequency over the South China Sea. *International Journal of Climatology*, **40**(2), 1328-1334, https://doi.org/10.1002/joc.6243.
 
@@ -202,7 +202,7 @@
 
 59\.  Liu Lin, Jianping Guo\*, Hainan Gong\*, Zhanqing Li, Wen Chen, Renguang Wu, **Lin Wang**, Hui Xu, Jian Li, Dandan Chen, and Panmao Zhai, 2019: Contrasting influence of Gobi and Taklimakan deserts on the dust aerosols in western North America. *Geophysical Research Letters*, **46**(15), 9064-9071, https://doi.org/10.1029/2019GL083508.
 
-58\.  朱红霞, 陈文, 冯涛\*, **王林**, 2019: 冬季西伯利亚高压的主要年际变化模态及其对东亚气温的影响. *高原气象*, **38**(4), 685-692. Zhu Hongxia, Wen Chen, Tao Feng\*, and **Lin Wang**, 2019: Interannual variations of Siberian high during boreal winter and its influence on East Asian temperature, *Plateau Meteorology*, **38**(4), 685-692.
+58\.  朱红霞, 陈文, 冯涛\*, **王林**, 2019: 冬季西伯利亚高压的主要年际变化模态及其对东亚气温的影响. *高原气象*, **38**(4), 685-692, https://doi.org/10.7522/j.issn.1000-0534.2018.00116. Zhu Hongxia, Wen Chen, Tao Feng\*, and **Lin Wang**, 2019: Interannual variations of Siberian high during boreal winter and its influence on East Asian temperature, *Plateau Meteorology*, **38**(4), 685-692, https://doi.org/10.7522/j.issn.1000-0534.2018.00116.
 
 **2018:**
 
@@ -224,7 +224,7 @@
 
 49\.  Liu Lin, Jianping Guo\*, Wen Chen, Renguang Wu, **Lin Wang**, Hainan Gong\*, Weitao Xue, and Jian Li, 2018: Large-scale pattern of the diurnal temperature range changes over East Asia and Australia in boreal winter: A perspective of atmospheric circulation. *Journal of Climate*, **31**(7), 2715-2728, https://doi.org/10.1175/JCLI-D-17-0608.1.
 
-48\.  黄荣辉\*, 陈文, 魏科, **王林**, 皇甫静亮, 2018: 平流层大气动力学及其与对流层大气相互作用的研究：进展与展望. *大气科学*, **42**(3), 463-487. Huang Ronghui\*, Wen Chen, Ke Wei, **Lin Wang**, and Jingliang Huangfu, 2018: Atmospheric dynamics in the stratosphere and its interaction with tropospheric processes: Progress and problems. *Chinese Journal of Atmospheric Sciences*. **42**(3), 463-487.
+48\.  黄荣辉\*, 陈文, 魏科, **王林**, 皇甫静亮, 2018: 平流层大气动力学及其与对流层大气相互作用的研究：进展与展望. *大气科学*, **42**(3), 463-487, http://dx.doi.org/10.3878/j.issn.1006-9895.1802.17250. Huang Ronghui\*, Wen Chen, Ke Wei, **Lin Wang**, and Jingliang Huangfu, 2018: Atmospheric dynamics in the stratosphere and its interaction with tropospheric processes: Progress and problems. *Chinese Journal of Atmospheric Sciences*. **42**(3), 463-487, http://dx.doi.org/10.3878/j.issn.1006-9895.1802.17250.
 
 **2017:**
 
@@ -232,7 +232,7 @@
 
 46\.  Gong Hainan, **Lin Wang\***, Wen Chen, Xiaolong Chen, and Debashish Nath, 2017: Biases of the wintertime Arctic Oscillation in CMIP5 models. *Environmental Research Letters*, **12**(1), 014001, https://doi.org/10.1088/1748-9326/12/1/014001.
 
-45\.  Limsakul Atsamon\*, Patama Singhruck, and **Lin Wang**, 2017: Climatology and spatio-temporal variability of wintertime total and extreme rainfall in Thailand during 1970-2012. *EnvironmentAsia*, **10**(2), 162-167.
+45\.  Limsakul Atsamon\*, Patama Singhruck, and **Lin Wang**, 2017: Climatology and spatio-temporal variability of wintertime total and extreme rainfall in Thailand during 1970-2012. *EnvironmentAsia*, **10**(2), 162-167, http://dx.doi.org/10.14456/ea.2017.31.
 
 44\.  Nath Reshmita, Xuefeng Cui\*, Debashis Nath, Hans F. Graf, Wen Chen, **Lin Wang**, Hainan Gong, and Qian Li, 2017: CMIP5 multimodel projections of extreme weather events in the humid subtropical Gangetic Plain region of India. *Earth's Future*, **5**(2), 224-239, https://doi.org/10.1002/2016EF000482.
 
@@ -274,19 +274,19 @@
 
 27\.  Nath Debashis, Wen Chen\*, **Lin Wang**, and Yin Ma,2014: Planetary wave reflection and its impact on tropospheric cold weather over Asia during January 2008. *Advances in Atmospheric Sciences*, **31**(4), 851-862, https://doi.org/10.1007/s00376-013-3195-8.
 
-26\.  韦玮, **王林\***, 陈权亮, 刘毓赟, 2014: 我国前冬和后冬气温年际变化的特征与联系. *大气科学*, **38**(3), 524-536. Wei Wei, **Lin Wang\***, Quanliang Chen, and Yuyun Liu, 2014: Interannual variations of early and late winter temperatures in China and their linkage, *Chinese Journal of Atmospheric Sciences*, **38**(3), 524-536.
+26\.  韦玮, **王林\***, 陈权亮, 刘毓赟, 2014: 我国前冬和后冬气温年际变化的特征与联系. *大气科学*, **38**(3), 524-536, http://dx.doi.org/10.3878/j.issn.1006-9895.1401.13320. Wei Wei, **Lin Wang\***, Quanliang Chen, and Yuyun Liu, 2014: Interannual variations of early and late winter temperatures in China and their linkage, *Chinese Journal of Atmospheric Sciences*, **38**(3), 524-536, http://dx.doi.org/10.3878/j.issn.1006-9895.1401.13320.
 
-25\.  刘毓赟\*, **王林**, 2014: 冬季斯堪的纳维亚遥相关型在20世纪70年代末的年代际变化. *气候与环境研究*, **19**(3), 371-382. Liu Yuyun\* and **Lin Wang**, 2014: Interdecadal changes of the Scandinavian teleconnection pattern in the late 1970s. *Climatic and Environmental Research*, **19**(3), 371-382.
+25\.  刘毓赟\*, **王林**, 2014: 冬季斯堪的纳维亚遥相关型在20世纪70年代末的年代际变化. *气候与环境研究*, **19**(3), 371-382, http://dx.doi.org/10.3878/j.issn.1006-9585.2013.13052. Liu Yuyun\* and **Lin Wang**, 2014: Interdecadal changes of the Scandinavian teleconnection pattern in the late 1970s. *Climatic and Environmental Research*, **19**(3), 371-382, http://dx.doi.org/10.3878/j.issn.1006-9585.2013.13052.
 
-24\.  Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma, 2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*, **58**(12), 1355-1362, https://doi.org/10.1007/s11434-012-5654-5.
+24\.  Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma, 2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*, **58**(12), 1355-1362, https://doi.org/10.1007/s11434-012-5654-5. 陈文, 兰晓青, 王林, 马音, 2013: ENSO和北极涛动对东亚冬季气候异常的综合影响, 科学通报, **58**(8), 634-641, https://doi.org/10.1360/csb2013-58-8-634.
 
-23\.  陈文\*, 魏科, **王林**, 周群, 2013: 东亚冬季风气候变异和机理以及平流层过程的影响. *大气科学*, **37**(2), 425-438. Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma, 2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*. **58**(12), 1355-1362.
+23\.  陈文\*, 魏科, **王林**, 周群, 2013: 东亚冬季风气候变异和机理以及平流层过程的影响. *大气科学*, **37**(2), 425-438, http://dx.doi.org/10.3878/j.issn.1006-9895.2012.12309. Chen Wen\*, Xiaoqing Lan, **Lin Wang**, and Yin Ma, 2013: The combined effects of the ENSO and the Arctic Oscillation on the winter climate anomalies in East Asia. *Chinese Science Bulletin*. **58**(12), 1355-1362, http://dx.doi.org/10.3878/j.issn.1006-9895.2012.12309.
 
 22\.  **Wang Lin\***, and Renguang Wu, 2012: In-phase transition from the winter monsoon to the summer monsoon over East Asia: Role of the Indian Ocean. *Journal of Geophysical Research-Atmospheres*, **117**, D11112, https://doi.org/10.1029/2012jd017509.
 
 21\.  **Wang Lin\***, Kunihiko Kodera, and Wen Chen, 2012: Observed triggering of tropical convection by a cold surge: implications for MJO initiation. *Quarterly Journal of the Royal Meteorological Society*, **138**(668), 1740-1750, https://doi.org/10.1002/qj.1905.
 
-20\.  Lan Xiaoqing, Wen Chen\*, and **Lin Wang**, 2012: Quasi-stationary planetary wave-mean flow interactions in the Northern Hemisphere stratosphere and their responses to ENSO events. *Science China-Earth Sciences*, **55**(3), 405-417, https://doi.org/10.1007/s11430-011-4345-4.
+20\.  Lan Xiaoqing, Wen Chen\*, and **Lin Wang**, 2012: Quasi-stationary planetary wave-mean flow interactions in the Northern Hemisphere stratosphere and their responses to ENSO events. *Science China-Earth Sciences*, **55**(3), 405-417, https://doi.org/10.1007/s11430-011-4345-4. 兰晓青, 陈文\*, **王林**, 2012: 北半球平流层准定常行星波与平均流的相互作用及其对ENSO事件的响应, *中国科学：地球科学*, **42**(1), 10-23, https://doi.org/10.1360/zd-2012-42-1-10.
 
 19\.  Huang Ronghui\*, Jilong Chen, **Lin Wang**, and ZhongdaLin, 2012: Characteristics, processes, and causes of the spatio-temporal variabilities of the East Asian monsoon system. *Advances in Atmospheric Sciences*, **29**(5), 910-942, https://doi.org/10.1007/s00376-012-2015-x.
 
@@ -294,13 +294,13 @@
 
 17\.  陈国森\*, **王林**, 陈文, 2012: 大气Rossby长波理论的建立和发展. *气象科技进展*, **2**(6), 50-54. Chen Guosen\*, **Lin Wang**, and Wen Chen, 2012: On the establishment and development of the atmospheric Rossby wave theory. *Advances in Meteorological Science and Techonology*, **2**(6), 50-54.
 
-16\.  黄荣辉\*, 刘永, **王林**, 王磊, 2012: 2009年秋-2010年春我国西南地区严重干旱的成因分析. *大气科学*, **36**(3), 443-457. Huang Ronghui\*, Yong Liu, **Lin Wang**, and Lei Wang, 2012: Analysis of causes of severe drought occurred in Southwest China from the fall of 2009 to the spring of 2010. *Chinese Journal of Atmospheric Sciences*, **36**(3), 443-457.
+16\.  黄荣辉\*, 刘永, **王林**, 王磊, 2012: 2009年秋-2010年春我国西南地区严重干旱的成因分析. *大气科学*, **36**(3), 443-457, http://dx.doi.org/10.3878/j.issn.1006-9895.2011.11101. Huang Ronghui\*, Yong Liu, **Lin Wang**, and Lei Wang, 2012: Analysis of causes of severe drought occurred in Southwest China from the fall of 2009 to the spring of 2010. *Chinese Journal of Atmospheric Sciences*, **36**(3), 443-457, http://dx.doi.org/10.3878/j.issn.1006-9895.2011.11101.
 
-15\.  **王林\***, 陈文, 冯瑞权, 梁嘉静, 2011: 北太平洋涛动的季节演变及其与我国冬春气候异常的联系. *大气科学*, **35**(3), 393-402. **Wang Lin\***, Wen Chen, Soikun Fong, and Kacheng Leong, 2011: The seasonal march of the North Pacific Oscillation and its association with the interannual variations of China’s climate in boreal winter and spring. *Chinese Journal of Atmospheric Sciences*, **35**(3), 393-402.
+15\.  **王林\***, 陈文, 冯瑞权, 梁嘉静, 2011: 北太平洋涛动的季节演变及其与我国冬春气候异常的联系. *大气科学*, **35**(3), 393-402, http://dx.doi.org/10.3878/j.issn.1006-9895.2011.03.01. **Wang Lin\***, Wen Chen, Soikun Fong, and Kacheng Leong, 2011: The seasonal march of the North Pacific Oscillation and its association with the interannual variations of China’s climate in boreal winter and spring. *Chinese Journal of Atmospheric Sciences*, **35**(3), 393-402, http://dx.doi.org/10.3878/j.issn.1006-9895.2011.03.01.
 
-14\.  **王林\***, 冯娟, 2011: 我国冬季降水年际变化的主模态分析. *大气科学*, **35**(6), 1105-1116. **Wang Lin\***, and Juan Feng, 2011: Two major modes of the wintertime precipitation over China. *Chinese Journal of Atmospheric Sciences*, **35**(6), 1105-1116.
+14\.  **王林\***, 冯娟, 2011: 我国冬季降水年际变化的主模态分析. *大气科学*, **35**(6), 1105-1116, http://dx.doi.org/10.3878/j.issn.1006-9895.2011.06.10. **Wang Lin\***, and Juan Feng, 2011: Two major modes of the wintertime precipitation over China. *Chinese Journal of Atmospheric Sciences*, **35**(6), 1105-1116, http://dx.doi.org/10.3878/j.issn.1006-9895.2011.06.10.
 
-13\.  马音, 陈文\*, **王林**, 2011: 我国夏季淮河和江南梅雨期降水异常年际变化的气候背景及其比较. *气象学报*, **69**(2), 334-343. Ma Yin, Wen Chen\*, and **Lin Wang**, 2011: A comparative study of the interannual variation of summer rainfall anomolies between the Huaihe Meiyu season and the Jiangnan Meiyu season and their climate background. *Acta Meteorologica Sinica*, **69**(2), 334-343.
+13\.  马音, 陈文\*, **王林**, 2011: 我国夏季淮河和江南梅雨期降水异常年际变化的气候背景及其比较. *气象学报*, **69**(2), 334-343, https://doi.org/10.11676/qxxb2011.028. Ma Yin, Wen Chen\*, and **Lin Wang**, 2011: A comparative study of the interannual variation of summer rainfall anomolies between the Huaihe Meiyu season and the Jiangnan Meiyu season and their climate background. *Acta Meteorologica Sinica*, **69**(2), 334-343, https://doi.org/10.11676/qxxb2011.028.
 
 12\.  **Wang Lin\***, and Wen Chen, 2010: How well do existing indices measure the strength of the East Asian winter monsoon? *Advances in Atmospheric Sciences*, **27**(4), 855-870, https://doi.org/10.1007/s00376-009-9094-3.
 
@@ -310,18 +310,18 @@
 
 9\.  Feng Juan, **Lin Wang**, Wen Chen\*, Soi Kun Fong, and Ka Cheng Leong, 2010: Different impacts of two types of Pacific Ocean warming on Southeast Asian rainfall during boreal winter. *Journal of Geophysical Research-Atmospheres*, **115**, D24122, https://doi.org/10.1029/2010jd014761.
 
-8\.  Jadin Evgeny A.\*, Ke Wei, Yulia A. Zyulyaeva, Wen Chen, and **Lin Wang**, 2010: Stratospheric wave activity and the Pacific Decadal Oscillation. *Journal of Atmospheric and Solar-Terrestrial Physics*, **70**(16), 1163-1170.
+8\.  Jadin Evgeny A.\*, Ke Wei, Yulia A. Zyulyaeva, Wen Chen, and **Lin Wang**, 2010: Stratospheric wave activity and the Pacific Decadal Oscillation. *Journal of Atmospheric and Solar-Terrestrial Physics*, **70**(16), 1163-1170, https://doi.org/10.1016/j.jastp.2010.07.009.
 
-7\.  **Wang Lin\***, Ronghui Huang, Lei Gu, Wen Chen, and Lihua Kang, 2009: Interdecadal variations of the East Asian winter monsoon and their association with quasi-stationary planetary wave activity. *Journal of Climate*, **22**(18), 4860-4872.
+7\.  **Wang Lin\***, Ronghui Huang, Lei Gu, Wen Chen, and Lihua Kang, 2009: Interdecadal variations of the East Asian winter monsoon and their association with quasi-stationary planetary wave activity. *Journal of Climate*, **22**(18), 4860-4872, https://doi.org/10.1175/2009JCLI2973.1.
 
-6\.  **Wang Lin**, Wen Chen\*, Wen Zhou, and Ronghui Huang, 2009: Interannual variations of East Asian trough axis at 500 hPa and its association with the East Asian winter monsoon pathway. *Journal of Climate*, **22**(3), 600-614.
+6\.  **Wang Lin**, Wen Chen\*, Wen Zhou, and Ronghui Huang, 2009: Interannual variations of East Asian trough axis at 500 hPa and its association with the East Asian winter monsoon pathway. *Journal of Climate*, **22**(3), 600-614, https://doi.org/10.1175/2008JCLI2295.1.
 
 5\.  Chen Wen\*, **Lin Wang**, Yongkang Xue, and Shufen Sun,2009: Variabilities of the spring river runoff system in East China and their relations to precipitation and sea surface temperature. *International Journal of Climatology*, **29**(10), 1381-1394, https://doi.org/10.1002/joc.1785.
 
-4\.  康丽华\*, 陈文, **王林**, 陈丽娟, 2009: 我国冬季气温的年际变化及其与大气环流和海温异常的关系. *气候与环境研究*, **14**(1), 45-53. Kang Lihua\*, Wen Chen, **Lin Wang**, and Lijuan Chen, 2009: Interannual variations of winter temperature in China and their relations to the atmospheric circulation and sea surface temperature. *Climatic and Environmental Research*, **14**(1), 45-53, doi:10.3878/j.issn.1006-9585.2009.01.05(http://www.dqkxqk.ac.cn/qhhj/qhhj/article/abstract/20090105)
+4\.  康丽华\*, 陈文, **王林**, 陈丽娟, 2009: 我国冬季气温的年际变化及其与大气环流和海温异常的关系. *气候与环境研究*, **14**(1), 45-53, [doi:10.3878/j.issn.1006-9585.2009.01.05](http://www.dqkxqk.ac.cn/qhhj/qhhj/article/abstract/20090105). Kang Lihua\*, Wen Chen, **Lin Wang**, and Lijuan Chen, 2009: Interannual variations of winter temperature in China and their relations to the atmospheric circulation and sea surface temperature. *Climatic and Environmental Research*, **14**(1), 45-53, [doi:10.3878/j.issn.1006-9585.2009.01.05](http://www.dqkxqk.ac.cn/qhhj/qhhj/article/abstract/20090105)
 
 3\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2008: Interdecadal modulation of PDO on the impact of ENSO on the East Asian winter monsoon. *Geophysical Research Letters*, **35**, L20702, https://doi.org/10.1029/2008GL035287.
 
 2\.  **Wang Lin**, Wen Chen\*, and Ronghui Huang, 2007: Changes in the variability of North Pacific Oscillation around 1975/1976 and its relationship with East Asian winter climate. *Journal of Geophysical Research-Atmospheres*, **112**, D11110, https://doi.org/10.1029/2006JD008054. [[pdf]](https://github.com/sforest81/cn/blob/master/source/publications/2007_WangL_etal_JGR.pdf)
 
-1\.  **王林\***, 陈文, 黄荣辉, 黄刚, 2007: 北半球定常波输送西风动量的气候态及其年变化. *大气科学*, **31**(3), 377-388. **Wang Lin\***, Wen Chen, Ronghui Huang, and Gang Huang, 2007: The climatology and annual cycle of meridional transport of westerly momentum by stationary waves in the Northern Hemisphere. *Chinese Journal of Atmospheric Sciences*, **31**(3), 377-388.
+1\.  **王林\***, 陈文, 黄荣辉, 黄刚, 2007: 北半球定常波输送西风动量的气候态及其年变化. *大气科学*, **31**(3), 377-388, [doi:10.3878/j.issn.1006-9895.2007.03.01](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2007.03.01). **Wang Lin\***, Wen Chen, Ronghui Huang, and Gang Huang, 2007: The climatology and annual cycle of meridional transport of westerly momentum by stationary waves in the Northern Hemisphere. *Chinese Journal of Atmospheric Sciences*, **31**(3), 377-388, [doi:10.3878/j.issn.1006-9895.2007.03.01](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2007.03.01).
