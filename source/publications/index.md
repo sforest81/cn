@@ -17,8 +17,6 @@
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
 
-\. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, and Zhiyuan Cong, 2023: Primary biological and biomass burning aerosols over the northern slope of Mt. Everest (Qomolangma), central Himalayas,
-
 **In press:**
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset: new eastward-propagating mechanisms. *Climate Dynamics*, https://doi.org/10.1007/s00382-023-06824-5
