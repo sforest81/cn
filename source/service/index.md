@@ -20,11 +20,12 @@ Nature Geoscience, Nature Communications, Journal of Climate, Journal of the Atm
 ## 学术和社会团体:
 -Member, International Commission on Dynamical Meteorology (2023-)
 -Member, Scientific Steering Group, WCRP Lighthouse Activity-My Climate Risk (2022-2026)
+-Member, Working Group, WCRP Lighthouse Activity-Explaining and Predicting Earth System Change (2022-2026)
 -Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
--Member, WCRP Lighthouse Activity Science Plan Development Team (2020-22)
+-Member, WCRP Lighthouse Activity Science Plan Development Team (2020-2022)
 -中央和国家机关青年联合会第一届委员会，委员（2020-）
 -中国科学院大气物理研究所学位委员会，委员（2019-）
--中国科学院青年联合会第四届委员会，委员（2015-）
+-中国科学院青年联合会第四届委员会，委员（2015-2019）
 -中国气象学会动力气象学委员会，学术秘书（2011-）
 
 ## 科普及采访：
