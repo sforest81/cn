@@ -5,6 +5,8 @@ date: 2020-06-21 18:53:02
 
 ## 期刊编委会:
 
+-常务编委, 气象科学 (2023-)
+-青年常务编委, 高原气象 (2023-)
 -Associate Editor, International Journal of Climatology (2023-)
 -Associate Editor, Frontiers in Earth Science (2022-)
 -Editorial Board Member, Atmosphere (2020-)
@@ -23,6 +25,7 @@ Nature Geoscience, Nature Communications, Journal of Climate, Journal of the Atm
 -Member, Working Group, WCRP Lighthouse Activity-Explaining and Predicting Earth System Change (2022-2026)
 -Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
 -Member, WCRP Lighthouse Activity Science Plan Development Team (2020-2022)
+-民盟中国科学院委员会大气所支部，副主委（2021-）
 -中央和国家机关青年联合会第一届委员会，委员（2020-）
 -中国科学院大气物理研究所学位委员会，委员（2019-）
 -中国科学院青年联合会第四届委员会，委员（2015-2019）
