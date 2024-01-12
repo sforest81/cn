@@ -10,11 +10,14 @@ date: 2021-08-29 00:00:00
 ## 最新动态
 
 - 本组长期招收研究生和博士后，有意者请联系wanglin@域名（=mail.iap.ac.cn）
+- 2024.01：徐霈强担任Quarterly Journal of the Royal Meteorological Society编委
+- 2024.01：王林获《中国科学：地球科学》2023年度“优秀审稿人”
+- 2023.12：欢送万添赴Seoul National University进行为期1年的访学，合作者为Seok-Woo Son教授
 - 2023.10：王林荣获赵九章优秀中青年科学奖
 - 2023.09：“黄荣辉院士学术思想研讨会-东亚季风系统学术进展与前沿”在北京胜利召开
 - 2023.08：徐霈强获得国家自然科学基金面上项目资助
 - 2023.07：王林当选国际动力气象学委员会（ICDM）委员
-- 2023.04：王林担任International Journal of Climatology副编委
+- 2023.04：王林担任International Journal of Climatology编委
 - 2023.04：王林入选爱思唯尔“2022年中国高被引学者”
 - 2023.03：国家重点研发计划中挪国际合作项目和基金委中俄国际合作项目联合启动会在上海举行
 - 2023.02：欢送沈小岑赴Reading大学Ted Shepherd教授课题组进行博士后研究
