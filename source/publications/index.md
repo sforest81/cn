@@ -60,9 +60,9 @@
 
 140\. Hu Peng, Jingliang Huangfu, Wen Chen\*, Tao Feng, **Lin Wang**, and Yulian Tang, 2023: The first observational evidence of a mixed Rossby-gravity wave contribution to triggering the onset process of the South China Sea summer monsoon, *Environmental Research Letters*, **18**(12), 124010, https://doi.org/10.1088/1748-9326/ad07b3
 
-139\. 赖欣, 王庆语, 皇甫静亮\*, 蒋兴文, **王林**, 陈文, 黄荣辉, 傅慎明, 岑思弦, 汤玉莲, 2023: 西南涡的气候学研究进展, *大气科学*, **47**(6), 1983-2000, https://doi.org/10.3878/j.issn.1006-9895.2304.23021
+139\. 赖欣, 王庆语, 皇甫静亮\*, 蒋兴文, **王林**, 陈文, 黄荣辉, 傅慎明, 岑思弦, 汤玉莲, 2023: 西南涡的气候学研究进展, *大气科学*, **47**(6), 1983-2000, https://doi.org/10.3878/j.issn.1006-9895.2304.23021 Lai Xin, Qingyu Wang, Jingliang Huangfu\*, Xingwen Jiang, **Lin Wang**, Wen Chen, Ronghui Huang, Shenming Fu, Sixian Cen, Yulian Tang, 2023: Progress in climatological research on the Southwest China vortex, *Chinese Journal of Atmospheric Sciences*,  **47**(6), 1983-2000, https://doi.org/10.3878/j.issn.1006-9895.2304.23021
 
-138\. 龚海楠, 温之平, 张人禾, 周连童, **王林**, 陈文\*, 2023: 热带海气相互作用及其对东亚夏季风气候影响的研究进展, *中国基础科学*, **25**(1), 27-45
+138\. 龚海楠, 温之平, 张人禾, 周连童, **王林**, 陈文\*, 2023: 热带海气相互作用及其对东亚夏季风气候影响的研究进展, *中国基础科学*, **25**(1), 27-45, https://doi.org/10.3969/j.issn.1009-2412.2023.01.005 Gong Hainan, Zhiping Wen, Renhe Zhang, Liantong Zhou, **Lin Wang**, Wen Chen\*, Research progress on tropical air-sea interaction and its impact on the East Asian summer monsoon system, *China Basic Science*, **25**(1), 27-45, https://doi.org/10.3969/j.issn.1009-2412.2023.01.005
 
 137\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, *Weather and Climate Dynamics*, **4**(1), 213-228, https://doi.org/10.5194/wcd-2022-39
 
@@ -85,9 +85,9 @@
 
 128\. Gong Hainan, Hongyin Xiao, Quanliang Chen, and **Lin Wang\***, 2022: Impact of internal climate variability on wintertime surface air temperature trends over Eurasia in the CESM1 large ensemble, **127**(10), e2021JD035340, *Journal of Geophysical Research: Atmospheres*, https://doi.org/10.1029/2021JD035340
 
-127\. 吴昱树, **王林**\*, 陈权亮, 2022: 多模式预报系统对东亚冬季风预测性能的评估, *高原山地气象研究*, **42**(4), 88-95, https://doi.org/10.3969/j.issn.1674-2184.2022.04.012
+127\. 吴昱树, **王林**\*, 陈权亮, 2022: 多模式预报系统对东亚冬季风预测性能的评估, *高原山地气象研究*, **42**(4), 88-95, https://doi.org/10.3969/j.issn.1674-2184.2022.04.012 Wu Yushu, **Lin Wang**\*, Quanliang Chen, 2022: Prediction performance assessment of multiple model forecast systems for East Asian winter monsoon, *Plateau and Mountain Meteorology Research*, **42**(4), 88-95, https://doi.org/10.3969/j.issn.1674-2184.2022.04.012
 
-126\. 翟亮\*, **王林**, 郭金兰, 雷蕾, 杜佳, 张迎新, 2022: 北京一次极端雨雪天气异常诊断分析, *沙漠与绿洲气象*, **16**(4), 9-13, https://doi.org/10.12057/j.issn.1002-0799.2022.04.002
+126\. 翟亮\*, **王林**, 郭金兰, 雷蕾, 杜佳, 张迎新, 2022: 北京一次极端雨雪天气异常诊断分析, *沙漠与绿洲气象*, **16**(4), 9-13, https://doi.org/10.12057/j.issn.1002-0799.2022.04.002 Zhai Liang\*, **Lin Wang**, Jinlan Guo, Lei Lei, Jia Du, and Yingxin Zhang, 2022: Abnormal diagnosis and analysis of an extreme rain and snow weather in Beijing, *Desert and Oasis Meteorology*, **16**(4), 9-13, https://doi.org/10.12057/j.issn.1002-0799.2022.04.002 
 
 125\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, https://doi.org/10.3390/rs14205200
 
