@@ -202,7 +202,7 @@
 
 80\. Wang Sai, Wen Chen\*, Shangfeng Chen, Debashis Nath, and **Lin Wang**, 2020: Anomalous winter moisture transport associated with the recent surface warming over the Barents-Kara Seas region since the mid-2000s. *International Journal of Climatology*, **40**(4), 2497-2505, https://doi.org/10.1002/joc.6337
 
-79\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late-1990s, *Theoretical and Applied Climatology*, **140**(1-2), 503-516, https://doi.org/10.1007/s00704-020-03102-w
+79\. Zhao Wei, Wen Chen, Shangfeng Chen\*, Debashis Nath, and **Lin Wang**, 2020: Interdecadal change in the impact of North Atlantic SST on August rainfall over the monsoon transitional belt in China around the late 1990s, *Theoretical and Applied Climatology*, **140**(1-2), 503-516, https://doi.org/10.1007/s00704-020-03102-w
 
 78\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2020: Impact of the September Silk Road pattern on the South China Sea summer monsoon withdrawal, *International Journal of Climatology*, **40**(15), 6361-6368, https://doi.org/10.1002/joc.6585
 
