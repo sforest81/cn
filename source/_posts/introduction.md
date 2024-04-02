@@ -10,6 +10,7 @@ date: 2021-08-29 00:00:00
 ## 最新动态
 
 - 本组长期招收研究生和博士后，有意者请联系wanglin@域名（=mail.iap.ac.cn）
+- 2024.03：[IAMAS国际动力气象学委员会2024年研讨会](https://icdm2024.nju.edu.cn/)将于10月在南京召开，欢迎投稿
 - 2024.01：徐霈强担任Quarterly Journal of the Royal Meteorological Society编委
 - 2024.01：王林获《中国科学：地球科学》2023年度“优秀审稿人”
 - 2023.12：万添赴Seoul National University的Seok-Woo Son教授课题组进行为期1年的访学
