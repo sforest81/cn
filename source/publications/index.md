@@ -8,11 +8,11 @@
 
 \. Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Journal*,
 	
-\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
-\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2023: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*,
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*,
 
-\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2023: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
+\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2024: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
 
 \. Shaw A. Tiffany\*, Paola A. Arias, Mat Collins, Dim Coumou, Arona Diedhiou, Chaim I. Garfinkel, Shipra Jain, M. K. Roxy, Marlene Kretschmer, Ruby Leung, Sugata Narsey, Olivia Martius, Richard Seager, Theodore G. Shepherd, Anna A. Sörensson, Tannecia Stephenson, Michael Taylor, and **Lin Wang**, 2024: Regional Climate Change: consensus, discrepancies, and ways forward, *Frontiers in Climate*,
 
@@ -43,7 +43,7 @@
 **2023:**
 157\. **王林\***, 王蕾, 张洋, 2023: 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读: D0504大气动力学, *大气科学*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304 **Wang Lin\***, Lei Wang, and Yang Zhang, 2023: Research directions and keywords under the secondary application codes of the Atmospheric Sciences Discipline of the National Natural Science Foundation of China: D0504 Atmospheric Dynamics. *Chinese Journal of Atmospheric Sciences*, **47**(1), 125-131, doi:10.3878/j.issn.1006-9895.2212.22304
 
-156\. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2022: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, **6**(7), 2259-2276, https://doi.org/10.1175/JCLI-D-22-0238.1
+156\. Shen Xiaocen, **Lin Wang\***, Adam A. Scaife, Steven C. Hardiman, and Peiqiang Xu, 2023: The stratosphere-troposphere oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere, *Journal of Climate*, **6**(7), 2259-2276, https://doi.org/10.1175/JCLI-D-22-0238.1
 
 155\. Dong Zizhen, **Lin Wang\***, Peiqiang Xu, Jie Cao, and Ruowen Yang, 2023: Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world, *Earth’s Future*, **11**(2), e2022EF003437, https://doi.org/10.1029/2022EF003437
 
@@ -85,7 +85,7 @@
 
 136\. Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*, **40**(8), 1429-1456, https://doi.org/10.1007/s00376-023-2266-8
 
-135\. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2022: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, **104**(1), E325-E339, https://doi.org/10.1175/BAMS-D-21-0280.1
+135\. Kirsten L. Findell\*, Rowan T. Sutton, Nico Caltabiano, Anca Brookshaw, Patrick Heimbach, Masahide Kimoto, Scott Osprey, Doug Smith, James S. Risbey, Zhuo Wang, Lijing Cheng, Leandro Diaz, Markus G. Donat, Michael Ek, June-Yi Lee, Shoshiro Minobe, Matilde Rusticucci, Frederic Vitart, and **Lin Wang**, 2023: Explaining and predicting earth system change: A World Climate Research Programme Call to Action, *Bulletin of the American Meteorological Society*, **104**(1), E325-E339, https://doi.org/10.1175/BAMS-D-21-0280.1
 
 **2022:**
 134\. Dong Zizhen, and **Lin Wang\***, 2022: Quasi-biweekly oscillation over the western North Pacific in boreal winter and its influence on the central North American air temperature, *Journal of Climate*, **35**(6), 1901-1913, https://doi.org/10.1175/JCLI-D-21-0531.1
