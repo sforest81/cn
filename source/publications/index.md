@@ -22,7 +22,7 @@
 
 **In press:**
 
-\. 马康杰, 龚海楠, **王林\***, 李钰岚, 2024: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, **Lin Wang\***, and Yulan Li, 2024: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013, in press
+\. 马康杰, 龚海楠, **王林\***, 李钰岚, 2024: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, **Lin Wang\***, and Yulan Li, 2024: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2024: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
