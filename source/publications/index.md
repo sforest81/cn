@@ -6,15 +6,13 @@
 
 \. Wenqi Zhang, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, and Ian Simmonds, 2024: Impacts of background conditions on the atmospheric blocking evolution, *Journal of the Atmospheric Sciences*,
 
-\. Guan Weina, Xianan Jiang, Xuejuan Ren, and **Lin Wang\***, 2023: The Temperature Feedback in the Subseasonal Warm Arctic-Cold North America Pattern, *Journal*,
-	
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: How does the Interdecadal Pacific Oscillation affect the large-scale tropical Asian summer monsoon onset?. *Journal of Climate*,
 
-\. Hu Peng, Wen Chen\*, Shangfeng Chen, **Lin Wang**, and Yuyun Liu, 2024: Impacts of Pacific Ocean SST on the interdecadal variations of tropical Asian summer monsoon onset. *Atmospheric Research*,
-
-\. Shaw A. Tiffany\*, Paola A. Arias, Mat Collins, Dim Coumou, Arona Diedhiou, Chaim I. Garfinkel, Shipra Jain, M. K. Roxy, Marlene Kretschmer, Ruby Leung, Sugata Narsey, Olivia Martius, Richard Seager, Theodore G. Shepherd, Anna A. Sörensson, Tannecia Stephenson, Michael Taylor, and **Lin Wang**, 2024: Regional Climate Change: consensus, discrepancies, and ways forward, *Frontiers in Climate*,
+\. Guan Weina, Xianan Jiang, Xuejuan Ren, Vladimir Semenov, Kaiming Hu, and **Lin Wang\***, 2024: The temperature feedback in the intraseasonal warm Arctic–cold North America pattern, *Atmospheric Research*, **308**, 107532, https://doi.org/10.1016/j.atmosres.2024.107532
+	
+\. Shaw A. Tiffany\*, Paola A. Arias, Mat Collins, Dim Coumou, Arona Diedhiou, Chaim I. Garfinkel, Shipra Jain, M. K. Roxy, Marlene Kretschmer, Ruby Leung, Sugata Narsey, Olivia Martius, Richard Seager, Theodore G. Shepherd, Anna A. Sörensson, Tannecia Stephenson, Michael Taylor, and **Lin Wang**, 2024: Regional Climate Change: consensus, discrepancies, and ways forward, *Frontiers in Climate*, **6**, 1391634, https://doi.org/10.3389/fclim.2024.1391634
 
 **In press:**
 \. Dong Zizhen, **Lin Wang\***, Ruowen Yang, and Jie Cao, 2024: Propagation and maintenance of the quasi-biweekly oscillation over the western North Pacific in boreal winter, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-23-0387.1
