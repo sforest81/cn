@@ -1,6 +1,6 @@
 **Submitted:**
 
-\. Zhang Wenqi, and **Lin Wang\***, 2024:The sudden stratospheric warming behaviors in changing atmospheric stratifications, *Journal of the Atmospheric Sciences*, 
+\. Zhang Wenqi, and **Lin Wang\***, 2024: The sudden stratospheric warming behaviors in changing atmospheric stratifications, *Journal of the Atmospheric Sciences*, 
 
 \. Wenqi Zhang, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, and Ian Simmonds, 2024: Impacts of background conditions on the atmospheric blocking evolution, *Journal of the Atmospheric Sciences*,
 
