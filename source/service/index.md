@@ -25,7 +25,11 @@ Nature Geoscience, Nature Communications, Science Advances, Journal of Climate, 
 -Member, Working Group, WCRP Lighthouse Activity-Explaining and Predicting Earth System Change (2022-2026)
 -Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
 -Member, WCRP Lighthouse Activity Science Plan Development Team (2020-2022)
--民盟中国科学院委员会大气所支部，副主委（2021-）
+-IAMAS中国委员会，委员（2024-）
+-中国气象学会动力气象学委员会，主任委员（2024-）
+-民盟中国科学院委员会，副主委（2024-）
+-民盟中国科学院委员会大气所支部，主委（2024-）
+-民盟中国科学院委员会大气所支部，副主委（2021-2024）
 -中央和国家机关青年联合会第一届委员会，委员（2020-）
 -中国科学院大气物理研究所学位委员会，委员（2019-）
 -中国科学院青年联合会第四届委员会，委员（2015-2019）
