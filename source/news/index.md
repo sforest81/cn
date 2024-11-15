@@ -6,7 +6,7 @@ date: 2021-08-29 00:00:00
 - 2024.10：[国际动力气象学委员会2024年研讨会在南京成功举办](https://iap.cas.cn/gb/xwdt/zhxw/202411/t20241111_7436992.html)
 - 2024.09：祝贺孙璐瑶通过硕士论文答辩并入职福建省气象台！
 - 2024.08：祝贺张文其获得国家自然科学基金青年项目资助！
-- 2024.07：王林主持的重点研发计划国际合作项目在挪威卑尔根举行项目进展交流会
+- 2024.07：重点研发计划国际合作项目在挪威卑尔根举行项目进展交流会
 - 2024.06：由徐霈强担任主召集人的AOGS分会场“Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction”在韩国平昌举办
 - 2024.05：王林担任民盟中国科学院委员会副主委和大气所支部主委
 - 2024.04：王林获得民盟北京市委2023年度反映社情民意信息工作先进个人
