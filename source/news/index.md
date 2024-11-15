@@ -2,6 +2,23 @@
 title: 新闻动态
 date: 2021-08-29 00:00:00
 ---
+- 2024.11：王林担任中国气象学会第29届动力气象学委员会主任
+- 2024.10：[国际动力气象学委员会2024年研讨会在南京成功举办](https://iap.cas.cn/gb/xwdt/zhxw/202411/t20241111_7436992.html)
+- 2024.09：祝贺孙璐瑶通过硕士论文答辩并入职福建省气象台！
+- 2024.08：祝贺张文其获得国家自然科学基金青年项目资助！
+- 2024.07：王林主持的重点研发计划国际合作项目在挪威卑尔根举行项目进展交流会
+- 2024.06：由徐霈强担任主召集人的AOGS分会场“Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction”在韩国平昌举办
+- 2024.03：[张人禾院士应邀在第一期“Monsoon+论坛”作报告](https://iap.cas.cn/gb/xwdt/zhxw/202403/t20240313_7024995.html)
+- 2024.03：[国际动力气象学委员会2024年研讨会将于10月在南京召开](https://icdm2024.nju.edu.cn/)，欢迎投稿
+- 2024.03：王林入选爱思唯尔“2023年中国高被引学者”
+- 2024.02：王林担任国际气象学与大气科学歇会（IAMAS）中国委员会委员
+- 2024.01：王林获《中国科学：地球科学》2023年度“优秀审稿人”
+- 2024.01：徐霈强担任Quarterly Journal of the Royal Meteorological Society编委
+- 2023.12：万添赴Seoul National University的Seok-Woo Son教授课题组进行为期1年的访学
+- 2023.10：王林荣获赵九章优秀中青年科学奖
+- 2023.09：“黄荣辉院士学术思想研讨会-东亚季风系统学术进展与前沿”在北京胜利召开
+- 2023.09：欢迎曹云飞、韩林君、夏文涛加入课题组！
+- 2023.08：徐霈强获得国家自然科学基金面上项目资助
 - 2023.07：王林当选国际动力气象学委员会（ICDM）委员
 - 2023.04：王林担任International Journal of Climatology副编委
 - 2023.04：王林入选爱思唯尔“2022年中国高被引学者”
