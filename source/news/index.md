@@ -13,7 +13,7 @@ date: 2021-08-29 00:00:00
 - 2024.03：[张人禾院士应邀在第一期“Monsoon+论坛”作报告](https://iap.cas.cn/gb/xwdt/zhxw/202403/t20240313_7024995.html)
 - 2024.03：[国际动力气象学委员会2024年研讨会将于10月在南京召开](https://icdm2024.nju.edu.cn/)，欢迎投稿
 - 2024.03：王林入选爱思唯尔“2023年中国高被引学者”
-- 2024.02：王林担任国际气象学与大气科学歇会（IAMAS）中国委员会委员
+- 2024.02：王林担任国际气象学与大气科学协会（IAMAS）中国委员会委员
 - 2024.01：王林获《中国科学：地球科学》2023年度“优秀审稿人”
 - 2024.01：徐霈强担任Quarterly Journal of the Royal Meteorological Society编委
 - 2023.12：万添赴Seoul National University的Seok-Woo Son教授课题组进行为期1年的访学
