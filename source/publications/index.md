@@ -12,8 +12,6 @@
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2024: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
-\. Gong Hainan, Kangjie Ma, **Lin Wang\***, and Wen Chen, 2024: Attribution of the record-breaking extreme cold event over Northern East Asia in December 2023, *Geophysical Research Letters*,
-
 \. Shen Xiaocen\*, **Lin Wang**, Adam A. Scaife, and Steven C. Hardiman, 2024: Intraseasonal Linkages of Winter Surface Air Temperature Between Eurasia and North America,
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, Ming Sun, **Lin Wang**, and Yuyun Liu, 2024: Distinctive features of equatorial waves before and after the South China Sea summer monsoon onset, *Geophysical Research Letters*,
@@ -21,6 +19,8 @@
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
 **In press:**
+
+\. Gong Hainan, Kangjie Ma, **Lin Wang\***, and Wen Chen, 2024: Attribution of the record-breaking extreme cold event over Northern East Asia in December 2023, *Geophysical Research Letters*, e2024GL112568, https://doi.org/10.1029/2024GL112568
 
 \. 马康杰, 龚海楠, **王林\***, 李钰岚, 2024: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, **Lin Wang\***, and Yulan Li, 2024: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
