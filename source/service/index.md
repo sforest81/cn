@@ -5,13 +5,15 @@ date: 2020-06-21 18:53:02
 
 ## 期刊编委会:
 
+-执行副主编, 气象学报 (2024-)
+-执行副主编, Journal of Meteorological Research (2024-)
 -常务编委, 气象科学 (2023-)
 -青年常务编委, 高原气象 (2023-)
 -Associate Editor, International Journal of Climatology (2023-)
 -Associate Editor, Frontiers in Earth Science (2022-)
--Editorial Board Member, Atmosphere (2020-)
 -Associate Editor, Journal of Climate (2019-)
 -编委, 中国科技论文 (2019-)
+-Editorial Board Member, Atmosphere (2020-2024)
 -Guest Associate Editor, Frontiers in Earth Science (2020-2021)
 -Guest Editor, Science Bulletin (2016-2017)
 -Lead Guest Editor, Advances in Meteorology (2014-2015)
