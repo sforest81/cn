@@ -5,8 +5,6 @@ date: 2020-06-21 18:53:02
 
 ## 期刊编委会:
 
--执行副主编, 气象学报 (2024-)
--执行副主编, Journal of Meteorological Research (2024-)
 -常务编委, 气象科学 (2023-)
 -青年常务编委, 高原气象 (2023-)
 -Associate Editor, International Journal of Climatology (2023-)
