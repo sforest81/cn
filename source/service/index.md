@@ -4,20 +4,20 @@ date: 2020-06-21 18:53:02
 ---
 
 ## 期刊编委会:
-
+-执行副主编, 气象学报 & Journal of Meteorological Research (2024-)
 -常务编委, 气象科学 (2023-)
 -青年常务编委, 高原气象 (2023-)
 -Associate Editor, International Journal of Climatology (2023-)
--Associate Editor, Frontiers in Earth Science (2022-)
 -Associate Editor, Journal of Climate (2019-)
 -编委, 中国科技论文 (2019-)
+-Associate Editor, Frontiers in Earth Science (2022-2024)
 -Editorial Board Member, Atmosphere (2020-2024)
 -Guest Associate Editor, Frontiers in Earth Science (2020-2021)
 -Guest Editor, Science Bulletin (2016-2017)
 -Lead Guest Editor, Advances in Meteorology (2014-2015)
 
 ## 审稿人:
-Nature Geoscience, Nature Communications, Science Advances, Journal of Climate, Journal of the Atmospheric Sciences, Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Environmental Research Letters, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, International Journal of Climatology, 大气科学, 气候与环境研究, 等
+Nature Geoscience, Nature Communications, Science Advances, Journal of Climate, Journal of the Atmospheric Sciences, Geophysical Research Letters, Journal of Geophysical Research: Atmospheres, Environmental Research Letters, Climate Dynamics, Quarterly Journal of the Royal Meteorological Society, International Journal of Climatology, 大气科学, 气象学报, 气候与环境研究, 等
 
 ## 学术和社会团体:
 -Member, International Commission on Dynamical Meteorology (2023-)
@@ -25,8 +25,8 @@ Nature Geoscience, Nature Communications, Science Advances, Journal of Climate, 
 -Member, Working Group, WCRP Lighthouse Activity-Explaining and Predicting Earth System Change (2022-2026)
 -Member, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2021-）
 -Member, WCRP Lighthouse Activity Science Plan Development Team (2020-2022)
--IAMAS中国委员会，委员（2024-）
 -中国气象学会动力气象学专业委员会，主任委员（2024-）
+-IAMAS中国委员会，委员（2024-）
 -民盟中国科学院委员会，副主委（2024-）
 -民盟中国科学院委员会大气所支部，主委（2024-）
 -民盟中国科学院委员会大气所支部，副主委（2021-2024）
