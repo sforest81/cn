@@ -20,22 +20,24 @@
 
 **In press:**
 
-\. Gong Hainan, Kangjie Ma, **Lin Wang\***, and Wen Chen, 2024: Attribution of the record-breaking extreme cold event over Northern East Asia in December 2023, *Geophysical Research Letters*, e2024GL112568, https://doi.org/10.1029/2024GL112568
-
 \. 马康杰, 龚海楠, **王林\***, 李钰岚, 2024: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, **Lin Wang\***, and Yulan Li, 2024: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2024: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
 **2024:**
-177\. **王林\***, 徐霈强, 2024: 北半球夏季急流遥相关: 进展与展望, *大气科学*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322 **Wang Lin\***, and Peiqiang Xu, 2024: Waveguide teleconnections in the boreal summer: Progress and perspectives, *Chinese Journal of Atmospheric Sciences*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322
+179\. **王林\***, 徐霈强, 2024: 北半球夏季急流遥相关: 进展与展望, *大气科学*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322 **Wang Lin\***, and Peiqiang Xu, 2024: Waveguide teleconnections in the boreal summer: Progress and perspectives, *Chinese Journal of Atmospheric Sciences*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322
 
-176\. Xiao Huiwen, Peiqiang Xu\*, and **Lin Wang\***, 2024: The unprecedented 2023 North China heatwaves and their S2S predictability, *Geophysical Research Letters*, **51**(6), e2023GL107642, https://doi.org/10.1029/2023GL107642
+178\. Xiao Huiwen, Peiqiang Xu\*, and **Lin Wang\***, 2024: The unprecedented 2023 North China heatwaves and their S2S predictability, *Geophysical Research Letters*, **51**(6), e2023GL107642, https://doi.org/10.1029/2023GL107642
 
-175\. Gu Wei, **Lin Wang\***, and Lijuan Chen\*, 2024: The contrasting interannual variation and mechanism of the first rainy season precipitation before and after the South China Sea summer monsoon onset, *Atmospheric Research*, **306**, 107455, https://doi.org/10.1016/j.atmosres.2024.107455
+177\. Gu Wei, **Lin Wang\***, and Lijuan Chen\*, 2024: The contrasting interannual variation and mechanism of the first rainy season precipitation before and after the South China Sea summer monsoon onset, *Atmospheric Research*, **306**, 107455, https://doi.org/10.1016/j.atmosres.2024.107455
 
-174\. Gong Hainan, Kangjie Ma, **Lin Wang\***, 2024: Internal variability dominated the extreme cold wave over North America in December 2022, *Geophysical Research Letters*, **51**(18), e2024GL111429, https://doi.org/10.1029/2024GL111429
+176\. Gong Hainan, Kangjie Ma, **Lin Wang\***, 2024: Internal variability dominated the extreme cold wave over North America in December 2022, *Geophysical Research Letters*, **51**(18), e2024GL111429, https://doi.org/10.1029/2024GL111429
 
-173\. Ma Kangjie, Hainan Gong\*, and **Lin Wang\***, 2024: Attribution of the concurrent extreme heatwaves in Northern Europe and Northeast Asia in July 2018, *Atmospheric Research*, **307**, 107506, https://doi.org/10.1016/j.atmosres.2024.107506
+175\. Gong Hainan, Kangjie Ma, **Lin Wang\***, and Wen Chen, 2024: Attribution of the record-breaking extreme cold event over Northern East Asia in December 2023, *Geophysical Research Letters*, e2024GL112568, https://doi.org/10.1029/2024GL112568
+
+174\. Ma Kangjie, Hainan Gong\*, and **Lin Wang\***, 2024: Attribution of the concurrent extreme heatwaves in Northern Europe and Northeast Asia in July 2018, *Atmospheric Research*, **307**, 107506, https://doi.org/10.1016/j.atmosres.2024.107506
+
+173\. Ma Kangjie, Hainan Gong\*, and **Lin Wang\***, Bo Liu, Yulan Li, Huanhuan Ran, and Wen Chen, 2024: Anthropogenic forcing intensified internally driven concurrent heatwaves in August 2022 across the Northern Hemisphere, *npj Climate and Atmospheric Science*, **7**, 290, https://doi.org/10.1038/s41612-024-00828-6
 
 172\. Dong Zizhen, **Lin Wang\***, Ruowen Yang, and Jie Cao, 2024: Propagation and maintenance of the quasi-biweekly oscillation over the western North Pacific in boreal winter, *Journal of Climate*, **37**(12), 3433-3453, https://doi.org/10.1175/JCLI-D-23-0387.1
 
