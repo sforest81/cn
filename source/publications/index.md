@@ -14,6 +14,8 @@
 
 \. Shen Xiaocen\*, **Lin Wang**, Adam A. Scaife, and Steven C. Hardiman, 2024: Intraseasonal Linkages of Winter Surface Air Temperature Between Eurasia and North America,
 
+\. Pang Bo\*, Riyu Lu, Adam A. Scaife, and **Lin Wang**, 2024: Increased resolution can reduce model biases in the Interdecadal Pacific Oscillation, *Environmental Research Letters*,
+
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, Ming Sun, **Lin Wang**, and Yuyun Liu, 2024: Distinctive features of equatorial waves before and after the South China Sea summer monsoon onset, *Geophysical Research Letters*,
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
