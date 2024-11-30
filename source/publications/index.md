@@ -12,7 +12,7 @@
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2024: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
-\. Shen Xiaocen\*, **Lin Wang**, Adam A. Scaife, and Steven C. Hardiman, 2024: Intraseasonal Linkages of Winter Surface Air Temperature Between Eurasia and North America,
+\. Shen Xiaocen\*, **Lin Wang**, Adam A. Scaife, and Steven C. Hardiman, 2024: Intraseasonal Linkages of Winter Surface Air Temperature Between Eurasia and North America, *Geophysical Research Letters*,
 
 \. Pang Bo\*, Riyu Lu, Adam A. Scaife, and **Lin Wang**, 2024: Increased resolution can reduce model biases in the Interdecadal Pacific Oscillation, *Environmental Research Letters*,
 
@@ -35,7 +35,7 @@
 
 176\. Gong Hainan, Kangjie Ma, **Lin Wang\***, 2024: Internal variability dominated the extreme cold wave over North America in December 2022, *Geophysical Research Letters*, **51**(18), e2024GL111429, https://doi.org/10.1029/2024GL111429
 
-175\. Gong Hainan, Kangjie Ma, **Lin Wang\***, and Wen Chen, 2024: Attribution of the record-breaking extreme cold event over Northern East Asia in December 2023, *Geophysical Research Letters*, e2024GL112568, https://doi.org/10.1029/2024GL112568
+175\. Gong Hainan, Kangjie Ma, **Lin Wang\***, and Wen Chen, 2024: Attribution of the record-breaking extreme cold event over Northern East Asia in December 2023, *Geophysical Research Letters*, **51**(23), e2024GL112568, https://doi.org/10.1029/2024GL112568
 
 174\. Ma Kangjie, Hainan Gong\*, and **Lin Wang\***, 2024: Attribution of the concurrent extreme heatwaves in Northern Europe and Northeast Asia in July 2018, *Atmospheric Research*, **307**, 107506, https://doi.org/10.1016/j.atmosres.2024.107506
 
