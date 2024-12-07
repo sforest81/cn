@@ -1,14 +1,14 @@
 **Submitted:**
 
-\. Zhang Wenqi, and **Lin Wang\***, 2024: The sudden stratospheric warming behaviors in changing atmospheric stratifications, *Journal of the Atmospheric Sciences*, 
+\. Zhang Wenqi, and **Lin Wang\***, 2024: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, 
 
 \. Wenqi Zhang, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, and Ian Simmonds, 2024: Impacts of background conditions on the atmospheric blocking evolution, *Journal of the Atmospheric Sciences*,
 
 \. Zhang Wenqi, **Lin Wang\***, Steven C Hardiman, and Yihua Lin, 2024: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
-\. Zhang Wenqi, and **Lin Wang\***, 2024: Impact of atmospheric stratification on vertical propagation of stationary planetary waves, *Science China Earth Science*,
+\. Zhang Wenqi, and **Lin Wang\***, 2024: Impact of atmospheric stratification on vertical propagation of stationary planetary waves, 
 
-\. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2024: NAO-like Prediction Errors of Wintertime Surface Air Temperature in SEAS5 Tied to Positive Air-Sea Feedback over the North Atlantic, *Climate Dynamics*,
+\. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2024: NAO-like Prediction Errors of Wintertime Surface Air Temperature in SEAS5 Tied to Positive Air-Sea Feedback over the North Atlantic, 
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2024: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
