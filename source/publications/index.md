@@ -2,8 +2,6 @@
 
 \. Zhang Wenqi, and **Lin Wang\***, 2024: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, 
 
-\. Wenqi Zhang, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, and Ian Simmonds, 2024: Impacts of background conditions on the atmospheric blocking evolution, *Journal of the Atmospheric Sciences*,
-
 \. Zhang Wenqi, **Lin Wang\***, Steven C Hardiman, and Yihua Lin, 2024: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
 \. Zhang Wenqi, and **Lin Wang\***, 2024: Impact of atmospheric stratification on vertical propagation of stationary planetary waves, 
@@ -21,6 +19,8 @@
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2024: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
 **In press:**
+
+\. Wenqi Zhang, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, and Ian Simmonds, 2024: Impacts of background conditions on the evolutionary disparities between Greenland and Euro-Atlantic blocking, *Journal of the Atmospheric Sciences*, https://doi.org/10.1175/JAS-D-24-0016.1
 
 \. 马康杰, 龚海楠, **王林\***, 李钰岚, 2024: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, **Lin Wang\***, and Yulan Li, 2024: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
