@@ -1,5 +1,7 @@
 **Submitted:**
 
+\. Gong Hainan, **Lin Wang\***, James A. Screen\*, Wen Chen\*, Judah Cohen, and Renguang Wu, 2025: Teleconnection from Arctic warming suppresses long-term warming in central Eurasia, *Science Advances*, 
+
 \. Zhang Wenqi, **Lin Wang\***, Steven C Hardiman, and Yihua Lin, 2025: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Impact of atmospheric stratification on vertical propagation of stationary planetary waves, *Advances in Atmospheric Sciences*, 
@@ -8,7 +10,7 @@
 
 \. Wan Tian, Chang-Hyun Park, Jung Choi, **Seok-Woo Son\***, and **Lin Wang\***, 2025: Skillful prediction of springtime East Asian surface air temperature one season ahead using QBO, *Journal of Meteorological Research*,
 
-\. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2025: NAO-like Prediction Errors of Wintertime Surface Air Temperature in SEAS5 Tied to Positive Air-Sea Feedback over the North Atlantic, 
+\. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2025: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
