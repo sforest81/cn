@@ -40,7 +40,7 @@
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2025: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
 **2025:**
-180\. **王林\***, 徐霈强, 2024: 北半球夏季急流遥相关: 进展与展望, *大气科学*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322 **Wang Lin\***, and Peiqiang Xu, 2024: Waveguide teleconnections in the boreal summer: Progress and perspectives, *Chinese Journal of Atmospheric Sciences*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322
+
 
 **2024:**
 179\. **王林\***, 徐霈强, 2024: 北半球夏季急流遥相关: 进展与展望, *大气科学*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322 **Wang Lin\***, and Peiqiang Xu, 2024: Waveguide teleconnections in the boreal summer: Progress and perspectives, *Chinese Journal of Atmospheric Sciences*, **48**(1), 287-304, https://doi.org/10.3878/j.issn.1006-9895.2311.23322
