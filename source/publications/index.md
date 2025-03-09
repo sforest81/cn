@@ -6,8 +6,6 @@
 
 \. Wan Tian, **Lin Wang\***, Seok-Woo Son, Yixiong Lu, Xiaocen Shen, Chang-Hyun Park, 2025: The Arctic Oscillation response to the QBO in an EOF-based QBO phase space, *Journal of Meteorological Research*,
 
-\. Wan Tian, Chang-Hyun Park, Jung Choi, **Seok-Woo Son\***, and **Lin Wang\***, 2025: Skillful prediction of springtime East Asian surface air temperature one season ahead using QBO, *Journal of Meteorological Research*,
-
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
 \. Ran Huanhuan, **Lin Wang\***, and Thomas Spengler, 2025: Interannual variability of wintertime marine cold air outbreaks over the North Atlantic high latitudes, *Journal of Meteorological Research*, 
@@ -33,7 +31,11 @@
 
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, https://doi.org/10.1175/JAS-D-24-0024.1
 
-\. 马康杰, 龚海楠, **王林\***, 李钰岚, 2025: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, **Lin Wang\***, and Yulan Li, 2025: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
+\. Wan Tian, Chang-Hyun Park, Jung Choi, **Seok-Woo Son\***, and **Lin Wang\***, 2025: Skillful prediction of springtime East Asian surface air temperature one season ahead using QBO, *Journal of Meteorological Research*,
+
+\. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2025: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2025: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
+
+\. Cheng Xin, Shangfeng Chen\*, Wen Chen\*, Renguang Wu, Shuoyi Ding, Wen Zhou, **Lin Wang**, Jinglin Piao, Peng Hu, and Zhuoqi He, 2025: Influence of winter Arctic sea ice anomalies on the following autumn Indian Ocean Dipole development, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-24-0419.1
 
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2025: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
