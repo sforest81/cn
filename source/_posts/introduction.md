@@ -10,6 +10,8 @@ date: 2024-11-29 00:00:00
 ## 最新动态
 
 - 本组长期招收研究生和博士后，有意者请联系wanglin@域名（=mail.iap.ac.cn）
+- 2025.03：[龚海楠等关于北极-中纬度联系的文章](https://www.science.org/doi/10.1126/sciadv.adq9461)在Science Advances发表
+- 2025.02：Thomas Spengler教授访问课题组
 - 2025.01：王林担任CLIVAR/GEWEX亚澳季风工作组共同主席
 - 2024.12：王林担任民盟中央科技委员会委员
 - 2024.12：王林担任《气象学报》和Journal of Meteorological Research执行副主编
@@ -28,4 +30,5 @@ date: 2024-11-29 00:00:00
 - 2024.03：王林入选爱思唯尔“2023年中国高被引学者”
 - 2024.02：王林担任国际气象学与大气科学协会（IAMAS）中国委员会委员
 - 2024.01：王林获《中国科学：地球科学》2023年度“优秀审稿人”
+- 2024.01：[周世杰等关于全球变暖导致副热带环流减速的文章](https://www.nature.com/articles/s41467-023-44244-5)在Nature Communications发表
 - 2024.01：徐霈强担任Quarterly Journal of the Royal Meteorological Society编委
