@@ -4,8 +4,6 @@
 
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Impact of atmospheric stratification on vertical propagation of stationary planetary waves, *Advances in Atmospheric Sciences*, 
 
-\. Wan Tian, **Lin Wang\***, Seok-Woo Son, Yixiong Lu, Xiaocen Shen, Chang-Hyun Park, 2025: The Arctic Oscillation response to the QBO in an EOF-based QBO phase space, *Journal of Meteorological Research*,
-
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
 \. Ran Huanhuan, **Lin Wang\***, and Thomas Spengler, 2025: Interannual variability of wintertime marine cold air outbreaks over the North Atlantic high latitudes, *Journal of Meteorological Research*, 
@@ -35,7 +33,11 @@
 
 \. Wan Tian, Chang-Hyun Park, Jung Choi, **Seok-Woo Son\***, and **Lin Wang\***, 2025: Skillful prediction of East Asian surface air temperature one season ahead using QBO in March, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-4237-8
 
+\. Wan Tian, **Lin Wang\***, Seok-Woo Son, Yixiong Lu, Xiaocen Shen, Chang-Hyun Park, 2025: The Arctic Oscillation response to the QBO in an EOF-based QBO phase space, *Journal of Meteorological Research*,
+
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2025: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2025: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
+
+\. Wu Sijia, Ming Luo\*, Gabriel Ngar-Cheung Lau, Wei Zhang, **Lin Wang**, Zhen Liu, Lijie Lin, Yijing Wang, Erjia Ge, Jianfeng Li, Yuanchao Fan, Yimin Chen, Weilin Liao, Xiaoyu Wang, Xiaocong Xu, Zhixin Qi, Ziwei Huang, Faith Ka Shun Chan, David Yongqin Chen, Xiaoping Liu\*, Tao Pei\*, 2025: Rapid flips between warm and cold extremes in a warming world, *Nature Communications*,
 
 \. Cheng Xin, Shangfeng Chen\*, Wen Chen\*, Renguang Wu, Shuoyi Ding, Wen Zhou, **Lin Wang**, Jinglin Piao, Peng Hu, and Zhuoqi He, 2025: Influence of winter Arctic sea ice anomalies on the following autumn Indian Ocean Dipole development, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-24-0419.1
 
