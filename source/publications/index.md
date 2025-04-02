@@ -31,9 +31,11 @@
 
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, https://doi.org/10.1175/JAS-D-24-0024.1
 
+\. Wan Tian, **Lin Wang\***, Seok-Woo Son, Yixiong Lu, Xiaocen Shen, Chang-Hyun Park, 2025: The Arctic Oscillation response to the QBO in an EOF-based QBO phase space, *Journal of Meteorological Research*,
+
 \. Wan Tian, Chang-Hyun Park, Jung Choi, **Seok-Woo Son\***, and **Lin Wang\***, 2025: Skillful prediction of East Asian surface air temperature one season ahead using QBO in March, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-4237-8
 
-\. Wan Tian, **Lin Wang\***, Seok-Woo Son, Yixiong Lu, Xiaocen Shen, Chang-Hyun Park, 2025: The Arctic Oscillation response to the QBO in an EOF-based QBO phase space, *Journal of Meteorological Research*,
+\. Ma Kangjie, Hainan Gong\*, **Lin Wang\***, Hongjie Fang, and Wen Chen, 2025: Comparison of extreme heatwaves in Southern China in August 2022 and 2024, *Atmospheric Research*,
 
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2025: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2025: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
