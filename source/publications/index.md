@@ -6,8 +6,6 @@
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
-\. Ran Huanhuan, **Lin Wang\***, and Thomas Spengler, 2025: Interannual variability of wintertime marine cold air outbreaks over the North Atlantic high latitudes, *Journal of Meteorological Research*, 
-
 \. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2025: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
 
 \. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Yurong Hou, Yonghao Wang, Yujie Miao, and Weihan Ma, 2025: Remote effect of tropical South Atlantic variability on the Pacific-Japan pattern, *Climate Dynamics*,
@@ -26,14 +24,14 @@
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2025: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
 
-**In press:**
+**In Press**
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, https://doi.org/10.1175/JAS-D-24-0024.1
+
+\. Ran Huanhuan, **Lin Wang\***, and Thomas Spengler, 2025: Interannual variability of wintertime marine cold air outbreaks over the high latitude North Atlantic, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-5030-4
 
 \. Wan Tian, **Lin Wang\***, Seok-Woo Son, Yixiong Lu, Xiaocen Shen, Chang-Hyun Park, 2025: The Arctic Oscillation response to the QBO in an EOF-based QBO phase space, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-5026-0
 
 \. Wan Tian, Chang-Hyun Park, Jung Choi, **Seok-Woo Son\***, and **Lin Wang\***, 2025: Skillful prediction of East Asian surface air temperature one season ahead using QBO in March, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-4237-8
-
-\. Ma Kangjie, Hainan Gong\*, **Lin Wang\***, Hongjie Fang, and Wen Chen, 2025: Comparison of extreme heatwaves in Southern China in August 2022 and 2024, *Atmospheric Research*, 108116, https://doi.org/10.1016/j.atmosres.2025.108116
 
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2025: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2025: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
@@ -44,9 +42,11 @@
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2025: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
 **2025:**
-182\. Gong Hainan, **Lin Wang\***, James A. Screen\*, Wen Chen\*, Judah Cohen, and Renguang Wu, 2025: Teleconnection from Arctic warming suppresses long-term warming in central Eurasia, *Science Advances*, eadq9461, **11**(12), https://doi.org/10.1126/sciadv.adq9461
+183\. Gong Hainan, **Lin Wang\***, James A. Screen\*, Wen Chen\*, Judah Cohen, and Renguang Wu, 2025: Teleconnection from Arctic warming suppresses long-term warming in central Eurasia, *Science Advances*, eadq9461, **11**(12), https://doi.org/10.1126/sciadv.adq9461
 
-181\. Zhang Wenqi, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, Ian Simmonds, and Vladimir A. Semenov, 2025: Impacts of background conditions on the evolutionary disparities between Greenland and Euro-Atlantic blocking, *Journal of the Atmospheric Sciences*,  **82**(3), 501-517, https://doi.org/10.1175/JAS-D-24-0016.1
+182\. Zhang Wenqi, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, Ian Simmonds, and Vladimir A. Semenov, 2025: Impacts of background conditions on the evolutionary disparities between Greenland and Euro-Atlantic blocking, *Journal of the Atmospheric Sciences*,  **82**(3), 501-517, https://doi.org/10.1175/JAS-D-24-0016.1
+
+181\. Ma Kangjie, Hainan Gong\*, **Lin Wang\***, Hongjie Fang, and Wen Chen, 2025: Comparison of extreme heatwaves in Southern China in August 2022 and 2024, *Atmospheric Research*, **321**, 108116, https://doi.org/10.1016/j.atmosres.2025.108116
 
 180\. Shen Xiaocen\*, **Lin Wang**, Adam A. Scaife, and Steven C. Hardiman, 2025: Intraseasonal linkages of winter surface air temperature between Eurasia and North America, *Geophysical Research Letters*, **52**(7), e2024GL113301, https://doi.org/10.1029/2024GL113301
 
