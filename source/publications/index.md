@@ -136,7 +136,7 @@
 
 138\. 龚海楠, 温之平, 张人禾, 周连童, **王林**, 陈文\*, 2023: 热带海气相互作用及其对东亚夏季风气候影响的研究进展, *中国基础科学*, **25**(1), 27-45, https://doi.org/10.3969/j.issn.1009-2412.2023.01.005 Gong Hainan, Zhiping Wen, Renhe Zhang, Liantong Zhou, **Lin Wang**, Wen Chen\*, Research progress on tropical air-sea interaction and its impact on the East Asian summer monsoon system, *China Basic Science*, **25**(1), 27-45, https://doi.org/10.3969/j.issn.1009-2412.2023.01.005
 
-137\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, *Weather and Climate Dynamics*, **4**(1), 213-228, https://doi.org/10.5194/wcd-2022-39
+137\. Bett E. Philip\*, Adam A. Scaife, Steven C. Hardiman, Hazel E. Thornton, Xiaocen Shen, **Lin Wang**, Bo Pang, 2023: Using large ensembles to quantify the impact of sudden stratospheric warmings on the North Atlantic Oscillation, *Weather and Climate Dynamics*, **4**(1), 213-228, https://doi.org/10.5194/wcd-4-213-2023
 
 136\. Chen Wen\*, Renhe Zhang, Renguang Wu, Zhiping Wen, Liantong Zhou, **Lin Wang**, Peng Hu, Tiaojiao Ma, Jinling Piao, Lei Song, Juncong Li, Hainan Gong, Jingliang Huangfu, and Yong Liu, 2023: Recent advances in understanding multi-scale climate variability of the Asian monsoon, *Advances in Atmospheric Sciences*, **40**(8), 1429-1456, https://doi.org/10.1007/s00376-023-2266-8
 
