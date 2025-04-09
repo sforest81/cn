@@ -2,8 +2,6 @@
 
 \. Zhang Wenqi, **Lin Wang\***, Steven C Hardiman, and Yihua Lin, 2025: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
-\. Zhang Wenqi, and **Lin Wang\***, 2025: Impact of atmospheric stratification on vertical propagation of stationary planetary waves, *Advances in Atmospheric Sciences*, 
-
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
 \. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2025: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
@@ -26,6 +24,8 @@
 
 **In Press**
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, https://doi.org/10.1175/JAS-D-24-0024.1
+
+\. Zhang Wenqi, and **Lin Wang\***, 2025: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-025-4511-9
 
 \. Ran Huanhuan, **Lin Wang\***, and Thomas Spengler, 2025: Interannual variability of wintertime marine cold air outbreaks over the high latitude North Atlantic, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-5030-4
 
