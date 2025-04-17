@@ -23,8 +23,8 @@ Nature Geoscience, Nature Communications, Science Advances, Journal of Climate, 
 ## 学术和社会团体:
 - Co-Chair, CLIVAR/GEWEX Asian-Australian Monsoon Working Group（2025-, Member since 2021）
 - Member, International Commission on Dynamical Meteorology (2023-)
-- Member, Scientific Steering Group, WCRP Lighthouse Activity-My Climate Risk (2022-2026)
-- Member, Working Group, WCRP Lighthouse Activity-Explaining and Predicting Earth System Change (2022-2026)
+- Member, Scientific Steering Group, WCRP Lighthouse Activity- My Climate Risk (2022-2026)
+- Member, Working Group, WCRP Lighthouse Activity- Explaining and Predicting Earth System Change (2022-2026)
 - Member, WCRP Lighthouse Activity Science Plan Development Team (2020-2022)
 - 中国气象学会动力气象学专业委员会，主任委员（2024-）
 - IAMAS中国委员会，委员（2024-）
