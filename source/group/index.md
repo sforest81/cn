@@ -9,12 +9,9 @@ date: 2024-11-28 18:09:14
 
 [徐霈强](https://px212.github.io/px212/)，副研究员
 
-[刘毓赟](https://www.researchgate.net/profile/Yuyun_Liu)，助理研究员
-
-[关维娜](https://www.researchgate.net/profile/Weina-Guan)，博士后
-
 [张文其](https://www.researchgate.net/profile/Wenqi-Zhang-10)，博士后
 
+[刘毓赟](https://www.researchgate.net/profile/Yuyun_Liu)，助理研究员
 
 ## **在读学生：**
 
@@ -53,7 +50,10 @@ date: 2024-11-28 18:09:14
 <sup>5</sup>导师：周连童、王林
 <sup>6</sup>导师：胡开明、王林
 
-## **已毕业学生：**
+## **已毕业学生和出站博士后：**
+
+**[关维娜](https://www.researchgate.net/profile/Weina-Guan)**
+女，博士后，2021.09－2025.07博士后在站。
 
 **万添**
 女，博士，2019.09－2025.06硕博连读，博士论文《平流层准两年振荡对北半球冬季热带外对流层气候的影响》，导师：王林。毕业后就职单位：中国气象局气象干部培训学院湖南分院，职位：讲师
