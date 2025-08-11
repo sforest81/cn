@@ -6,23 +6,13 @@
 
 \. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2025: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
 
-\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Yurong Hou, Yonghao Wang, Yujie Miao, and Weihan Ma, 2025: Remote effect of tropical South Atlantic variability on the Pacific-Japan pattern, *Climate Dynamics*,
-
-\. Zheng Chuang\*, **Lin Wang**, Yuyun Liu, and Zizhen Dong, 2025: Three types of extreme cold events over East Asia and the associated atmospheric circulations, *Climate Dynamics*, 
-
-\. Pang Bo\*, Riyu Lu, Adam A. Scaife, and **Lin Wang**, 2025: Increased resolution can reduce model biases in the Interdecadal Pacific Oscillation, *Environmental Research Letters*,
-
 \. Wang Yanfeng, Ping Huang\*, Fang Li, and **Lin Wang**, 2025: Persistent global land aridification under climate mitigation scenarios,
 
 \. Piao Jinling, Wen Chen\*, Jong-Seong Kug\*, Shangfeng Chen, Ji-Hoon Oh, **Lin Wang**, Qingyu Cai, 2025: Persistent global land aridification under climate mitigation scenarios,
 
 \. Wang Fan, Yves Balkanski, Jiangfeng Wei, Zhicong Yin, Haishan Chen, **Lin Wang**, Yihui Ding, Gregory R. Carmichael, Michael B. McElroy, Meng Gao\*, 2025: West Asian dust’s dominant impact facilitates early warning of South Asian monsoon precipitation,
 
-\. Hu Peng, Wen Chen\*, Shangfeng Chen, Yuyun Liu, **Lin Wang**, and Ruping Huang, 2025: On the strengthening relationship between the tropical Asian summer monsoon onset and ENSO after the mid-1970s, *Climate Dynamics*,
-
 **In Press**
-\. Zhang Wenqi, and **Lin Wang\***, 2025: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, https://doi.org/10.1175/JAS-D-24-0024.1
-
 \. Zhang Wenqi, and **Lin Wang\***, 2025: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-025-4511-9
 
 \. Ran Huanhuan, **Lin Wang\***, and Thomas Spengler, 2025: Interannual variability of wintertime marine cold air outbreaks over the high latitude North Atlantic, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-025-5030-4
@@ -42,6 +32,14 @@
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2025: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
 **2025:**
+\. Zhang Wenqi, and **Lin Wang\***, 2025: Impacts of atmospheric stratification on the behaviors of stratospheric weak polar vortex events, *Journal of the Atmospheric Sciences*, **82**(4), 733–748, https://doi.org/10.1175/JAS-D-24-0024.1 
+
+\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Yurong Hou, Yonghao Wang, Yujie Miao, and Weihan Ma, 2025: Remote effect of tropical South Atlantic variability on the Pacific-Japan pattern, *Climate Dynamics*, **63**(6), 255, https://doi.org/10.1007/s00382-025-07718-4
+\. Zheng Chuang\*, **Lin Wang**, Yuyun Liu, and Zizhen Dong, 2025: Three types of extreme cold events over East Asia and the associated atmospheric circulations, *Climate Dynamics*, **63**(8), 296, https://doi.org/10.1007/s00382-025-07777-7
+\. Pang Bo\*, Riyu Lu, Adam A. Scaife, and **Lin Wang**, 2025: Increased resolution can reduce model biases in the Interdecadal Pacific Oscillation, *Environmental Research Letters*, **20**(7), 074065, https://doi.org/10.1088/1748-9326/ade45a
+
+
+
 183\. Gong Hainan, **Lin Wang\***, James A. Screen\*, Wen Chen\*, Judah Cohen, and Renguang Wu, 2025: Teleconnection from Arctic warming suppresses long-term warming in central Eurasia, *Science Advances*, eadq9461, **11**(12), https://doi.org/10.1126/sciadv.adq9461
 
 182\. Zhang Wenqi, **Lin Wang\***, Dehai Luo, Yao Yao\*, Binhe Luo, Ian Simmonds, and Vladimir A. Semenov, 2025: Impacts of background conditions on the evolutionary disparities between Greenland and Euro-Atlantic blocking, *Journal of the Atmospheric Sciences*,  **82**(3), 501-517, https://doi.org/10.1175/JAS-D-24-0016.1
