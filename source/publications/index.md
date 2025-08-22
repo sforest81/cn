@@ -10,8 +10,6 @@
 
 \. Wang Yanfeng, Ping Huang\*, Fang Li, and **Lin Wang**, 2025: Persistent global land aridification under climate mitigation scenarios,
 
-\. Piao Jinling, Wen Chen\*, Jong-Seong Kug\*, Shangfeng Chen, Ji-Hoon Oh, **Lin Wang**, Qingyu Cai, 2025: Persistent global land aridification under climate mitigation scenarios,
-
 \. Wang Fan, Yves Balkanski, Jiangfeng Wei, Zhicong Yin, Haishan Chen, **Lin Wang**, Yihui Ding, Gregory R. Carmichael, Michael B. McElroy, Meng Gao\*, 2025: West Asian dust’s dominant impact facilitates early warning of South Asian monsoon precipitation,
 
 **In Press:**
@@ -26,6 +24,8 @@
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2025: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2025: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
 \. Hu Peng, Wen Chen\*, Shangfeng Chen, Zhibo Li, Ming Sun, **Lin Wang**, and Yuyun Liu, 2025: Distinctive features of tropical waves before and after the South China Sea summer monsoon onset, *Geophysical Research Letters*, e2025GL114763, https://doi.org/10.1029/2025GL114763
+
+\. Piao Jinling, Wen Chen\*, Jong-Seong Kug\*, Shangfeng Chen, Ji-Hoon Oh, **Lin Wang**, Qingyu Cai, 2025: Land aridification persists in vulnerable drylands under climate mitigation scenarios, *Communications Earth & Environment*，
 
 \. Cheng Xin, Shangfeng Chen\*, Wen Chen\*, Renguang Wu, Shuoyi Ding, Wen Zhou, **Lin Wang**, Jinglin Piao, Peng Hu, and Zhuoqi He, 2025: Influence of winter Arctic sea ice anomalies on the following autumn Indian Ocean Dipole development, *Journal of Climate*, **38**(13), 3109–3129, https://doi.org/10.1175/JCLI-D-24-0419.1
 
