@@ -36,7 +36,7 @@
 
 188\. Ma Kangjie, Hainan Gong\*, **Lin Wang\***, Hongjie Fang, and Wen Chen, 2025: Comparison of extreme heatwaves in Southern China in August 2022 and 2024, *Atmospheric Research*, **321**, 108116, https://doi.org/10.1016/j.atmosres.2025.108116
 
-187\. Xu Peiqiang\*, James Screen, **Lin Wang\***, Tim Woollings, Hanjie Fan, Matthew Patterson, and Zizhen Dong, 2025: Impact of Asian summer monsoon on the 2021 Pacific Northwest heatwave: Can it? Did it?, *Geophysical Research Letters*, https://doi.org/10.1029/2025GL117205
+187\. Xu Peiqiang\*, James A. Screen, **Lin Wang\***, Tim Woollings, Hanjie Fan, Matthew Patterson, and Zizhen Dong, 2025: Impact of Asian summer monsoon on the 2021 Pacific Northwest heatwave: Can it? Did it?, *Geophysical Research Letters*, https://doi.org/10.1029/2025GL117205
 
 186\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Yurong Hou, Yonghao Wang, Yujie Miao, and Weihan Ma, 2025: Remote effect of tropical South Atlantic variability on the Pacific-Japan pattern, *Climate Dynamics*, **63**(6), 255, https://doi.org/10.1007/s00382-025-07718-4
 
@@ -209,7 +209,7 @@
 
 105\. Dong Zizhen, **Lin Wang\***, Ying Sun, Ting Hu, Atsamon Limsakul, Patama Singhruck, and Sittichai Pimonsree, 2021: Heatwaves in Southeast Asia and their changes in a warmer world, *Earth’s Future*,**9**(7), e2021EF001992, https://doi.org/10.1029/2021EF001992
 
-104\. Xu Peiqiang, **Lin Wang\***, Geoffrey K. Vallis, Ruth Geen, James Screen, Peili Wu, Shuoyi Ding, Ping Huang, and Wen Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor summer temperature extremes over Northern Eurasia, *Geophysical Research Letters*, **48**(13), e2021GL093735, https://doi.org/10.1029/2021GL093735
+104\. Xu Peiqiang, **Lin Wang\***, Geoffrey K. Vallis, Ruth Geen, James A. Screen, Peili Wu, Shuoyi Ding, Ping Huang, and Wen Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor summer temperature extremes over Northern Eurasia, *Geophysical Research Letters*, **48**(13), e2021GL093735, https://doi.org/10.1029/2021GL093735
 
 103\. Xu Peiqiang, **Lin Wang\***, Ping Huang, and Wen Chen, 2021: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019, *Atmosspheric Research*, **252**, 105446, https://doi.org/10.1016/j.atmosres.2020.105446
 
