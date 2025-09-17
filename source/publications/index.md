@@ -1,6 +1,6 @@
 **Submitted:**
 
-\. Zhang Wenqi, **Lin Wang\***, Steven C Hardiman, and Yihua Lin, 2025: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
+\. Zhang Wenqi, **Lin Wang\***, Steven C. Hardiman, and Yihua Lin, 2025: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2025: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, 
 
@@ -251,7 +251,7 @@
 
 85\. Faikrua Apiwat, Sittichai Pimonsree\*, **Lin Wang**, Atsamon Limsakul, Patama Singhruck, and Zizhen Dong, 2019: Decadal increase of the summer precipitation in Thailand after the mid-1990s, *Climate Dynamics*, **55**(11), 3253-3267, https://doi.org/10.1007/s00382-020-05443-8
 
-84\. Hardiman Steven\*, Adam Scaife, Nick Dunstone, and **Lin Wang**, 2020: Subseasonal vacillations in the winter stratosphere, *Geophysical Research Letters*, **47**(9), e2020GL08776, https://doi.org/10.1029/2020GL087766
+84\. Hardiman C. Steven\*, Adam A. Scaife, Nick Dunstone, and **Lin Wang**, 2020: Subseasonal vacillations in the winter stratosphere, *Geophysical Research Letters*, **47**(9), e2020GL08776, https://doi.org/10.1029/2020GL087766
 
 83\. Xu Guangzhi\*, Xiaohui Ma, Ping Chang, and **Lin Wang**, 2020: Image-processing based atmospheric river tracking method version 1 (IPART-1), *Geoscientific Model Development*, **13**(10), 4639-4662, https://doi.org/10.5194/gmd-13-4639-2020
 
