@@ -44,7 +44,7 @@
 
 188\. Ma Kangjie, Hainan Gong\*, **Lin Wang\***, Hongjie Fang, and Wen Chen, 2025: Comparison of extreme heatwaves in Southern China in August 2022 and 2024, *Atmospheric Research*, **321**, 108116, https://doi.org/10.1016/j.atmosres.2025.108116
 
-187\. Xu Peiqiang\*, James A. Screen, **Lin Wang\***, Tim Woollings, Hanjie Fan, Matthew Patterson, and Zizhen Dong, 2025: Impact of Asian summer monsoon on the 2021 Pacific Northwest heatwave: Can it? Did it?, *Geophysical Research Letters*, https://doi.org/10.1029/2025GL117205
+187\. Xu Peiqiang\*, James A. Screen, **Lin Wang\***, Tim Woollings, Hanjie Fan, Matthew Patterson, and Zizhen Dong, 2025: Impact of Asian summer monsoon on the 2021 Pacific northwest heatwave: Can it? Did it?, *Geophysical Research Letters*, **52**(18), e2025GL117205, https://doi.org/10.1029/2025GL117205
 
 186\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Yurong Hou, Yonghao Wang, Yujie Miao, and Weihan Ma, 2025: Remote effect of tropical South Atlantic variability on the Pacific-Japan pattern, *Climate Dynamics*, **63**(6), 255, https://doi.org/10.1007/s00382-025-07718-4
 
