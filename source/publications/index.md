@@ -12,8 +12,6 @@
 
 \. Wang Fan, Yves Balkanski, Jiangfeng Wei, Zhicong Yin, Haishan Chen, **Lin Wang**, Yihui Ding, Gregory R. Carmichael, Michael B. McElroy, Meng Gao\*, 2025: West Asian dust’s dominant impact facilitates early warning of South Asian monsoon precipitation,
 
-\. Dunstone J. Nick\*, Chaofan Li, Doug M. Smith, Steven C. Hardiman, Leon Hermanson, Zu Luo, Adam A. Scaife, Rhidian Thomas, **Lin Wang**, Tim Woollings, 2025: Predictable atmospheric circulation driver of Eurasian winter temperatures,
-
 **In Press:**
 \. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
@@ -24,6 +22,8 @@
 \. Steven C. Hardiman\*, Adam A. Scaife, Nick J. Dunstone, Philip E. Bett-Williams, Chaofan Li, and **Lin Wang**, 2025: New mechanism for delayed ENSO impact on the East Asian Summer Monsoon, *npj Climate and Atmospheric Science*,
 
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2025: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
+
+\. Dunstone J. Nick\*, Chaofan Li, Doug M. Smith, Steven C. Hardiman, Leon Hermanson, Zu Luo, Adam A. Scaife, Rhidian Thomas, **Lin Wang**, Tim Woollings, 2025: Predictable atmospheric circulation driver of Eurasian winter temperatures, *npj Climate and Atmospheric Science*,
 
 \. Cowan Tim\*, Rajashree Naha, Hanh Nguyen, Hanna Heidemann, Sugata Narsey, Matthew C. Wheeler, Corey Robinson, Chris Lucas, Andrew G. Marshall, and **Lin Wang**, 2025: Why was the official Australian monsoon onset unusually late in 2024/25, despite La Niña?, *Advances in Atmospheric Sciences*, 
 
