@@ -1,6 +1,6 @@
 ---
 title: 社会服务
-date: 2020-06-21 18:53:02
+date: 2025-12-30 18:53:02
 ---
 
 ## 期刊编委会:
@@ -26,12 +26,14 @@ Nature Geoscience, Nature Communications, Science Advances, Journal of Climate, 
 - Member, Scientific Steering Group, WCRP Lighthouse Activity- My Climate Risk (2022-2026)
 - Member, Working Group, WCRP Lighthouse Activity- Explaining and Predicting Earth System Change (2022-2026)
 - Member, WCRP Lighthouse Activity Science Plan Development Team (2020-2022)
+- 中央和国家机关青年联合会第二届委员会，委员（2025-）
+- 中国科学院大气物理研究所学术委员会，委员（2025-）
 - 中国气象学会动力气象学专业委员会，主任委员（2024-）
 - IAMAS中国委员会，委员（2024-）
 - 民盟中央科技委员会，委员（2024-）
 - 民盟中国科学院委员会，副主委（2024-）
 - 民盟中国科学院委员会大气所支部，主委（2024-）
-- 中央和国家机关青年联合会第一届委员会，委员（2020-）
+- 中央和国家机关青年联合会第一届委员会，委员（2020-2025）
 - 中国科学院大气物理研究所学位委员会，委员（2019-）
 - 民盟中国科学院委员会大气所支部，副主委（2021-2024）
 - 中国科学院青年联合会第四届委员会，委员（2015-2019）
