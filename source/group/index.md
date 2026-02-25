@@ -11,6 +11,8 @@ date: 2024-11-28 18:09:14
 
 [张文其](https://www.researchgate.net/profile/Wenqi-Zhang-10)，博士后
 
+陆倩，博士后
+
 [刘毓赟](https://www.researchgate.net/profile/Yuyun_Liu)，助理研究员
 
 ## **在读学生：**
