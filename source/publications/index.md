@@ -2,6 +2,8 @@
 
 \. Zhang Wenqi, **Lin Wang\***, Steven C. Hardiman, and Yihua Lin, 2025: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
+\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China,
+
 \. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2025: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
 
 \. Wang Yanfeng, Bowen Zhao, **Lin Wang**, Ping Huang\*, Haosu Tang，Shuhao Ge, Mingwei Lu, and Yupeng Teng, 2025: Advancing medium-range temperature forecasting over the Tibetan Plateau through deep learning fusion,
@@ -13,9 +15,13 @@
 **In Press:**
 \. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian Monsoon Year: Widespread Extremes with Notable Subseasonal Variability and Socioeconomic Impacts, *Journal of Meteorological Research*,
 
+\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, e2025GL120534, https://doi.org/10.1029/2025GL120534
+
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2026: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-24-0658.1
 
 \. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, https://doi.org/10.1016/j.wace.2026.100868
+
+\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Weihan Ma, and Yancong Li, 2026: Tropical Indian Ocean warming intensifies drought over South America during the dry season, *Environmental Research Communications*,
 
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2026: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2026: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
@@ -31,7 +37,6 @@
 197\. Steven C. Hardiman\*, Adam A. Scaife, Nick J. Dunstone, Philip E. Bett-Williams, Chaofan Li, and **Lin Wang**, 2026: New mechanism for delayed ENSO impact on the East Asian Summer Monsoon, *npj Climate and Atmospheric Science*, **9**(1), 27, https://doi.org/10.1038/s41612-025-01283-7
 
 196\. Dunstone J. Nick\*, Chaofan Li, Doug M. Smith, Steven C. Hardiman, Leon Hermanson, Zu Luo, Adam A. Scaife, Rhidian Thomas, **Lin Wang**, Tim Woollings, 2026: Predictable atmospheric circulation driver of Eurasian winter temperatures, *npj Climate and Atmospheric Science*, **9**(1), 28, https://doi.org/10.1038/s41612-025-01297-1
-
 
 **2025:**
 195\. Gong Hainan, **Lin Wang\***, James A. Screen\*, Wen Chen\*, Judah Cohen, and Renguang Wu, 2025: Teleconnection from Arctic warming suppresses long-term warming in central Eurasia, *Science Advances*, eadq9461, **11**(12), https://doi.org/10.1126/sciadv.adq9461
