@@ -15,8 +15,6 @@
 **In Press:**
 \. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian Monsoon Year: Widespread Extremes with Notable Subseasonal Variability and Socioeconomic Impacts, *Journal of Meteorological Research*,
 
-\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, e2025GL120534, https://doi.org/10.1029/2025GL120534
-
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2026: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-24-0658.1
 
 \. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, https://doi.org/10.1016/j.wace.2026.100868
@@ -32,6 +30,8 @@
 \. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, e2025JD044117, https://doi.org/10.1029/2025JD044117
 
 **2026:**
+199\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
+
 198\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
 197\. Steven C. Hardiman\*, Adam A. Scaife, Nick J. Dunstone, Philip E. Bett-Williams, Chaofan Li, and **Lin Wang**, 2026: New mechanism for delayed ENSO impact on the East Asian Summer Monsoon, *npj Climate and Atmospheric Science*, **9**(1), 27, https://doi.org/10.1038/s41612-025-01283-7
