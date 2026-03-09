@@ -17,7 +17,7 @@
 
 \. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2026: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-24-0658.1
 
-\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Weihan Ma, and Yancong Li, 2026: Tropical Indian Ocean warming intensifies drought over South America during the dry season, *Environmental Research Communications*,
+\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Weihan Ma, and Yancong Li, 2026: Tropical Indian Ocean warming intensifies drought over South America during the dry season, *Environmental Research Communications*, https://doi.org/10.1088/2515-7620/ae4cf8
 
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2026: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2026: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
