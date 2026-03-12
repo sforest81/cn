@@ -23,6 +23,8 @@
 
 \. Xu Peiqiang, Leiye Yuan, **Lin Wang**, Zizhen Dong, 2026: Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia, *Journal of Climate*, https://doi.org/10.1175/JCLI-D-25-0316.1
 
+\. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, 
+
 \. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2026: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, https://doi.org/10.1016/j.fmre.2024.05.020
 
 \. Cowan Tim\*, Rajashree Naha, Hanh Nguyen, Hanna Heidemann, Sugata Narsey, Matthew C. Wheeler, Corey Robinson, Chris Lucas, Andrew G. Marshall, and **Lin Wang**, 2026: Why was the official Australian monsoon onset unusually late in 2024/25, despite La Niña?, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-025-5352-2
