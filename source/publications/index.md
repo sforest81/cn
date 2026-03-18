@@ -32,11 +32,13 @@
 \. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, e2025JD044117, https://doi.org/10.1029/2025JD044117
 
 **2026:**
-200\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
+201\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
 
-199\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
+200\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
-198\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
+199\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
+
+198\. Dong Zizhen, Shu Gui, Ruowen Yang\*, Jie Cao, Chuang Zheng, **Lin Wang**, Tianjiao Ma, and Huan Yang, 2026: Anthropogenic exacerbation of global high-risk compound hot–dry events over the past century. *Earth's Future*, **14**, e2025EF006937. https://doi.org/10.1029/2025EF006937
 
 197\. Steven C. Hardiman\*, Adam A. Scaife, Nick J. Dunstone, Philip E. Bett-Williams, Chaofan Li, and **Lin Wang**, 2026: New mechanism for delayed ENSO impact on the East Asian Summer Monsoon, *npj Climate and Atmospheric Science*, **9**(1), 27, https://doi.org/10.1038/s41612-025-01283-7
 
