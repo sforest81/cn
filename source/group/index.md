@@ -5,7 +5,7 @@ date: 2024-11-28 18:09:14
 
 ## **工作人员：**
 
-[龚海楠](https://www.researchgate.net/profile/Hainan_Gong)，副研究员
+[龚海楠](https://www.researchgate.net/profile/Hainan_Gong)，研究员
 
 [徐霈强](https://px212.github.io/px212/)，副研究员
 
