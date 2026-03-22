@@ -8,6 +8,8 @@
 
 \. Wang Yanfeng, Bowen Zhao, **Lin Wang**, Ping Huang\*, Haosu Tang，Shuhao Ge, Mingwei Lu, and Yupeng Teng, 2026: Advancing medium-range temperature forecasting over the Tibetan Plateau through deep learning fusion,
 
+\. Lu Zheng, Yang Zhang\*, **Lin Wang**, and Hongdou Fan, 2026: Predictable patterns of summertime surface air temperature over extratropical Northern Hemisphere and their associated predictable sources in SEAS5,
+
 \. Wang Yanfeng, Ping Huang\*, Fang Li, and **Lin Wang**, 2026: Persistent global land aridification under climate mitigation scenarios,
 
 \. Wang Fan, Yves Balkanski, Jiangfeng Wei, Zhicong Yin, Haishan Chen, **Lin Wang**, Yihui Ding, Gregory R. Carmichael, Michael B. McElroy, Meng Gao\*, 2026: West Asian dust’s dominant impact facilitates early warning of South Asian monsoon precipitation,
@@ -31,14 +33,14 @@
 
 \. Cowan Tim\*, Rajashree Naha, Hanh Nguyen, Hanna Heidemann, Sugata Narsey, Matthew C. Wheeler, Corey Robinson, Chris Lucas, Andrew G. Marshall, and **Lin Wang**, 2026: Why was the official Australian monsoon onset unusually late in 2024/25, despite La Niña?, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-025-5352-2
 
-\. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, e2025JD044117, https://doi.org/10.1029/2025JD044117
-
 **2026:**
-201\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
+202\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
 
-200\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
+201\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
-199\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
+200\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
+
+199\. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, **131**(2), e2025JD044117, https://doi.org/10.1029/2025JD044117
 
 198\. Dong Zizhen, Shu Gui, Ruowen Yang\*, Jie Cao, Chuang Zheng, **Lin Wang**, Tianjiao Ma, and Huan Yang, 2026: Anthropogenic exacerbation of global high-risk compound hot–dry events over the past century. *Earth's Future*, **14**, e2025EF006937. https://doi.org/10.1029/2025EF006937
 
