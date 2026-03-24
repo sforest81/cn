@@ -196,7 +196,7 @@
 
 125\. Dong Zizhen, **Lin Wang**, Ruowen Yang, Jie Cao\*, and Peng Hu, 2022: Impact of quasi-biweekly oscillation on Southeast Asian cold surge rainfall monitored by TRMM satellite observation, *Remote Sensing*, **14**(20), 5200, https://doi.org/10.3390/rs14205200
 
-124\. Xu Guangzhi\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, https://doi.org/10.1029/2021JD036159
+124\. Xu Guangzhi\*, **Lin Wang**, Ping Chang, Xiaohui Ma, and Shuyu Wang, 2022: Improving the understanding of atmospheric river water vapor transport using a three-dimensional straightened composite analysis, *Journal of Geophysical Research: Atmospheres*, **127**(11), e2021JD036159, https://doi.org/10.1029/2021JD036159
 
 123\. Hu Peng, Wen Chen\*, **Lin Wang**, Shangfeng Chen, Yuyun Liu, and Lingying Chen, 2022: Revisiting the ENSO–monsoonal rainfall relationship: New insights based on an objective determination of the Asian summer monsoon duration, *Environmental Research Letters*, **17**(10), 104050, https://doi.org/10.1088/1748-9326/ac97ad
 
