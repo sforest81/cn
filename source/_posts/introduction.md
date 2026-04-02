@@ -10,7 +10,7 @@ date: 2025-12-30 00:00:00
 ## 最新动态
 
 - 本组长期招收研究生和博士后，有意者请联系wanglin@域名（=mail.iap.ac.cn）
-- 2025.04：团队[关于2023年华北热浪的工作](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL107642)在GRL2024年所有发文（1762篇）中位列最高引用量前十名
+- 2025.04：团队[关于2023年华北热浪的工作](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL107642)获得GRL年度Top Cited Article，在GRL2024年1762篇所有发文中位列最高引用量前十名
 - 2026.04：王林担任香港研究资助局（RGC）自然科学学科小组（合作研究计划）委员
 - 2026.03：祝贺龚海楠晋升为研究员！
 - 2026.03：团队[关于QBO在东亚气温预报中作用的论文](https://doi.org/10.1007/s13351-025-4237-8)获得JMR 2023-2025年Best Paper Award
