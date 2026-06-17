@@ -20,7 +20,7 @@
 
 \. 马康杰, 龚海楠, 陈鲜艳, 李钰岚, **王林\***, 2026: 中国降水年景指数的改进及其预测因子研究, *大气科学*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013 Ma Kangjie, Hainan Gong, Xianyan Chen, Yulan Li, and **Lin Wang\***, 2026: The Improvement of China Annual Precipitation status index and Its Predictive Factors, *Chinese Journal of Atmospheric Sciences*, https://doi.org/10.3878/j.issn.1006-9895.2405.24013
 
-\. Li Wenyi, Riyu Lu\*, **Lin Wang**, and Yuanjing Guo, 2026: Impacts of the South China Sea Summer Monsoon Onset on the Mesoscale Convective Systems over Southern China, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-026-6187-1
+\. Li Wenyi, Riyu Lu\*, **Lin Wang**, and Yuanjing Guo, 2026: Impacts of the South China Sea summer monsoon onset on the mesoscale convective systems over southern China, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-026-6187-1
 
 \. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, 
 
@@ -29,7 +29,7 @@
 \. Cowan Tim\*, Rajashree Naha, Hanh Nguyen, Hanna Heidemann, Sugata Narsey, Matthew C. Wheeler, Corey Robinson, Chris Lucas, Andrew G. Marshall, and **Lin Wang**, 2026: Why was the official Australian monsoon onset unusually late in 2024/25, despite La Niña?, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-025-5352-2
 
 **2026:**
-207\. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian Monsoon Year: Widespread Extremes with Notable Subseasonal Variability and Socioeconomic Impacts, *Journal of Meteorological Research*, **40**(2), 301-308, https://doi.org/10.1007/s13351-026-5262-y
+207\. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian monsoon year: Widespread extremes with notable subseasonal variability and socioeconomic impacts, *Journal of Meteorological Research*, **40**(2), 301-308, https://doi.org/10.1007/s13351-026-5262-y
 
 206\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
