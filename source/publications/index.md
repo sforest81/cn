@@ -14,6 +14,10 @@
 \. Li Haijie, Ya Wang\*, Kai Yang, Gang Huang\*, Xiangao Xia\*, Ziming Chen, Weichen Tao, Chenglin Lu, Lin Chen, Miao Zhang, Kaiming Hu, Hainan Gong, Disong Fu, and **Lin Wang**, 2026: Probabilistic reconstruction of global sea surface temperature using generative diffusion models,
 
 **In Press:**
+\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*,
+
+\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Unprecedented extreme dust storm triggered by stratosphere-troposphere interactions, *Geophysical Research Letters*,
+
 \. Li Wenyi, Riyu Lu\*, **Lin Wang**, and Yuanjing Guo, 2026: Impacts of the South China Sea summer monsoon onset on the mesoscale convective systems over southern China, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-026-6187-1
 
 \. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-026-5300-9
@@ -30,10 +34,6 @@
 210\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Weihan Ma, and Yancong Li, 2026: Tropical Indian Ocean warming intensifies drought over South America during the dry season, *Environmental Research Communications*, **8**, 041004, https://doi.org/10.1088/2515-7620/ae4cf8
 
 209\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
-
-208\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*,
-
-207\. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Unprecedented extreme dust storm triggered by stratosphere-troposphere interactions, *Geophysical Research Letters*,
 
 206\. Xu Peiqiang\*, Leiye Yuan, **Lin Wang**, Zizhen Dong, 2026: Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia, *Journal of Climate*, **39**(12), 3419–3435, https://doi.org/10.1175/JCLI-D-25-0316.1
 
