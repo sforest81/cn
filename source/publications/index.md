@@ -1,8 +1,6 @@
 **Submitted:**
 \. **Wang Lin\***, Zizhen Dong, Seok-Woo Son, Peng Hu, Raghavendra Ashrit, Yana Li, Thea Turkington, Hui Su, Donaldi Sukma Permana, Fengfei Song, Joseph Basconcillo, Shiromani Jayawardena, Tim Cowan, Rajashree Naha, Vladimir A. Semenov, Hiroshi G. Takahashi, and Maheswar Pradhan, 2026: The 2025 Asian Summer Monsoon: Excessive Rainfall, High-impact Weather, and Climate Extremes, *Journal of Meteorological Research*, 
 
-\. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*,
-
 \. Zhang Wenqi, **Lin Wang\***, Steven C. Hardiman, and Yihua Lin, 2026: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
 \. Xu Peiqiang, Leiye Yuan, **Lin Wang\***, Jakob Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming, *Geophysical Research Letters*, 
@@ -22,6 +20,8 @@
 \. Li Haijie, Ya Wang\*, Kai Yang, Gang Huang\*, Xiangao Xia\*, Ziming Chen, Weichen Tao, Chenglin Lu, Lin Chen, Miao Zhang, Kaiming Hu, Hainan Gong, Disong Fu, and **Lin Wang**, 2026: Probabilistic reconstruction of global sea surface temperature using generative diffusion models,
 
 **In Press:**
+\. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*,
+
 \. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*, https://doi.org/10.1016/j.scib.2026.07.020
 
 \. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Unprecedented extreme dust storm triggered by stratosphere-troposphere interactions, *Geophysical Research Letters*, **53**(14), e2026GL123443, https://doi.org/10.1029/2026GL123443
