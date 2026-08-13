@@ -16,13 +16,13 @@
 \. Li Haijie, Ya Wang\*, Kai Yang, Gang Huang\*, Xiangao Xia\*, Ziming Chen, Weichen Tao, Chenglin Lu, Lin Chen, Miao Zhang, Kaiming Hu, Hainan Gong, Disong Fu, and **Lin Wang**, 2026: Probabilistic reconstruction of global sea surface temperature using generative diffusion models,
 
 **In Press:**
-\. **Wang Lin\***, Zizhen Dong, Seok-Woo Son, Peng Hu, Raghavendra Ashrit, Yana Li, Thea Turkington, Hui Su, Donaldi Sukma Permana, Fengfei Song, Joseph Basconcillo, Shiromani Jayawardena, Tim Cowan, Rajashree Naha, Vladimir A. Semenov, Hiroshi G. Takahashi, and Maheswar Pradhan, 2026: The 2025 Asian Summer Monsoon: Excessive Rainfall, High-impact Weather, and Climate Extremes, *Journal of Meteorological Research*, 
+\. **Wang Lin\***, Zizhen Dong, Seok-Woo Son, Peng Hu, Raghavendra Ashrit, Yana Li, Thea Turkington, Hui Su, Donaldi Sukma Permana, Fengfei Song, Joseph Basconcillo, Shiromani Jayawardena, Tim Cowan, Rajashree Naha, Vladimir A. Semenov, Hiroshi G. Takahashi, and Maheswar Pradhan, 2026: The 2025 Asian summer monsoon: Excessive rainfall, high-impact weather, and climate extremes, *Journal of Meteorological Research*, 
 
 \. Xu Peiqiang, Leiye Yuan, **Lin Wang\***, Jakob Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming, *Geophysical Research Letters*, e2026GL123850, https://doi.org/10.1029/2026GL123850
 
 \. Gong Hainan, Wentao Xia, **Lin Wang\***, Kangjie Ma, and Wen Chen, 2026: Beyond the multimodel ensemble mean (MME): Assessing plausible climate risk at a given warming level, *The Innovation Geoscience*, **4**, 100252, https://doi.org/10.59717/j.xinn-geo.2026.100252
 
-\. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang\**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, e2026GL124914, https://doi.org/10.1029/2026GL124914
+\. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, e2026GL124914, https://doi.org/10.1029/2026GL124914
 
 \. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*,
 
@@ -55,11 +55,11 @@
 
 205\. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, **131**(2), e2025JD044117, https://doi.org/10.1029/2025JD044117
 
-204\. Wang Yanfeng, Bowen Zhao, Ping Huang\*, **Lin Wang**, Haosu Tang，Shuhao Ge, Mingwei Lu, Jingling Tang, and Yupeng Teng, 2026: Improving medium-range temperature forecast over the Tibetan Plateau through spatially adaptive fusion, *Geophysical Research Letters*, **53**(10), e2025GL121406, https://doi.org/10.1029/2025GL121406
+204\. Wang Yanfeng, Bowen Zhao, Ping Huang\*, **Lin Wang**, Haosu Tang, Shuhao Ge, Mingwei Lu, Jingling Tang, and Yupeng Teng, 2026: Improving medium-range temperature forecast over the Tibetan Plateau through spatially adaptive fusion, *Geophysical Research Letters*, **53**(10), e2025GL121406, https://doi.org/10.1029/2025GL121406
 
 203\. Dong Zizhen, Shu Gui, Ruowen Yang\*, Jie Cao, Chuang Zheng, **Lin Wang**, Tianjiao Ma, and Huan Yang, 2026: Anthropogenic exacerbation of global high-risk compound hot–dry events over the past century. *Earth's Future*, **14**, e2025EF006937. https://doi.org/10.1029/2025EF006937
 
-202\. Steven C. Hardiman\*, Adam A. Scaife, Nick J. Dunstone, Philip E. Bett-Williams, Chaofan Li, and **Lin Wang**, 2026: New mechanism for delayed ENSO impact on the East Asian Summer Monsoon, *npj Climate and Atmospheric Science*, **9**(1), 27, https://doi.org/10.1038/s41612-025-01283-7
+202\. Steven C. Hardiman\*, Adam A. Scaife, Nick J. Dunstone, Philip E. Bett-Williams, Chaofan Li, and **Lin Wang**, 2026: New mechanism for delayed ENSO impact on the East Asian summer monsoon, *npj Climate and Atmospheric Science*, **9**(1), 27, https://doi.org/10.1038/s41612-025-01283-7
 
 201\. Fu Pingqing\*, Xin Wan, Hong Ren, Xiaole Pan, Yele Sun, Zifa Wang, **Lin Wang**, Peng Wang, Siyao Yue, Hang Su, Yafang Cheng, Kimitaka Kawamura, Zhiyuan Cong\*, 2026: Seasonal variations of primary biological and biomass burning aerosols in the central Himalayas, *Fundamental Research*, **6**(2), 986-993, https://doi.org/10.1016/j.fmre.2024.05.020
 
