@@ -22,7 +22,7 @@
 
 \. Gong Hainan, Wentao Xia, **Lin Wang\***, Kangjie Ma, and Wen Chen, 2026: Beyond the multimodel ensemble mean (MME): Assessing plausible climate risk at a given warming level, *The Innovation Geoscience*, **4**, 100252, https://doi.org/10.59717/j.xinn-geo.2026.100252
 
-\. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, e2026GL124914, https://doi.org/10.1029/2026GL124914
+\. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, **53**(16), e2026GL124914, https://doi.org/10.1029/2026GL124914
 
 \. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*,
 
