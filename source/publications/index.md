@@ -34,6 +34,8 @@
 
 \. Lu Zheng, Yang Zhang\*, **Lin Wang**, and Hongdou Fan, 2026: Predictable patterns of summertime surface air temperature in extratropical Northern Hemisphere and their associated predictable sources in SEAS5, *Climate Dynamics*, **64**, 363, https://doi.org/10.1007/s00382-026-08323-9
 
+\. Zhu Ying, Zhibiao Wang, Xi Cao, **Lin Wang**, Wen Chen, Renguang Wu\*, and Shangfeng Chen\*, 2026: Strengthening of the out-of-phase relationship between Eurasian winter and summer temperature anomalies since the early 1990s, *Atmospheric Research*, **341**, 109057, https://doi.org/10.1016/j.atmosres.2026.109057
+
 \. Ju Xiaoming, Shangfeng Chen\*, Wen Chen, Renguang Wu, Bin Yu, **Lin Wang**, Zhibiao Wang, and Lin Chen, 2026: Atlantic Multidecadal Oscillation drives multidecadal changes in the impact of Indian Ocean Dipole on El Niño-Southern Oscillation, *Geophysical Research Letters*, **53**(14), e2026GL124111, https://doi.org/10.1029/2026GL124111
 
 \. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-026-5300-9
