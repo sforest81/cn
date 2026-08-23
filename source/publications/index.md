@@ -40,6 +40,8 @@
 
 \. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-026-5300-9
 
+\. Fedorova Eugeniya, Vadim Rakitin, Andrey Skorokhod\*, Nataliya Kirillova, Andrey Belov, Natalia Pankratova, Yusheng Shi, **Lin Wang**, Vladimir Semenov, 2026: Altitude and geographic sensitivity characteristics of the AIRS satellite spectrometer and drift correction using methane (CH4) data, *Remote Sensing*,
+
 **2026:**
 214\. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian monsoon year: Widespread extremes with notable subseasonal variability and socioeconomic impacts, *Journal of Meteorological Research*, **40**(2), 301-308, https://doi.org/10.1007/s13351-026-5262-y
 
