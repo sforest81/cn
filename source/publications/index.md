@@ -1,9 +1,11 @@
 **Submitted:**
 \. Xu Peiqiang, Leiye Yuan, and **Lin Wang\***, 2026: A Eulerian time-integrated framework for attributing low-frequency temperature anomalies, *Journal of Geophysical Research: Atmospheres*,
 
+\. Xu Peiqiang, Hongjie Fang, Zizhen Dong, and **Lin Wang\***, 2026: Record-breaking 2026 early-winter Antarctic Peninsula heatwave amplified by eastward-shifting tropical convection,
+
 \. Zhang Wenqi, **Lin Wang\***, Steven C. Hardiman, and Yihua Lin, 2026: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
-\. Xu Peiqiang Xu, John Methven, James A. Screen, Wen Chen, Geoffrey K. Vallis, Xiaocen Shen, and **Lin Wang\***, 2026: A high-latitude baroclinic waveguide shaped by stratospheric heating and land–sea contrast, 
+\. Xu Peiqiang, John Methven, James A. Screen, Wen Chen, Geoffrey K. Vallis, Xiaocen Shen, and **Lin Wang\***, 2026: A high-latitude baroclinic waveguide shaped by stratospheric heating and land–sea contrast, 
 
 \. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2026: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
 
@@ -24,7 +26,7 @@
 
 \. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, **53**(16), e2026GL124914, https://doi.org/10.1029/2026GL124914
 
-\. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*,
+\. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*, [https://doi.org/10.1007/s13351-027-6109-x](https://jmr.cmsjournal.net/article/doi/10.1007/s13351-027-6109-x)
 
 \. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*, https://doi.org/10.1016/j.scib.2026.07.020
 
@@ -38,7 +40,7 @@
 
 \. Ju Xiaoming, Shangfeng Chen\*, Wen Chen, Renguang Wu, Bin Yu, **Lin Wang**, Zhibiao Wang, and Lin Chen, 2026: Atlantic Multidecadal Oscillation drives multidecadal changes in the impact of Indian Ocean Dipole on El Niño-Southern Oscillation, *Geophysical Research Letters*, **53**(14), e2026GL124111, https://doi.org/10.1029/2026GL124111
 
-\. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, https://doi.org/10.1007/s13351-026-5300-9
+\. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, [https://doi.org/10.1007/s13351-026-5300-9](https://jmr.cmsjournal.net/article/doi/10.1007/s13351-026-5300-9)
 
 \. Fedorova Eugeniya, Vadim Rakitin, Andrey Skorokhod\*, Nataliya Kirillova, Andrey Belov, Natalia Pankratova, Yusheng Shi, **Lin Wang**, Vladimir Semenov, 2026: Altitude and geographic sensitivity characteristics of the AIRS satellite spectrometer and drift correction using methane (CH4) data, *Remote Sensing*,
 
