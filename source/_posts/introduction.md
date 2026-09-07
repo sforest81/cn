@@ -15,6 +15,7 @@ date: 2025-12-30 00:00:00
 - 2026.08：祝贺陆倩获得国家自然科学基金青年项目（C类）资助！
 - 2026.08：[第九届全国动力气象学术会议在昆明召开](https://mp.weixin.qq.com/s/oxlwtHJUXUtm1yGDyXqkQA)
 - 2026.08：王林担任中国环境科学学会气候与健康分会委员
+- 2026.08：由徐霈强担任主召集人、王林等担任召集人的AOGS分会场“Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction”在日本福冈举办
 - 2026.07：祝贺肖惠文获得博士学位并入职远景能源有限公司！
 - 2026.05：祝贺肖惠文通过博士论文答辩！
 - 2026.04：团队[关于2023年华北热浪的工作](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023GL107642)获得GRL年度Top Cited Article，在GRL2024年1762篇所有发文中位列最高引用量前十名
