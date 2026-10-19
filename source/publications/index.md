@@ -20,12 +20,6 @@
 **In Press:**
 \. **Wang Lin\***, Zizhen Dong, Seok-Woo Son, Peng Hu, Raghavendra Ashrit, Yana Li, Thea Turkington, Hui Su, Donaldi Sukma Permana, Fengfei Song, Joseph Basconcillo, Shiromani Jayawardena, Tim Cowan, Rajashree Naha, Vladimir A. Semenov, Hiroshi G. Takahashi, and Maheswar Pradhan, 2026: The 2025 Asian summer monsoon: Excessive rainfall, high-impact weather, and climate extremes, *Journal of Meteorological Research*, 
 
-\. Xu Peiqiang, Leiye Yuan, **Lin Wang\***, Jakob Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming, *Geophysical Research Letters*, e2026GL123850, https://doi.org/10.1029/2026GL123850
-
-\. Gong Hainan, Wentao Xia, **Lin Wang\***, Kangjie Ma, and Wen Chen, 2026: Beyond the multimodel ensemble mean (MME): Assessing plausible climate risk at a given warming level, *The Innovation Geoscience*, **4**, 100252, https://doi.org/10.59717/j.xinn-geo.2026.100252
-
-\. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, **53**(16), e2026GL124914, https://doi.org/10.1029/2026GL124914
-
 \. Cui Wenling, Wenwen Yang, Xiaocen Shen, Meng Gao, Peiqiang Xu, Wenqi Zhang, Lijuan Chen, and **Lin Wang\***, 2026: A multi-dimensional characterization of cold waves affecting China and their variability, *Journal of Meteorological Research*, [https://doi.org/10.1007/s13351-027-6109-x](https://jmr.cmsjournal.net/article/doi/10.1007/s13351-027-6109-x)
 
 \. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Predictable April 2025 extreme dust storm in southern China, *Science Bulletin*, https://doi.org/10.1016/j.scib.2026.07.020
@@ -34,34 +28,40 @@
 
 \. Li Wenyi, Riyu Lu\*, **Lin Wang**, and Yuanjing Guo, 2026: Impacts of the South China Sea summer monsoon onset on the mesoscale convective systems over southern China, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-026-6187-1
 
-\. Lu Zheng, Yang Zhang\*, **Lin Wang**, and Hongdou Fan, 2026: Predictable patterns of summertime surface air temperature in extratropical Northern Hemisphere and their associated predictable sources in SEAS5, *Climate Dynamics*, **64**, 363, https://doi.org/10.1007/s00382-026-08323-9
-
-\. Zhu Ying, Zhibiao Wang, Xi Cao, **Lin Wang**, Wen Chen, Renguang Wu\*, and Shangfeng Chen\*, 2026: Strengthening of the out-of-phase relationship between Eurasian winter and summer temperature anomalies since the early 1990s, *Atmospheric Research*, **341**, 109057, https://doi.org/10.1016/j.atmosres.2026.109057
-
-\. Ju Xiaoming, Shangfeng Chen\*, Wen Chen, Renguang Wu, Bin Yu, **Lin Wang**, Zhibiao Wang, and Lin Chen, 2026: Atlantic Multidecadal Oscillation drives multidecadal changes in the impact of Indian Ocean Dipole on El Niño-Southern Oscillation, *Geophysical Research Letters*, **53**(14), e2026GL124111, https://doi.org/10.1029/2026GL124111
-
 \. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, [https://doi.org/10.1007/s13351-026-5300-9](https://jmr.cmsjournal.net/article/doi/10.1007/s13351-026-5300-9)
 
 \. Fedorova Eugeniya, Vadim Rakitin, Andrey Skorokhod\*, Nataliya Kirillova, Andrey Belov, Natalia Pankratova, Yusheng Shi, **Lin Wang**, Vladimir Semenov, 2026: Altitude and geographic sensitivity characteristics of the AIRS satellite spectrometer and drift correction using methane (CH4) data, *Remote Sensing*,
 
 **2026:**
-214\. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian monsoon year: Widespread extremes with notable subseasonal variability and socioeconomic impacts, *Journal of Meteorological Research*, **40**(2), 301-308, https://doi.org/10.1007/s13351-026-5262-y
+218\. **Wang Lin\***, Zizhen Dong, Tim Cowan, Peng Hu, Shiromani Jayawardena, Maheswar Pradhan, Hui Su, Thea Turkington, Wei Gu, Seok-Woo Son, Donaldi Sukma Permana, Rajashree Naha, Joseph Basconcillo, Kieran Hunt, Hiroshi G. Takahashi, Raghavendra Ashrit, and Vladimir A. Semenov, 2026: The 2024 Asian-Australian monsoon year: Widespread extremes with notable subseasonal variability and socioeconomic impacts, *Journal of Meteorological Research*, **40**(2), 301-308, https://doi.org/10.1007/s13351-026-5262-y
 
-213\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
+217\. Zhang Wenqi, and **Lin Wang\***, 2026: Vertical structure and energy transfer of stationary planetary waves in different prescribed atmospheric stratification, *Advances in Atmospheric Sciences*, **43**(1), 233-246, https://doi.org/10.1007/s00376-025-4511-9
 
-212\. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2026: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, **39**(9), 2191-2207, https://doi.org/10.1175/JCLI-D-24-0658.1
+216\. Ran Huanhuan, **Lin Wang\***, Thomas Spengler, Gang Chen, Ping Huang, and Kaiming Hu, 2026: Long-term trends of Northern Hemisphere marine cold air outbreaks during boreal winter: Influence of sea ice retreat and atmospheric circulation, *Journal of Climate*, **39**(9), 2191-2207, https://doi.org/10.1175/JCLI-D-24-0658.1
 
-211\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
+215\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
 
-210\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Weihan Ma, and Yancong Li, 2026: Tropical Indian Ocean warming intensifies drought over South America during the dry season, *Environmental Research Communications*, **8**, 041004, https://doi.org/10.1088/2515-7620/ae4cf8
+214\. Xu Peiqiang, Leiye Yuan, **Lin Wang\***, Jakob Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming, *Geophysical Research Letters*, e2026GL123850, https://doi.org/10.1029/2026GL123850
 
-209\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
+213\. Gong Hainan, Wentao Xia, **Lin Wang\***, Kangjie Ma, and Wen Chen, 2026: Beyond the multimodel ensemble mean (MME): Assessing plausible climate risk at a given warming level, *The Innovation Geoscience*, **4**, 100252, https://doi.org/10.59717/j.xinn-geo.2026.100252
 
-206\. Xu Peiqiang\*, Leiye Yuan, **Lin Wang**, Zizhen Dong, 2026: Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia, *Journal of Climate*, **39**(12), 3419–3435, https://doi.org/10.1175/JCLI-D-25-0316.1
+212\. Ran Huanhuan, Hainan Gong\*, Yulan Li, Kangjie Ma, and **Lin Wang**, 2026: Internal variability reshapes externally forced trends in marine cold-air outbreak frequency over the Northern Hemisphere, *Geophysical Research Letters*, **53**(16), e2026GL124914, https://doi.org/10.1029/2026GL124914
 
-205\. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, **131**(2), e2025JD044117, https://doi.org/10.1029/2025JD044117
+211\. Yang Wenwen, Xichen Li\*, **Lin Wang\***, Weihan Ma, and Yancong Li, 2026: Tropical Indian Ocean warming intensifies drought over South America during the dry season, *Environmental Research Communications*, **8**, 041004, https://doi.org/10.1088/2515-7620/ae4cf8
 
-204\. Wang Yanfeng, Bowen Zhao, Ping Huang\*, **Lin Wang**, Haosu Tang, Shuhao Ge, Mingwei Lu, Jingling Tang, and Yupeng Teng, 2026: Improving medium-range temperature forecast over the Tibetan Plateau through spatially adaptive fusion, *Geophysical Research Letters*, **53**(10), e2025GL121406, https://doi.org/10.1029/2025GL121406
+210\. Yang Wenwen, Wenling Cui, Xichen Li\*, Thomas Spengler, Nick Dunstone, Steven C. Hardiman, Bo Pang, **Lin Wang\***, 2026: Influence of East Asian cold surges on tropical precipitation over the Maritime Continent, *Weather and Climate Extremes*, **51**, 100868, https://doi.org/10.1016/j.wace.2026.100868
+
+209\. Xu Peiqiang\*, Leiye Yuan, **Lin Wang**, Zizhen Dong, 2026: Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia, *Journal of Climate*, **39**(12), 3419–3435, https://doi.org/10.1175/JCLI-D-25-0316.1
+
+208\. Lu Zheng, Yang Zhang\*, **Lin Wang**, and Hongdou Fan, 2026: Predictable patterns of summertime surface air temperature in extratropical Northern Hemisphere and their associated predictable sources in SEAS5, *Climate Dynamics*, **64**, 363, https://doi.org/10.1007/s00382-026-08323-9
+
+207\. Song Yaoming\*, Haishan Chen, **Lin Wang**, Anning Huang, and Wei Gu, 2026: The memories of soil moisture and soil temperature anomalies in subsequent soil moisture and soil temperature in China, *Journal of Geophysical Research: Atmospheres*, **131**(2), e2025JD044117, https://doi.org/10.1029/2025JD044117
+
+206\. Zhu Ying, Zhibiao Wang, Xi Cao, **Lin Wang**, Wen Chen, Renguang Wu\*, and Shangfeng Chen\*, 2026: Strengthening of the out-of-phase relationship between Eurasian winter and summer temperature anomalies since the early 1990s, *Atmospheric Research*, **341**, 109057, https://doi.org/10.1016/j.atmosres.2026.109057
+
+205\. Wang Yanfeng, Bowen Zhao, Ping Huang\*, **Lin Wang**, Haosu Tang, Shuhao Ge, Mingwei Lu, Jingling Tang, and Yupeng Teng, 2026: Improving medium-range temperature forecast over the Tibetan Plateau through spatially adaptive fusion, *Geophysical Research Letters*, **53**(10), e2025GL121406, https://doi.org/10.1029/2025GL121406
+
+204\. Ju Xiaoming, Shangfeng Chen\*, Wen Chen, Renguang Wu, Bin Yu, **Lin Wang**, Zhibiao Wang, and Lin Chen, 2026: Atlantic Multidecadal Oscillation drives multidecadal changes in the impact of Indian Ocean Dipole on El Niño-Southern Oscillation, *Geophysical Research Letters*, **53**(14), e2026GL124111, https://doi.org/10.1029/2026GL124111
 
 203\. Dong Zizhen, Shu Gui, Ruowen Yang\*, Jie Cao, Chuang Zheng, **Lin Wang**, Tianjiao Ma, and Huan Yang, 2026: Anthropogenic exacerbation of global high-risk compound hot–dry events over the past century. *Earth's Future*, **14**, e2025EF006937. https://doi.org/10.1029/2025EF006937
 
