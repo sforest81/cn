@@ -41,7 +41,7 @@
 
 215\. Xiao Huiwen, **Lin Wang\***, Xi Chen\*, Adam A. Scaife, Steven C. Hardiman, Nick J. Dunstone, and Yuan Liang, 2026: Finer vertical resolution improves the sudden stratospheric warming prediction through better representing planetary waves, *Geophysical Research Letters*, **53**(5), e2025GL120534, https://doi.org/10.1029/2025GL120534
 
-214\. Xu Peiqiang, Leiye Yuan, **Lin Wang\***, Jakob Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming, *Geophysical Research Letters*, e2026GL123850, https://doi.org/10.1029/2026GL123850
+214\. Xu Peiqiang, Leiye Yuan, **Lin Wang\***, Jakob Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond the mean warming, *Geophysical Research Letters*, e2026GL123850, https://doi.org/10.1029/2026GL123850
 
 213\. Gong Hainan, Wentao Xia, **Lin Wang\***, Kangjie Ma, and Wen Chen, 2026: Beyond the multimodel ensemble mean (MME): Assessing plausible climate risk at a given warming level, *The Innovation Geoscience*, **4**, 100252, https://doi.org/10.59717/j.xinn-geo.2026.100252
 
