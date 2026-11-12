@@ -26,7 +26,7 @@
 
 \. Zhang Wenqi, Mei Chong, Huiwen Xiao, Shengkai Wang, Qiang Zhang, Xi Chen\*, and **Lin Wang\***, 2026: Unprecedented extreme dust storm triggered by stratosphere-troposphere interactions, *Geophysical Research Letters*, **53**(14), e2026GL123443, https://doi.org/10.1029/2026GL123443
 
-\. Li Wenyi, Riyu Lu\*, **Lin Wang**, and Yuanjing Guo, 2026: Impacts of the South China Sea summer monsoon onset on the mesoscale convective systems over southern China, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-026-6187-1
+\. Li Wenyi, Riyu Lu\*, **Lin Wang**, and Yuanjing Guo, 2026: Impacts of South China Sea summer monsoon onset on mesoscale convective systems over southern China, *Advances in Atmospheric Sciences*, https://doi.org/10.1007/s00376-026-6187-1
 
 \. Gu Wei\*, Lijuan Chen\*, Jinqing Zuo, and **Lin Wang**, 2026: Record-shattering high rainfall in 2024 first rainy season and its causes, *Journal of Meteorological Research*, [https://doi.org/10.1007/s13351-026-5300-9](https://jmr.cmsjournal.net/article/doi/10.1007/s13351-026-5300-9)
 
