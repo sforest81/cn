@@ -1,7 +1,15 @@
 **Submitted:**
+\. Fang Hongjie, **Lin Wang\***, and Zhaomin Wang, 2026: Coupled atmosphere–ocean–sea ice feedbacks in interannual southern annular mode variability, *Journal of Geophysical Research: Atmospheres*,
+
 \. Xu Peiqiang, Leiye Yuan, and **Lin Wang\***, 2026: A Eulerian time-integrated framework for attributing low-frequency temperature anomalies, *Journal of Geophysical Research: Atmospheres*,
 
-\. Xu Peiqiang, Hongjie Fang, Zizhen Dong, and **Lin Wang\***, 2026: Record-breaking 2026 early-winter Antarctic Peninsula heatwave amplified by eastward-shifting tropical convection,
+\. Xu Peiqiang, Linjun Han,and **Lin Wang\***, 2026: Contrasting life cycles of British–Baikal Corridor events: energetics and North Atlantic SST precursors, *Journal of Climate*,
+
+\. Xu Peiqiang, Hongjie Fang, Zizhen Dong, and **Lin Wang\***, 2026: Record-breaking 2026 early-winter Antarctic Peninsula heatwave amplified by eastward-shifting tropical convection, *Geophysical Research Letters*,
+
+\. Zhang Wenqi, Binhe Luo, Minghao Yang, Vladimir A. Semenov, Dingzhu Hu, Dehai Luo\*, and **Lin Wang\***, 2026: Chaotic dynamics of atmospheric blocking in an idealized nonlinear model, 
+
+\. Wan Tian, Xiaocen Shen, Yixiong Lu, Wenqi Zhang, Peiqiang Xu, Seok-Woo Son, and **Lin Wang\***, 2026: QBO phase modulates the seasonal prediction skill of Eurasian winter surface air temperature, *Journal of Geophysical Research: Atmospheres*,
 
 \. Zhang Wenqi, **Lin Wang\***, Steven C. Hardiman, and Yihua Lin, 2026: Planetary wave propagation in non-uniform westerlies shapes stratosphere-troposphere teleconnectivity, *Journal of the Atmospheric Sciences*,
 
@@ -9,9 +17,15 @@
 
 \. Fan Hongdou, **Lin Wang\***, Wansuo Duan, Adam A. Scaife, Thomas Spengler, Steven C. Hardiman, and Nick Dunstone, 2026: NAO-like prediction errors of wintertime surface air temperature in SEAS5 tied to positive air-sea feedback over the North Atlantic, 
 
+\. Chen Yunchuan, **Lin Wang\***, Kaiming Hu\*, and Peiqiang Xu, 2026: How do stationary eddies force zonal-mean momentum in the tropics?, *Journal of the Atmospheric Sciences*,
+
+\. Zheng Puxian, Kaiming Hu\*, and **Lin Wang\***, 2026: Seasonally distinct three-dimensional responses of East Asian–Northwest Pacific atmospheric circulation to ENSO, *Journal of Climate*,
+
 \. Gu Wei\*, Yuyun Liu, Lijuan Chen\*, and **Lin Wang**, 2026: Seasonal prediction failure of China's spring 2025 precipitation tied to overestimated tropical oceanic forcing and underrepresented midlatitude atmospheric teleconnections, *Journal of Meteorological Research*, 
 
 \. Wang Yanfeng, Ping Huang\*, Fang Li, and **Lin Wang**, 2026: Persistent global land aridification under climate mitigation scenarios,
+
+\. Latonin M. Mikhail\*, Vladimir A. Semenov, Boris A. Babanov, Mirseid G. Akperov, and **Lin Wang**, 2026: Seasonal signature of the Barents Oscillation and its link to warm Arctic–cold Eurasia pattern, *Journal of Geophysical Research: Atmospheres*,
 
 \. Wang Fan, Yves Balkanski, Jiangfeng Wei, Zhicong Yin, Haishan Chen, **Lin Wang**, Yihui Ding, Gregory R. Carmichael, Michael B. McElroy, Meng Gao\*, 2026: West Asian dust’s dominant impact facilitates early warning of South Asian monsoon precipitation,
 
